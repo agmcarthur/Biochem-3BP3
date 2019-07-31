@@ -83,7 +83,7 @@ _Map of Japan. Source: Wikipedia_
 **Question #4. Undersea cables can be broken by dragging ships anchors or ill-positioned fishing trawlers. If you were doing your PhD on the genomics of the endemic ranid frog _Platymantis_ in French Polynesia, how many undersea cables would need to be damaged for you to lose access to the NCBI?**
 
 <a name="pubmed"></a>
-## PubMeD
+## PubMed
 
 Change websites to the NCBI Homepage, http://www.ncbi.nlm.nih.gov, and select PubMed on the right hand side.  The search box will accept general terms, author names, or PubMed Identifiers (PMID). Yet, PubMed offers much more advanced tools for literature mining. Click on the Advanced link below the search box and use these tools to answer the following questions:
 
