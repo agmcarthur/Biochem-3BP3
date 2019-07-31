@@ -17,9 +17,9 @@ The goal of this lab is to introduce the computing laboratory and terminals, fol
 **Lectures** - [Introduction to Bioinformatics & the Course](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) & [Sequence Similarity & Searching](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx)
 
 **Flash Updates**
-* GenBank. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D23-D28](https://www.ncbi.nlm.nih.gov/pubmed/?term=30395293) & [Nucleic Acids Res. 2019 Jan 8;47(D1):D94-D99](https://www.ncbi.nlm.nih.gov/pubmed/?term=30365038).
-* Ensemble. Provide a review of the Ensembl resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D745-D751](https://www.ncbi.nlm.nih.gov/pubmed/?term=30407521).
-* Growth of Sequencing Data. Provide an overview of the growth of DNA sequencing data as well as predicted growth. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D94-D99](https://www.ncbi.nlm.nih.gov/pubmed/?term=30365038), http://www.ncbi.nlm.nih.gov/genbank/statistics, http://www.genome.gov/sequencingcosts/, and [Science 2011 331:728-9](https://www.ncbi.nlm.nih.gov/pubmed/?term=21311016).
+* *GenBank*. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D23-D28](https://www.ncbi.nlm.nih.gov/pubmed/?term=30395293) & [Nucleic Acids Res. 2019 Jan 8;47(D1):D94-D99](https://www.ncbi.nlm.nih.gov/pubmed/?term=30365038).
+* *Ensemble*. Provide a review of the Ensembl resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D745-D751](https://www.ncbi.nlm.nih.gov/pubmed/?term=30407521).
+* *Growth of Sequencing Data*. Provide an overview of the growth of DNA sequencing data as well as predicted growth. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D94-D99](https://www.ncbi.nlm.nih.gov/pubmed/?term=30365038), http://www.ncbi.nlm.nih.gov/genbank/statistics, http://www.genome.gov/sequencingcosts/, and [Science 2011 331:728-9](https://www.ncbi.nlm.nih.gov/pubmed/?term=21311016).
 
 **Background Reading** (optional)
 * J. Chang. 2015. Core services: Reward bioinformaticians. [Nature 520:151-2](https://www.ncbi.nlm.nih.gov/pubmed/?term=25855439)
