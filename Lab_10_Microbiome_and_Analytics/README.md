@@ -1,4 +1,4 @@
-## Lab # 9 Microbiome and Analytics
+## Lab # 10 Microbiome and Analytics
 
 ## Table of Contents
 1. [Introduction](#intro)
