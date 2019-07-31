@@ -14,7 +14,7 @@
 
 The goal of this lab is to introduce the computing laboratory and terminals, followed by a walk-through and assignment on two key bioinformatics databases – GenBank & Ensembl – plus a few additional online resources.
 
-**Lectures** - [Introduction to Bioinformatics & the Course](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) & [Sequence Similarity & Searching](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx)
+**Lectures** - [Introduction to Bioinformatics & the Course](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx)
 
 **Flash Updates**
 * *GenBank*. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D23-D28](https://www.ncbi.nlm.nih.gov/pubmed/?term=30395293) & [Nucleic Acids Res. 2019 Jan 8;47(D1):D94-D99](https://www.ncbi.nlm.nih.gov/pubmed/?term=30365038).

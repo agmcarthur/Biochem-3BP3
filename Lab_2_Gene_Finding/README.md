@@ -12,7 +12,17 @@
 
 The goal of this lab is to annotate the P450 proteins in a recently sequenced invertebrate genome, using BLAST, Pfam, and other tools plus a number of available databases. This is a problem-based learning lab and you will work both collectively and individually. The results of this week’s lab will be used in next week’s evolution lab.
 
-Flash Updates – BLAST, Pfam, PROSITE
+**Lectures** - [Sequence Similarity & Searching](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx)
+
+**Flash Updates**
+* *BLAST*. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online.  Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). [Nature Education 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096)
+* *Pfam*. Provide a review of the Pfam resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D427-D432](https://www.ncbi.nlm.nih.gov/pubmed/?term=30357350) and [Nucleic Acids Res. 2018 Jul 2;46(W1):W200-W204](https://www.ncbi.nlm.nih.gov/pubmed/?term=29905871).
+* *PROSITE*. Provide a review of the PROSITE resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2013 41(Database issue):D344-7](https://www.ncbi.nlm.nih.gov/pubmed/?term=23161676).
+
+**Background Reading** (optional)
+* Altschul et al. 1990. Basic local alignment search tool. [J Mol Biol. 215: 403-10](https://www.ncbi.nlm.nih.gov/pubmed/?term=2231712)
+* Eddy. 2004. What is a hidden Markov model? [Nat Biotechnol. 22:1315-6](https://www.ncbi.nlm.nih.gov/pubmed/?term=15470472)
+* Haft 2015. Using comparative genomics to drive new discoveries in microbiology. [Curr Opin Microbiol. 23: 189-96](https://www.ncbi.nlm.nih.gov/pubmed/?term=25617609)
 
 **Links**
 * NCBI & GenBank, http://www.ncbi.nlm.nih.gov
