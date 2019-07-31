@@ -14,7 +14,7 @@ In this lab we are going to examine the use of ontologies to provide functional 
 
 **Flash Updates**
 * *Gene Ontology*. Introduce the Gene Ontology. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D330-D338](https://www.ncbi.nlm.nih.gov/pubmed/?term=30395331).
-* *KEGG*. Introduce the Kyoto Encyclopedia of Genes and Genomes (KEGG). See [Nucleic Acids Res. 2015 Oct 17. pii: gkv1070](https://www.ncbi.nlm.nih.gov/pubmed/?term=26476454) and [Nucleic Acids Res. 2019 Jan 8;47(D1):D590-D595](https://www.ncbi.nlm.nih.gov/pubmed/?term=30321428).
+* *KEGG*. Introduce the Kyoto Encyclopedia of Genes and Genomes (KEGG). See [Nucleic Acids Res. 2016 Jan 4;44(D1):D457-62](https://www.ncbi.nlm.nih.gov/pubmed/?term=26476454) and [Nucleic Acids Res. 2019 Jan 8;47(D1):D590-D595](https://www.ncbi.nlm.nih.gov/pubmed/?term=30321428).
 * *CARD*. Introduce the Comprehensive Antibiotic Resistance Database. See [Nucleic Acids Res. 2017 45(Database issue):D566-D573](https://www.ncbi.nlm.nih.gov/pubmed/?term=27789705).
 
 **Background Reading** (optional)
