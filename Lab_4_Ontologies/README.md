@@ -10,7 +10,17 @@
 
 In this lab we are going to examine the use of ontologies to provide functional interpretation of experimental results as well as to drive genome analytics. Our focus will be the Gene Ontology and Antibiotic Resistance Ontology.
 
-Flash Updates – Gene Ontology, KEGG, CARD
+**Lectures** - [Beyond the Gene](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%204%20-%20Beyond%20the%20Gene.pptx)
+
+**Flash Updates**
+* *Gene Ontology*. Introduce the Gene Ontology. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D330-D338](https://www.ncbi.nlm.nih.gov/pubmed/?term=30395331).
+* *KEGG*. Introduce the Kyoto Encyclopedia of Genes and Genomes (KEGG). See [Nucleic Acids Res. 2015 Oct 17. pii: gkv1070. [PMID 26476454] and Nucleic Acids Res. 2019 Jan 8;47(D1):D590-D595](https://www.ncbi.nlm.nih.gov/pubmed/?term=30321428).
+* *CARD*. Introduce the Comprehensive Antibiotic Resistance Database. See [Nucleic Acids Res. 2017 45(Database issue):D566-D573](https://www.ncbi.nlm.nih.gov/pubmed/?term=27789705).
+
+**Background Reading** (optional)
+* Howe et al. 2008. Big data: the future of biocuration. [Nature 455:47-50](https://www.ncbi.nlm.nih.gov/pubmed/?term=18769432)
+* Goble & Wroe. 2004. The Montagues and the Capulets. [Comp Funct Genomics 5: 623-32](https://www.ncbi.nlm.nih.gov/pubmed/?term=18629186)
+* McArthur & Wright. 2015. Bioinformatics of antimicrobial resistance in the age of molecular epidemiology. [Curr Opin Microbiol. 27: 45-50](https://www.ncbi.nlm.nih.gov/pubmed/?term=26241506)
 
 **Links**
 * DAVID, https://david.ncifcrf.gov
