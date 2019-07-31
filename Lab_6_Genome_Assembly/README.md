@@ -13,6 +13,18 @@ The goal of this lab is to improve student usage of the Linux operating system a
 
 Flash Updates - Illumina Sequencing, FASTQ, Galaxy
 
+**Lectures** - [DNA Sequencing & Genome Assembly](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx)
+
+**Flash Updates**
+* *Illumina Sequencing*. Review the Illumina DNA sequencing method, using the MiSeq platform as an example. [Nat Biotechnol. 30:434-9](https://www.ncbi.nlm.nih.gov/pubmed/?term=22522955) and http://www.illumina.com/technology/next-generation-sequencing/sequencing-technology.html (you may use images from the “Illumina Sequencing Introduction” PDF).
+* *FASTQ*. Introduce the FASTQ file format, review how it was developed for Next-Generation Sequencing (NGS). Review the concept of base calling quality and how it is encoded in FASTQ. [Nucleic Acids Res. 2010 38:1767-71](https://www.ncbi.nlm.nih.gov/pubmed/?term=20015970). Note: We will be handling recent Illumina FASTQ data, which uses an offset of 33, see https://en.wikipedia.org/wiki/FASTQ_format.
+* *Galaxy*. Introduce the Galaxy platform for bioinformatics analysis and how it relates to Cloud computing (focus on CloudMan and Amazon Web Services). See [Genome Biol. 2010 11:R86](https://www.ncbi.nlm.nih.gov/pubmed/?term=20738864) and https://wiki.galaxyproject.org/BigPicture/Choices.
+
+**Background Reading** (optional)
+* Myers et al. 2000. A whole-genome assembly of *Drosophila*. [Science 287:2196-2204](https://www.ncbi.nlm.nih.gov/pubmed/?term=10731133)
+* Pop. 2009. Genome assembly reborn: recent computational challenges. [Brief Bioinform. 10:354-66](https://www.ncbi.nlm.nih.gov/pubmed/?term=19482960)
+* Tritt et al. 2012. An integrated pipeline for *de novo* assembly of microbial genomes. [PLoS One. 7:e42304](https://www.ncbi.nlm.nih.gov/pubmed/?term=23028432)
+
 **The Lab**
 * The computers in the laboratory are terminals - clients within a large maintained computer system. They have limited computational power - often we will be using them to access web-based tools or specialized servers with more computational resources.
 * You log into the computers using your MacID. You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out - **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
