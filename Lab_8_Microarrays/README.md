@@ -12,7 +12,16 @@
 
 The goal of this lab is to review the analysis of microarray data.
 
-Flash Updates - Microarrays, Normalization, False Discovery
+**Lectures** - [Gene Expression Analysis](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%207%20-%20Gene%20Expression.pptx)
+
+**Flash Updates**
+* *Microarrays*. Review microarray technology for measurement of absolute or relative gene expression levels. Highlight the key difference between microarrays and RNA sequencing approaches. See [Nature Education 1:195](http://www.nature.com/scitable/topicpage/transcriptome-connecting-the-genome-to-gene-function-605) and http://www.nature.com/scitable/topicpage/scientists-can-study-an-organism-s-entire-6526266
+* *Normalization*. Introduce the concept of normalization and why it is needed in microarray analysis. Review the major normalization approaches. See Quackenbush. 2002. Microarray data normalization and transformation. [Nat Genet. 32 Suppl:496-501](https://www.ncbi.nlm.nih.gov/pubmed/?term=12454644)
+* *False Discovery*. Introduce the concept of the false discovery rate and how it is handled in genomic analyses. See Storey & Tibshirani. 2003. Statistical significance for genomewide studies. [Proc Natl Acad Sci U S A. 100: 9440-5](https://www.ncbi.nlm.nih.gov/pubmed/?term=12883005) and http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
+
+**Background Reading** (optional)
+Hahn et al. 2014. The transcriptional response to oxidative stress during vertebrate development: effects of tert-butylhydroquinone and 2,3,7,8-tetrachlorodibenzo-p-dioxin. [PLoS One 9:e113158](https://www.ncbi.nlm.nih.gov/pubmed/?term=25402455)
+Ferella et al. 2014. Gene expression changes during Giardia-host cell interactions in serum-free medium. [Mol Biochem Parasitol. 197:21-3](https://www.ncbi.nlm.nih.gov/pubmed/?term=25286381)
 
 **Links**
 * http://mev.tm4.org - Microarray Software Suite TM4’s Multi-Experiment Viewer
