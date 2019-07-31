@@ -14,7 +14,14 @@
 
 The goal of this lab is to introduce the computing laboratory and terminals, followed by a walk-through and assignment on two key bioinformatics databases – GenBank & Ensembl – plus a few additional online resources.
 
-Flash Updates – GenBank, Ensemble, Growth of Sequencing Data
+**Flash Updates** – GenBank, Ensemble, Growth of Sequencing Data
+
+**Lectures** - [Introduction to Bioinformatics & the Course](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) & [Sequence Similarity & Searching](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx)
+
+**Background Reading** (optional)
+* J. Chang. 2015. Core services: Reward bioinformaticians. Nature 520:151-2. [PMID 25855439](https://www.ncbi.nlm.nih.gov/pubmed/?term=25855439)
+* Goodman et al. 2014. Ten simple rules for the care and feeding of scientific data. PLoS Comput Biol. 10(4):e1003542. [PMID 24763340](https://www.ncbi.nlm.nih.gov/pubmed/?term=24763340)
+* Burge et al. 2012. Biocurators and biocuration: surveying the 21st century challenges. Database Mar 20:bar059. [PMID 22434828](https://www.ncbi.nlm.nih.gov/pubmed/?term=22434828)
 
 **Links**
 * NCBI & GenBank, http://www.ncbi.nlm.nih.gov
