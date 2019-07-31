@@ -19,9 +19,9 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 * *Metagenomics*. Introduce metagenomics in the context of molecular epidemiology. See [Expert Rev Mol Diagn. 2018 Jul;18(7):605-615](https://www.ncbi.nlm.nih.gov/pubmed/?term=29898605).
 
 **Background Reading** (optional)
-* *Mutreja et al .2011. Evidence for several waves of global transmission in the seventh cholera pandemic. [Nature 477: 462-5](https://www.ncbi.nlm.nih.gov/pubmed/?term=21866102)
-* *Cassidy et al. 2015. Neolithic and Bronze Age migration to Ireland and establishment of the insular Atlantic genome. [Proc Natl Acad Sci U S A. Dec 28. pii: 201518445](https://www.ncbi.nlm.nih.gov/pubmed/?term=26712024)
-* *Li & Durbin. 2010. Fast and accurate long-read alignment with Burrows-Wheeler transform. [Bioinformatics 26: 589-95](https://www.ncbi.nlm.nih.gov/pubmed/?term=20080505)
+* Mutreja et al .2011. Evidence for several waves of global transmission in the seventh cholera pandemic. [Nature 477: 462-5](https://www.ncbi.nlm.nih.gov/pubmed/?term=21866102)
+* Cassidy et al. 2015. Neolithic and Bronze Age migration to Ireland and establishment of the insular Atlantic genome. [Proc Natl Acad Sci U S A. Dec 28. pii: 201518445](https://www.ncbi.nlm.nih.gov/pubmed/?term=26712024)
+* Li & Durbin. 2010. Fast and accurate long-read alignment with Burrows-Wheeler transform. [Bioinformatics 26: 589-95](https://www.ncbi.nlm.nih.gov/pubmed/?term=20080505)
 
 **Links**
 * http://wgsa.net - Rapid Online Interpretation of Microbial Genomics for Surveillance and Epidemiology
