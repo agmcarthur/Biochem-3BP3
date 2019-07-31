@@ -12,7 +12,16 @@
 
 In the last lab you worked to identify and develop a gene model for a putative P450 gene in the *Saccoglossus kowalevskii* genome. Using the available evidence, you worked to define intron and exon boundaries as well as predict the encoded protein sequence. Yet you may have questioned whether your exons were under- or over-estimated and whether you missed any exons. Additionally, you used BLAST, Pfam, and PROSITE to provide a first-pass assignment to P450 family and subfamily. The goal of this lab is to use the methods of evolutionary biology to examine the accuracy of your gene model and preliminary annotation. Unlike the last lab, the session is a step-by-step process led by Dr. McArthur.
 
-Flash Updates – Terminology, Sequence Alignment, Phylogenetic Trees
+**Lectures** - [Evolutionary Biology](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%203%20-%20Evolutionary%20Biology.pptx)
+
+**Flash Updates**
+* *Terminology*. Explain the difference between the terms “similarity” and “homology”. Differentiate between the terms “homolog”, “paralog”, “ortholog”. See [Annu Rev Genet. 2005;39:309-38](https://www.ncbi.nlm.nih.gov/pubmed/?term=16285863) and http://www.ncbi.nlm.nih.gov/books/NBK62051/.
+* *Sequence Alignment*. Explain the difference between local alignment (e.g. BLAST) and global alignment (e.g. CLUSTAL) and introduce the CLUSTAL family of algorithms. See [Protein Sci. 2018 Jan;27(1):135-145](https://www.ncbi.nlm.nih.gov/pubmed/?term=28884485).
+* *Phylogenetic Trees*. Overview what a phylogenetic tree represents and the major concepts for its interpretation. See Baum 2008. Reading a phylogenetic tree: The meaning of monophyletic groups. [Nature Education 1: 190](http://www.nature.com/scitable/topicpage/reading-a-phylogenetic-tree-the-meaning-of-41956).
+
+**Background Reading** (optional)
+* Dejong & Wilson. 2014. The Cytochrome P450 superfamily complement (CYPome) in the annelid *Capitella teleta*. [PLoS One 9:e107728](https://www.ncbi.nlm.nih.gov/pubmed/?term=25390889)
+* Bos et al. 2011. A draft genome of *Yersinia pestis* from victims of the Black Death. [Nature 478: 506-10](https://www.ncbi.nlm.nih.gov/pubmed/?term=21993626)
 
 **Links**
 * Clustal, http://www.clustal.org
