@@ -120,7 +120,7 @@ If you are doing a research project, after you find a successful set of search t
 
 > Flash Update - GenBank
 
-The above exercise illustrates how the combination of data (i.e. citation information), classification (i.e. control vocabularies) and unique identifiers (i.e. PMID) can be used to generate powerful informatics resources. Similar efforts exist for gene sequences. Return to the NCBI homepage, http://www.ncbi.nlm.nih.gov, and search all databases for the drug *colistin*. This gives you a sense of the diversity of data available for a single drug: associated genes, gene expression (GEO), chemical assays, and chemical compound data. Note that there are over 500,000 protein sequences that have an association with colistin. Click on the *Protein* link to view the list and you’ll see the top of the list is predominantly Mcr and Pmr proteins. View the **top 100 hits** and click on the protein in the list with accession AGK23098.1 (PmrA) to view GenBank Format Data, a verbose file format for describing molecular data. While software has been developed to read GenBank format, it is primarily for human consumption.
+The above exercise illustrates how the combination of data (i.e. citation information), classification (i.e. controlled vocabularies) and unique identifiers (i.e. PMID) can be used to generate powerful informatics resources. Similar efforts exist for gene sequences. Return to the NCBI homepage, http://www.ncbi.nlm.nih.gov, and search all databases for the drug *colistin*. This gives you a sense of the diversity of data available for a single drug: associated genes, gene expression (GEO), chemical assays, and chemical compound data. Note that there are over 1,700,000 protein sequences that have an association with colistin. Click on the *Protein* link to view the list and you’ll see the top of the list is predominantly Mcr and Pmr proteins. View the **top 100 hits** and click on the protein in the list with accession AGK23098.1 (PmrA) to view GenBank Format Data, a verbose file format for describing molecular data. While software has been developed to read GenBank format, it is primarily for human consumption.
 
 **Question #11. Find the following information in the GenBank data file:**
 
@@ -143,15 +143,15 @@ In the scientific literature and in discussion, researchers predominantly refer 
 
 GenBank is not just for browsing data, but instead you can search based on sequence. Next week’s lecture and lab is going to detail the Basic Local Alignment Search Tool (BLAST) algorithm, but try it now to see what is does by clicking on the *Run BLAST* link. This will launch an interface to compare your Pmr protein against curated reference proteins in GenBank: select **Non-redundant protein sequences (nr) & 500 targets**.
 
-**Question #13. Which functional domains are predicted in your protein and what does each do (click on the conserved domain graphic)?**
+**Record the Request ID (RID) of your search, so you don't have to repeat it later**
+
+**Question #13. Which functional domains are predicted in your protein and what does each do (select on Graphic Summary and click on the domain for details)?**
 
 **Question #14. Give the % similarity of the best “hit” and the worst “hit”.**
 
-**Question #15. Take a look at the Taxonomy report? Are there any similar proteins in a non-bacteria?**
+**Question #15. Take a look at the Taxonomy report. Are there any similar proteins in a non-bacteria?**
 
-**Problem #1. You have found a non-bacteria protein similar to a bacterial Pmr protein. Note the Accession (XP_005979972), look up the GenBank file, perform BLAST as above and then look at the “Distance Tree of Results”. Do you think this gene is part of that genome or a possible sequence contaminant? Use the information in the GenBank record, the BLAST results, and the Tree to make your decision.**
-
-_Feel free to examine the spider protein as a bonus exercise (PRD21386.1)_
+**Problem #1. You have found a non-bacteria protein similar to a bacterial Pmr protein. Note the Accession, look up the GenBank file, perform BLAST as above and then look at the “Distance Tree of Results”. Do you think this gene is part of that genome or a possible sequence contaminant? Use the information in the GenBank record, the BLAST results, and the Tree to make your decision.**
 
 <a name="ensembl"></a>
 ## Ensembl
