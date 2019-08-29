@@ -38,7 +38,7 @@ The goal of this lab is to annotate the P450 proteins in a recently sequenced in
 * All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
 
 **Grading**
-* The WORD file for answers is available on A2L, be sure to submit your answers on A2L before the deadline
+* The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline
 * An answer key will be provided on A2L after the deadline
 * Each question worth 1 point = 12 points maximum
 

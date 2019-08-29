@@ -44,7 +44,7 @@ Please de-select the “Read-only” option as demonstrated.
 ```
 
 **Submit for Grading:**
-* The WORD file for answers is available on A2L. An answer key will be provided on A2L after the deadline. **4 points (1 point per question)**
+* The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline. **4 points (1 point per question)**
 * Your FASTA sequence file (seqdump.txt) **1 point**
 * Your PHYLIP alignment file (seqdump.txt.phy) **1 point**
 * Your RAxML tree file (RAxML_bipartitions.seqdump.txt). As the RAxML Black Box is a shared resource and can by busy, there is no deadline for uploading your tree file to Avenue to Learn but the final grade for the lab will not be awarded until it is handed in. **1 point**

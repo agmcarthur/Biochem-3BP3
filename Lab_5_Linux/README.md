@@ -27,9 +27,9 @@ The goal of this lab is to introduce the Linux operating system and the *command
 * All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
 
 **Grading**
+* This is a participation lab, not graded.
 * The WORD file for answers is available on A2L
 * An answer key will be provided on A2L after the deadline.
-* This is a participation lab, not graded.
 
 > Instructor, backup files and scripts (with permissions set) can be found in files.tar.gz
 

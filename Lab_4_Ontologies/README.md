@@ -32,7 +32,7 @@ In this lab we are going to examine the use of ontologies to provide functional 
 * All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
 
 **Grading**
-* The WORD file for answers is available on A2L
+* The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline.
 * An answer key will be provided on A2L after the deadline.
 * Points listed beside each question, total = 33
 
