@@ -36,7 +36,7 @@ The goal of this lab is to introduce the computing laboratory and terminals, fol
 * All files and work on the computers will be lost when you log out.  Be sure to save your work elsewhere. 
 
 **Grading**
-* The WORD file for answers is available on A2L, be sure to submit your answers on A2L before the deadline
+* The WORD file for answers is available on A2L, be sure to submit your answers on *A2L Quizzes* before the deadline
 * An answer key will be provided on A2L after the deadline
 * Questions are group participation, zero points
 * Problems are worth 5 points each (-1 for each error) = 15 points maximum
