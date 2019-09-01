@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#intro)
-2. [Saccoglossus kowalevskii & Splicing](#acorn)
+2. [Carcharodon carcharias & Splicing](#shark)
 3. [Finding Putative P450s via BLAST](#blast)
 4. [Predicting a Single P450 Gene](#p450)
 5. [Annotating a Single P450 Gene](#annotate)
@@ -10,7 +10,7 @@
 <a name="intro"></a>
 ## Introduction
 
-The goal of this lab is to annotate the P450 proteins in a recently sequenced invertebrate genome, using BLAST, Pfam, and other tools plus a number of available databases. This is a problem-based learning lab and you will work both collectively and individually. The results of this week’s lab will be used in next week’s evolution lab.
+The goal of this lab is to annotate the P450 proteins in the recently sequenced Great White Shark genome, using BLAST, Pfam, and other tools plus a number of available databases. This is a problem-based learning lab and you will work both collectively and individually. The results of this week’s lab will be used in next week’s evolution lab.
 
 **Lectures** - [Sequence Similarity & Searching](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx)
 
@@ -20,6 +20,7 @@ The goal of this lab is to annotate the P450 proteins in a recently sequenced in
 * *PROSITE*. Provide a review of the PROSITE resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2013 41(Database issue):D344-7](https://www.ncbi.nlm.nih.gov/pubmed/?term=23161676).
 
 **Background Reading** (optional)
+* Marra et al. 2019. White shark genome reveals ancient elasmobranch adaptations associated with wound healing and the maintenance of genome stability. [Proc Natl Acad Sci U.S.A. 2019 Feb 19, Epub ahead of print](https://www.ncbi.nlm.nih.gov/pubmed/30782839)
 * Altschul et al. 1990. Basic local alignment search tool. [J Mol Biol. 215: 403-10](https://www.ncbi.nlm.nih.gov/pubmed/?term=2231712)
 * Eddy. 2004. What is a hidden Markov model? [Nat Biotechnol. 22:1315-6](https://www.ncbi.nlm.nih.gov/pubmed/?term=15470472)
 * Haft 2015. Using comparative genomics to drive new discoveries in microbiology. [Curr Opin Microbiol. 23: 189-96](https://www.ncbi.nlm.nih.gov/pubmed/?term=25617609)
@@ -27,7 +28,7 @@ The goal of this lab is to annotate the P450 proteins in a recently sequenced in
 **Links**
 * NCBI & GenBank, http://www.ncbi.nlm.nih.gov
 * Ensembl, http://www.ensembl.org
-* *Saccoglossus kowalevskii* genome, https://metazome.jgi.doe.gov
+* *Carcharodon carcharias* genome, https://www.ncbi.nlm.nih.gov/nuccore/QUOW00000000.1/
 * Translate tool, http://web.expasy.org/translate/
 * Pfam, http://pfam.xfam.org
 * Prosite, http://prosite.expasy.org
@@ -42,14 +43,14 @@ The goal of this lab is to annotate the P450 proteins in a recently sequenced in
 * An answer key will be provided on A2L after the deadline
 * Each question worth 1 point = 12 points maximum
 
-<a name="acorn"></a>
-## *Saccoglossus kowalevskii*
+<a name="shark"></a>
+## *Carcharodon carcharias*
 
-![Acorn Worm. Source: Lowe Laboratory](http://lowe.stanford.edu/wp-content/uploads/2014/05/Saccoglossus-adult.jpg)
+![Carcharodon carcharias. Source: IUCN Red List of Threatened Species](vulnerable.jpg)
 
-_Acorn Worm. Source: Lowe Laboratory_
+_Carcharodon carcharias. Source: IUCN Red List of Threatened Species_
 
-Dr. Joanna Wilson (Biology) or Dr. McArthur will introduce *Saccoglossus kowalevskii* (acorn worm) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome. Using query sequences from the zebrafish, fruit fly, *C. elegans*, and human genomes, it is your job to use the BLAST tools and genome browser at the *Saccoglossus kowalevskii* website to collectively find all the putative P450 genes in this genome. Once the class had developed a list of putative genes, each student will be assigned a gene to map out intron/exon boundaries and the predicted protein sequence. Remember what you have learned about splicing sites:
+Dr. Joanna Wilson (Biology) or Dr. McArthur will introduce *Carcharodon carcharias* (great white shart) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome. Using query sequences from the zebrafish and human genomes, it is your job to use the BLAST tools and genome browser at NCBI to collectively find all the putative P450 genes in this genome. Once the class had developed a list of putative genes, each student will be assigned a gene to map out intron/exon boundaries and the predicted protein sequence. Remember what you have learned about splicing sites:
 
 ![mRNA Splicing. Source: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RNA_splicing_reaction.svg/1280px-RNA_splicing_reaction.svg.png)
 
