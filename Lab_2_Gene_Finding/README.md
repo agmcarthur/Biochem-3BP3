@@ -99,7 +99,7 @@ To view the NCBI Genome Browser, view the best HSP for your TBLASTN hit and sele
 
 In the NCBI Genome Browser, configure the Tracks to include a custom track for your TBLASTN results using your RID and then zoom out until you see all the HSPs. If your gene is on the reverse strand, you may want to use *Tools -> Flip Strands*. You may also want to turn on the *Six-frame translations* track when you are zoomed in on putative exons so you can better visualize the start and stop codons relative to the splice sites.
 
-Your goal is to *Set Markers* for each exon in your putative P450 gene, using the TBLASTN hits to guide to you exons and your inspection of the sequences to identify the correct splice sites. If you drag/highlight a region of sequence, you can *Set New Marker for Selection* and subsequently rename it, tweak its co-ordinates, and down load the exon nucleotide sequences. 
+Your goal is to *Set Markers* for each exon in your putative P450 gene, using the TBLASTN hits to guide you to exons and your inspection of the sequence to identify the correct splice sites. If you drag/highlight a region of sequence, you can *Set New Marker for Selection* and subsequently rename it, tweak its co-ordinates, and down load the exon nucleotide sequences. Once you have all the exon sequences, stitch together a theoretical mRNA and translate it to obtain your putative P450 sequence.
 
 **Question #5. List the query used to initially predict your gene (e.g. CYP4V7 in zebrafish, CYP6A2 in fruit fly).**
 
