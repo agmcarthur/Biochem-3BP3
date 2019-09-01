@@ -101,6 +101,8 @@ In the NCBI Genome Browser, configure the Tracks to include a custom track for y
 
 Your goal is to *Set Markers* for each exon in your putative P450 gene, using the TBLASTN hits to guide you to exons and your inspection of the sequence to identify the correct splice sites. If you drag/highlight a region of sequence, you can *Set New Marker for Selection* and subsequently rename it, tweak its co-ordinates, and download the exon nucleotide sequences. Once you have all the exon sequences, stitch together a theoretical mRNA and translate it to obtain your putative P450 sequence.
 
+![Putative Exon](exon.jpg)
+
 **Question #5. List the query used to initially predict your gene (e.g. CYP4V7 in zebrafish, CYP6A2 in fruit fly).**
 
 **Question #6. List your gene's co-ordinates within the genome assembly (possibly includes introns):**
