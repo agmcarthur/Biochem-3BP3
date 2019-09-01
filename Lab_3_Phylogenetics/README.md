@@ -10,7 +10,7 @@
 <a name="intro"></a>
 ## Introduction
 
-In the last lab you worked to identify and develop a gene model for a putative P450 gene in the *Saccoglossus kowalevskii* genome. Using the available evidence, you worked to define intron and exon boundaries as well as predict the encoded protein sequence. Yet you may have questioned whether your exons were under- or over-estimated and whether you missed any exons. Additionally, you used BLAST, Pfam, and PROSITE to provide a first-pass assignment to P450 family and subfamily. The goal of this lab is to use the methods of evolutionary biology to examine the accuracy of your gene model and preliminary annotation. Unlike the last lab, the session is a step-by-step process led by Dr. McArthur.
+In the last lab you worked to identify and develop a gene model for a putative P450 gene in the *Carcharodon carcharias* genome. Using the available evidence, you worked to define intron and exon boundaries as well as predict the encoded protein sequence. Yet you may have questioned whether your exons were under- or over-estimated and whether you missed any exons. Additionally, you used BLAST, Pfam, and PROSITE to provide a first-pass assignment to P450 family and subfamily. The goal of this lab is to use the methods of evolutionary biology to examine the accuracy of your gene model and preliminary annotation. 
 
 **Lectures** - [Evolutionary Biology](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%203%20-%20Evolutionary%20Biology.pptx)
 
@@ -68,7 +68,7 @@ Once you have selected your 30 sequences, use the BLAST results page to download
 Computer -> UDiskBOOT -> Users -> username -> Downloads -> seqdump.txt
 ```
 
-Find the download file and right-click on it to open it in WordPad, then select *View -> Word Wrap -> No Wrap*. You should now see your selected 30 sequences in FASTA format, a common format for storing sequences. We will discuss the FASTA format and its history later in the course. Using WordPad, edit the file to add your *S. kowalevskii* protein sequence to the top of the file, using a definition line like “putative CYP4V Saccoglossus kowalevskii”. Save the file and close WordPad.
+Find the download file and right-click on it to open it in WordPad, then select *View -> Word Wrap -> No Wrap*. You should now see your selected 30 sequences in FASTA format, a common format for storing sequences. We will discuss the FASTA format and its history later in the course. Using WordPad, edit the file to add your *S. kowalevskii* protein sequence to the top of the file, using a definition line like “putative CYP4V Carcharodon carcharias”. Save the file and close WordPad.
 
 Now you have a FASTA format data file of representative P450 sequences related to your new gene. Click on the Windows icon at the bottom left of your screen and use the search box to search for the program *Mesquite*. Double click to start this program (it may take a moment to appear and start). Mesquite is a software package for visualizing and editing multiple sequence alignments. Perform the following:
 
