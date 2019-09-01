@@ -29,6 +29,7 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 * NCBI & GenBank, http://www.ncbi.nlm.nih.gov
 * Ensembl, http://www.ensembl.org
 * *Carcharodon carcharias* genome, https://www.ncbi.nlm.nih.gov/nuccore/QUOW00000000.1/
+* NCBI TBLASTN, https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=tblastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 * Translate tool, http://web.expasy.org/translate/
 * Pfam, http://pfam.xfam.org
 * Prosite, http://prosite.expasy.org
@@ -94,12 +95,16 @@ To view the NCBI Genome Browser, view the best HSP for your TBLASTN hit and sele
 
 ![HSP View](hspview.jpg)
 
-**Hint**: In the NCBI Genome Browser, turn on the “Reference sequence” track. When you are zoomed in on a region you want to save, hit on that track’s widget and select “Save track data”. The "Gaps" track can also show where genome sequencing data does not exist, in which case you will only be able to determine a partial gene sequence.
+**Note that the co-ordinates in the HSP alignment will help you determine which strand your putative P450 is encoded upon, i.e. forward or reverse strand.**
+
+In the NCBI Genome Browser, configure the Tracks to include a custom track for your TBLASTN results using your RID and then zoom out until you see all the HSPs. If your gene is on the reverse strand, you may want to use *Tools -> Flip Strands*. You may also want to turn on the *Six-frame translations* track when you are zoomed in on putative exons so you can better visualize the start and stop codons relative to the splice sites.
+
+Your goal is to *Set Markers* for each exon in your putative P450 gene, using the TBLASTN hits to guide to you exons and your inspection of the sequences to identify the correct splice sites. If you drag/highlight a region of sequence, you can *Set New Marker for Selection* and subsequently rename it, tweak its co-ordinates, and down load the exon nucleotide sequences. 
 
 **Question #5. List the query used to initially predict your gene (e.g. CYP4V7 in zebrafish, CYP6A2 in fruit fly).**
 
 **Question #6. List your gene's co-ordinates within the genome assembly (possibly includes introns):**
-* Contig: 
+* Contig Accession: 
 * Start codon: 
 * End codon:
 * Strand:
@@ -125,7 +130,8 @@ To view the NCBI Genome Browser, view the best HSP for your TBLASTN hit and sele
 * CYPs > 40% identical aa in same family (numeric)
 * CYPs > 55% identical aa in same subfamily (alpha)
 
-This completes today’s laboratory. The protein you predicted today will be used in the next lab, which uses phylogenetics to further determine the accuracy of your prediction plus test your P450 family assignment.
+This completes today’s laboratory. The protein you predicted today will be used in the next lab, which uses phylogenetics to further determine the accuracy of your prediction plus test your P450 family assignment. **DO NOT LOOSE YOUR PROTEIN SEQUENCE**.
+
 
 
 
