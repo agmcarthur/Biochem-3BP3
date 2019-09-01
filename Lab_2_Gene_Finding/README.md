@@ -121,7 +121,7 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 
 > Flash Update - PROSITE
 
-**Paste your putative P450 protein sequence into your WORD file or otherwise keep a copy of it for next week**
+**Paste your putative P450 protein sequence into your WORD file or otherwise keep a copy of it for next week.**
 
 **Question #6. How many amino acids long is your putative P450? Is this length similar to P450 proteins in GenBank from other organisms?**
 
