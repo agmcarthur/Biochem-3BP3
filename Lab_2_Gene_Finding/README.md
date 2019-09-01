@@ -65,7 +65,13 @@ _Introns and Exons (py = pyrimidines, i.e. C or U). Source: Wikipedia_
 
 > Flash Update - BLAST
 
-Using your query sequence (as protein!) in FASTA format, search the *Saccoglossus kowalevskii* genome sequence at the DOE website (the unmasked genome) for all the possible P450 genes. Remember, since you are submitting a protein query against a genome that contains both introns & exons, a single putative P450 gene will likely have multiple High-scoring Segment Pairs (HSPs). Also, since all P450s are related, your single query may detect more than one putative P450 gene. 
+Using your query sequence (as protein!) in FASTA format, search the *Carcharodon carcharias* genome sequence at NCBI for all the possible P450 genes. Remember, since you are submitting a protein query against a genome that contains both introns & exons, a single putative P450 gene will likely have multiple High-scoring Segment Pairs (HSPs). Also, since all P450s are related, your single query may detect more than one putative P450 gene. 
+
+NCBI TBLASTN: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=tblastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
+
+Customize your search to focus on the *Carcharodon carcharias* genome:
+
+![TBLAST Search Settings](searchset.jpg)
 
 **Question #1. How many HSPs in your best BLAST hit?**
 
