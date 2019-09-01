@@ -73,11 +73,13 @@ Customize your search to focus on the *Carcharodon carcharias* genome assembly:
 
 ![TBLAST Search Settings](searchset.jpg)
 
+**Record your TBLASTN Request ID (RID) so you don't loose your results (expires after 24 hours)**
+
 **Question #1. How many HSPs in your best BLAST hit?**
 
 **Question #2. How many possible P450 genes did your search identify? What was your cut-off?**
 
-Once you have generated a list of possible P450 genes in *Carcharodon carcharias*, enter the number of HSPs and contig number of the top BLAST hit into the class spreadsheet so we can generate a master list from all queries.
+Once you have generated a list of possible P450 genes in *Carcharodon carcharias* based on your query, enter the number of HSPs and contig accession of your **top BLAST hit** into the class spreadsheet so we can generate a master list from all queries.
 
 **Question #3. What is the class’ prediction of the number of P450 genes in this genome based on the best BLAST hits?**
 

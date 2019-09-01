@@ -143,7 +143,7 @@ In the scientific literature and in discussion, researchers predominantly refer 
 
 GenBank is not just for browsing data, but instead you can search based on sequence. Next week’s lecture and lab is going to detail the Basic Local Alignment Search Tool (BLAST) algorithm, but try it now to see what is does by clicking on the *Run BLAST* link. This will launch an interface to compare your Pmr protein against curated reference proteins in GenBank: select **Non-redundant protein sequences (nr) & 500 targets**.
 
-**Record the Request ID (RID) of your search, so you don't have to repeat it later**
+**Record the Request ID (RID) of your search, so you don't have to repeat it later (expires after 24 hours)**
 
 **Question #13. Which functional domains are predicted in your protein and what does each do (select on Graphic Summary and click on the domain for details)?**
 
