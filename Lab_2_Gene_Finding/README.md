@@ -69,7 +69,7 @@ Using your query sequence (as protein!) in FASTA format, search the *Carcharodon
 
 NCBI TBLASTN: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=tblastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
-Customize your search to focus on the *Carcharodon carcharias* genome:
+Customize your search to focus on the *Carcharodon carcharias* genome assembly:
 
 ![TBLAST Search Settings](searchset.jpg)
 
@@ -77,7 +77,7 @@ Customize your search to focus on the *Carcharodon carcharias* genome:
 
 **Question #2. How many possible P450 genes did your search identify? What was your cut-off?**
 
-Once you have generated a list of possible P450 genes in *Saccoglossus kowalevskii*, enter the number of HSPs and contig number of the top BLAST hit into the class spreadsheet so we can generate a master list from all queries.
+Once you have generated a list of possible P450 genes in *Carcharodon carcharias*, enter the number of HSPs and contig number of the top BLAST hit into the class spreadsheet so we can generate a master list from all queries.
 
 **Question #3. What is the class’ prediction of the number of P450 genes in this genome based on the best BLAST hits?**
 
