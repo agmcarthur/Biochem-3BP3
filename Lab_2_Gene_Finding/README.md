@@ -42,7 +42,8 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 **Grading**
 * The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline
 * An answer key will be provided on A2L after the deadline
-* Each question worth 1 point = 12 points maximum
+* Questions are group participation, zero points
+* Problems are worth 5 points each (-1 for each error) = 15 points maximum
 
 <a name="shark"></a>
 ## *Carcharodon carcharias*
@@ -84,7 +85,7 @@ Once you have generated a list of possible P450 genes in *Carcharodon carcharias
 
 **Question #3. What is the class’ prediction of the number of P450 genes in this genome based on the best BLAST hits?**
 
-**Question #4. Did any of the genes predicted with your query overlap those found with other queries? Why?**
+**Problem #1. Were any of the genes predicted by the class found on the same contig accession? What does this say about our collective search method and P450 genes in this genome?**
 
 <a name="p450"></a>
 ## Predicting a Single P450 Gene
@@ -103,17 +104,15 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 
 ![Putative Exon](exon.jpg)
 
-**Question #5. List the query used to initially predict your gene (e.g. CYP4V7 in zebrafish, CYP6A2 in fruit fly).**
+**Question #4. List the query used to initially predict your gene (e.g. CYP4V7 in zebrafish, CYP6A2 in fruit fly).**
 
-**Question #6. List your gene's co-ordinates within the genome assembly (possibly includes introns):**
+**Question #5. List your gene's co-ordinates within the genome assembly (possibly includes introns):**
 * Contig Accession: 
 * Start codon: 
 * End codon:
 * Strand:
 
-**Question #7. How many exons are in your P450 gene? List their co-ordinates.**
-
-**Question #8. Do you think your gene model is correct or do you have concerns about your exon detection and intron/exon boundaries? Why?**
+**Problem #2. How many exons are in your P450 gene? List their co-ordinates. Do you think your gene model is correct or do you have concerns about your exon detection and intron/exon boundaries? Why?**
 
 <a name="annotate"></a>
 ## Annotating a Single P450 Gene
@@ -122,13 +121,15 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 
 > Flash Update - PROSITE
 
-**Question #9. Paste in your gene’s predicted protein sequence. How many amino acids long is it? Is this length similar to P450 proteins in GenBank from other organisms?**
+**Paste your putative P450 protein sequence into your WORD file or otherwise keep a copy of it for next week**
 
-**Question #10. What Pfam domains are predicted for your protein sequence? What predictions can you make about the function of this protein?**
+**Question #6. How many amino acids long is your putative P450? Is this length similar to P450 proteins in GenBank from other organisms?**
 
-**Question #11. What PROSITE motifs are predicted for your protein sequence? What predictions can you make about the function of this protein?**
+**Question #7. What Pfam domains are predicted for your protein sequence? What predictions can you make about the function of this protein?**
 
-**Question #12. Given all your analysis results, including BLAST against GenBank, can you predict which P450 family or subfamily this protein belongs to (e.g. CYP2, CYP4, CYP19, etc.)? Remember:**
+**Question #8. What PROSITE motifs are predicted for your protein sequence? What predictions can you make about the function of this protein?**
+
+**Problem #3. Include your predicted protein sequence as part of this answer so the TA can assess your putative P450. Given all your analysis results, including BLAST against GenBank, can you predict which P450 family or subfamily this protein belongs to (e.g. CYP2, CYP4, CYP19, etc.)? Do you think it is functional? Remember:**
 * CYPs > 40% identical aa in same family (numeric)
 * CYPs > 55% identical aa in same subfamily (alpha)
 
