@@ -57,10 +57,8 @@ We are first going to compare our predicted sequences to related sequences in ot
 To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr), for 5000 targets, hits restricted to vertebrates and expectation value e-10 or better**: http://blast.ncbi.nlm.nih.gov/.
 
 ![Restrict BLASTP to Vertebrates](vertebrates.jpg)
-_Restrict BLASTP to Vertebrates_
 
 ![Restrict BLASTP Hits](restricthits.jpg)
-_Restrict BLASTP Hits_
 
 **Record your BLASTP Request ID (RID) so you don't loose your results (expires after 24 hours)**
 
@@ -147,22 +145,18 @@ To generate a maximum likelihood phylogenetic tree for these data, we are going 
 At CIPRES, first create a new folder, giving it a brief description:
 
 ![Create a New Folder](createfolder.jpg)
-_Create a New Folder_
 
 Click on *Data* and Upload your PHYLIP format file:
 
 ![Upload File](uploadfile.jpg)
-_Upload File_
 
 Now Click on *Tasks* and *Create New Task*, giving it a description. The Input Data is the PHYLIP file you have already loaded, the Task is *RAxML-HPC BlackBox*:
 
 ![RAxML BlackBox](blackbox.jpg)
-_RAxML BlackBox_
 
 The parameters are as follows:
 
 ![RAxML Parameters](parameters.jpg)
-_[RAxML Parameters_
 
 Once the parameters are set, you can *Save and Run Task*. You will get an email notifying you when the job is complete.
 
