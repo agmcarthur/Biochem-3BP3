@@ -48,7 +48,7 @@ Please de-select the “Read-only” option as demonstrated.
 * An answer key will be provided on A2L after the deadline
 * Questions are group participation, zero points
 * Problems are worth 5 points each (-1 for each error) = 5 points maximum
-* Your FASTA sequence file (seqdump.txt), PHYLIP alignment file, and RAxML tree file (RAxML_bipartitions.seqdump.txt) should be uploaded to A2L for review by the TA.
+* Your FASTA sequence file (seqdump.txt), PHYLIP alignment file (seqdump.txt.phy), and RAxML tree file (RAxML_bipartitions.seqdump.txt) should be uploaded to A2L for review by the TA.
 
 <a name="msa"></a>
 ## From Sequences to a Multiple Sequence Alignment
@@ -191,7 +191,7 @@ When your own RAxML results are ready, you want to download the tree with branch
 
 **Problem #1. What is your final conclusion about the family and subfamily affiliation about your protein? Has it be placed in a known family or subfamily or is it perhaps a new family or subfamily? Can you make a functional prediction?**
 
-**In addition to answering Problem #1 on A2L, your FASTA sequence file (seqdump.txt), PHYLIP alignment file, and RAxML tree file (RAxML_bipartitions.seqdump.txt) should also be uploaded to A2L for review by the TA.**
+**In addition to answering Problem #1 on A2L, your FASTA sequence file (seqdump.txt), PHYLIP alignment file (seqdump.txt.phy), and RAxML tree file (RAxML_bipartitions.seqdump.txt) should also be uploaded to A2L for review by the TA.**
 
 
 
