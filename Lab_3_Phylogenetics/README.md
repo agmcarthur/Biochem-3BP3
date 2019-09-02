@@ -165,8 +165,11 @@ The parameters are as follows:
 * Using empirical base frequencies allows your substitution model to incorporate unequal frequencies of amino acids in your data
 * We will be using the Maximum Likelihood optimality criteria
 
-Once the parameters are set, you can *Save and Run Task*. You will get an email notifying you when the job is complete.
+Once the parameters are set, you can *Save and Run Task*. You will get an email notifying you when the job is complete. Refresh the Task List and *View Output*:
 
+![View Output](viewoutput.jpg)
+
+![RAxML Output](raxmloutput.jpg)
  
 <a name="tree"></a>
 ## Phylogenetic Tree Interpretation
