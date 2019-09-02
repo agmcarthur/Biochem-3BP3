@@ -158,6 +158,13 @@ The parameters are as follows:
 
 ![RAxML Parameters](parameters.jpg)
 
+* RAxML will automatically determine how many bootstrap replicates to analyzes to assess confidence for your results
+* RAxML will use 48 processors to analyze your data for a maximum of 5 hours. This is overkill for a 30-40 taxa tree, your results will likely be complete within minutes
+* GTRGAMMA+I applies both a gamma model of among-site rate variation, but also estimates sites that do not evolve at all, collectively allowing different sites in your alignment to evolve at different rates
+* The JTT amino acid substitution model has been shown in numerous P450 phylogeny publications to be the best fit to this protein family
+* Using empirical base frequencies allows your substitution model to incorporate unequal frequencies of amino acids in your data
+* We will be using the Maximum Likelihood optimality criteria
+
 Once the parameters are set, you can *Save and Run Task*. You will get an email notifying you when the job is complete.
 
  
