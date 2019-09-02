@@ -56,19 +56,21 @@ We are first going to compare our predicted sequences to related sequences in ot
 
 To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr) & 500 targets**: http://blast.ncbi.nlm.nih.gov/. If your hits are all very similar proteins or from very few species, perhaps try 1000 targets.
 
+**Record your BLASTP Request ID (RID) so you don't loose your results (expires after 24 hours)**
+
 > Flash Update - Terminology
 
-When you have your BLAST results, you will see towards the top of the page an option to view *Distance Tree of Results*. Please examine this tree and following the demonstration, use the tree to select 30 sequences in your BLAST report for further analysis. Your selection criteria are to sample a diverse range of P450 subfamilies and a diverse range of organisms in your P450’s family and subfamilies, plus hopefully a few sequences from an outgroup family. 
+When you have your BLAST results, you will see *Other Reports* -> *Distance Tree of Results*. Please examine this tree and following the demonstration, use the tree to select 30-40 sequences in your BLAST report for further analysis. Your selection criteria are to sample a diverse range of P450 subfamilies and a diverse range of organisms in your P450’s family and subfamilies, plus hopefully a few sequences from an outgroup P450 family. 
 
-**Question #1. What P450 family is your gene from? Which subfamilies are represented in your 30 sequences. Do you have an outgroup and if so, what is it?**
+**Question #1. What P450 family is your gene from? Which subfamilies are represented in your sequences. Do you have an outgroup and if so, what is it?**
 
-Once you have selected your 30 sequences, use the BLAST results page to download them all in FASTA (complete sequence) format:
+Once you have selected your sequences, use the BLAST results page to download them all in FASTA (complete sequence) format:
 
 ```bash
 Computer -> UDiskBOOT -> Users -> username -> Downloads -> seqdump.txt
 ```
 
-Find the download file and right-click on it to open it in WordPad, then select *View -> Word Wrap -> No Wrap*. You should now see your selected 30 sequences in FASTA format, a common format for storing sequences. We will discuss the FASTA format and its history later in the course. Using WordPad, edit the file to add your *S. kowalevskii* protein sequence to the top of the file, using a definition line like “putative CYP4V Carcharodon carcharias”. Save the file and close WordPad.
+Find the download file and right-click on it to open it in WordPad, then select *View -> Word Wrap -> No Wrap*. You should now see your selected sequences in FASTA format, a common format for storing sequences. We will discuss the FASTA format and its history later in the course. Using WordPad, edit the file to add your *S. kowalevskii* protein sequence to the top of the file, using a definition line like “putative CYP4V Carcharodon carcharias”. Save the file and close WordPad.
 
 Now you have a FASTA format data file of representative P450 sequences related to your new gene. Click on the Windows icon at the bottom left of your screen and use the search box to search for the program *Mesquite*. Double click to start this program (it may take a moment to appear and start). Mesquite is a software package for visualizing and editing multiple sequence alignments. Perform the following:
 
