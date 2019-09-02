@@ -26,7 +26,7 @@ In the last lab you worked to identify and develop a gene model for a putative P
 **Links**
 * Clustal, http://www.clustal.org
 * Mesquite, http://www.mesquiteproject.org
-* RAxML Blackbox, http://www.genome.jp/tools/raxml/
+* RAxML Blackbox at CIPRES, http://www.phylo.org/index.php/
 * Archaeopteryx, https://sites.google.com/site/cmzmasek/home/software/archaeopteryx 
 * NCBI Tree Viewer, http://www.ncbi.nlm.nih.gov/projects/treeview/
 
@@ -136,7 +136,13 @@ Like above, use WordPad to view the PHYLIP format file (*Computer -> UDiskBOOT -
 <a name="raxml"></a>
 ## Maximum Likelihood Phylogenetic Tree
 
-To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server, http://www.genome.jp/tools/raxml/. Here are the steps and what they mean (refer to this week’s lecture):
+```bash
+Alternative RAxML Server
+
+http://www.genome.jp/tools/raxml/
+```
+
+To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server at the Cyberinfrastructure for Phylogenetic Research (CIPRES) Project, http://www.phylo.org/index.php/. Here are the steps and what they mean (refer to this week’s lecture):
 
 * Select *Choose File* to upload your seqdump.txt.phy file
 * Select *Gamma model of rate heterogeneity* which adds among-site rate variation to your substitution model, allowing different sites in your alignment to evolve at different rates.
