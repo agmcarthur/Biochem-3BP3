@@ -54,7 +54,13 @@ Please de-select the “Read-only” option as demonstrated.
 
 We are first going to compare our predicted sequences to related sequences in other organisms, to see if we found an overall similar protein or perhaps our protein has missing or extra amino acids due to incorrect exon predictions. 
 
-To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr) & 5000 targets**: http://blast.ncbi.nlm.nih.gov/.
+To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr), for 5000 targets, hits restricted to vertebrates and expectation value e-10 or better**: http://blast.ncbi.nlm.nih.gov/.
+
+![Restrict BLASTP to Vertebrates](vertebrates.jpg)
+_Restrict BLASTP to Vertebrates_
+
+![Restrict BLASTP Hits](restricthits.jpg)
+_Restrict BLASTP Hits_
 
 **Record your BLASTP Request ID (RID) so you don't loose your results (expires after 24 hours)**
 
