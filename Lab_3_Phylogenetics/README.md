@@ -191,7 +191,7 @@ When your own RAxML results are ready, you want to download the tree with branch
 
 **Problem #1. What is your final conclusion about the family and subfamily affiliation about your protein? Has it be placed in a known family or subfamily or is it perhaps a new family or subfamily? Can you make a functional prediction?**
 
-**In addition to answering Problem #1 on A2L, your FASTA sequence file (seqdump.txt), PHYLIP alignment file, and RAxML tree file (RAxML_bipartitions.seqdump.txt) should also be uploaded to A2L for review by the TA.
+**In addition to answering Problem #1 on A2L, your FASTA sequence file (seqdump.txt), PHYLIP alignment file, and RAxML tree file (RAxML_bipartitions.seqdump.txt) should also be uploaded to A2L for review by the TA.**
 
 
 
