@@ -144,6 +144,29 @@ http://www.genome.jp/tools/raxml/
 
 To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server at the Cyberinfrastructure for Phylogenetic Research (CIPRES) Project, http://www.phylo.org/index.php/. **If you do not have an account, please register for one (check your email to validate the registration).**
 
+At CIPRES, first create a new folder, giving it a brief description:
+
+![Create a New Folder](createfolder.jpg)
+_Create a New Folder_
+
+Click on *Data* and Upload your PHYLIP format file:
+
+![Upload File](uploadfile.jpg)
+_Upload File_
+
+Now Click on *Tasks* and *Create New Task*, giving it a description. The Input Data is the PHYLIP file you have already loaded, the Task is *RAxML-HPC BlackBox*:
+
+![RAxML BlackBox](blackbox.jpg)
+_RAxML BlackBox_
+
+The parameters are as follows:
+
+![RAxML Parameters](parameters.jpg)
+_[RAxML Parameters_
+
+Once the parameters are set, you can *Save and Run Task*. You will get an email notifying you when the job is complete.
+
+ 
 <a name="tree"></a>
 ## Phylogenetic Tree Interpretation
 
