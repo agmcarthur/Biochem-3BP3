@@ -142,7 +142,7 @@ Alternative RAxML Server
 http://www.genome.jp/tools/raxml/
 ```
 
-To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server at the Cyberinfrastructure for Phylogenetic Research (CIPRES) Project, http://www.phylo.org/index.php/. Here are the steps and what they mean (refer to this week’s lecture):
+To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server at the Cyberinfrastructure for Phylogenetic Research (CIPRES) Project, http://www.phylo.org/index.php/. *If you do not have an account, please register for one (check your email to validate the registration).*
 
 * Select *Choose File* to upload your seqdump.txt.phy file
 * Select *Gamma model of rate heterogeneity* which adds among-site rate variation to your substitution model, allowing different sites in your alignment to evolve at different rates.
