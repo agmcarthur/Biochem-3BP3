@@ -142,17 +142,7 @@ Alternative RAxML Server
 http://www.genome.jp/tools/raxml/
 ```
 
-To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server at the Cyberinfrastructure for Phylogenetic Research (CIPRES) Project, http://www.phylo.org/index.php/. *If you do not have an account, please register for one (check your email to validate the registration).*
-
-* Select *Choose File* to upload your seqdump.txt.phy file
-* Select *Gamma model of rate heterogeneity* which adds among-site rate variation to your substitution model, allowing different sites in your alignment to evolve at different rates.
-* Select *Protein Sequences*
-* Do not use Outgroup, Constraint, or Binary Backbone
-* Select the *JTT* substitution matrix. This is your amino acid substitution model and numerous P450 phylogeny publications have shown it to be the best fit to this protein family.
-* Select *Use empirical base frequencies* to allow your substitution model to incorporate unequal frequencies of amino acids in your data.
-* Select *Maximum likelihood search* so we use the maximum likelihood optimality criteria.
-* Select *Estimate proportion of invariable sites* so your substitution model recognizes that some sites in your alignment to do evolve at all.
-* Enter your email address and submit.
+To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server at the Cyberinfrastructure for Phylogenetic Research (CIPRES) Project, http://www.phylo.org/index.php/. **If you do not have an account, please register for one (check your email to validate the registration).**
 
 <a name="tree"></a>
 ## Phylogenetic Tree Interpretation
