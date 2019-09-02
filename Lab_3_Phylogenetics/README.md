@@ -54,13 +54,13 @@ Please de-select the “Read-only” option as demonstrated.
 
 We are first going to compare our predicted sequences to related sequences in other organisms, to see if we found an overall similar protein or perhaps our protein has missing or extra amino acids due to incorrect exon predictions. 
 
-To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr) & 1000 targets**: http://blast.ncbi.nlm.nih.gov/.
+To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr) & 5000 targets**: http://blast.ncbi.nlm.nih.gov/.
 
 **Record your BLASTP Request ID (RID) so you don't loose your results (expires after 24 hours)**
 
 > Flash Update - Terminology
 
-When you have your BLAST results, you will see *Other Reports* -> *Distance Tree of Results*. Please examine this tree and following the demonstration, use the tree and the taxonomy report to guide selection of 30-40 sequences in your BLAST report for further analysis. Your selection criteria are to sample a diverse range of P450 subfamilies and a diverse range of organisms in your P450’s family and subfamilies, plus hopefully a few sequences from an outgroup P450 family. **If possible, include representative P450s from fish, reptiles, and mammals from at least two subfamilies (re-BLASTing for 5000 hits may be required).**
+When you have your BLAST results, you will see *Other Reports* -> *Distance Tree of Results*. Please examine this tree and following the demonstration, use the tree and the taxonomy report to guide selection of 30-40 sequences in your BLAST report for further analysis. Your selection criteria are to sample a diverse range of P450 subfamilies and a diverse range of organisms in your P450’s family and subfamilies, plus hopefully a few sequences from an outgroup P450 family. **If possible, include representative P450s from fish, reptiles, and mammals from at least two subfamilies.**
 
 **Question #1. What P450 family is your gene from? Which subfamilies are represented in your sequences. Do you have an outgroup and if so, what is it?**
 
