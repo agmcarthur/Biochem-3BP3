@@ -169,6 +169,8 @@ Once the parameters are set, you can *Save and Run Task*. You will get an email 
 
 ![View Output](viewoutput.jpg)
 
+Download the Best ML Tree with Bootstrap results:
+
 ![RAxML Output](raxmloutput.jpg)
  
 <a name="tree"></a>
