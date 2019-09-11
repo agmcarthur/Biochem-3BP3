@@ -63,7 +63,7 @@ To perform this analysis, go to the NCBI BLASTP page and submit your sequence as
 
 **Record your BLASTP Request ID (RID) so you don't loose your results (expires after 24 hours)**
 
-> Flash Update - Terminology
+> Flash Update - Terminology [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 When you have your BLAST results, you will see *Other Reports* -> *Distance Tree of Results*. Please examine this tree and following the demonstration, use the tree and the taxonomy report to guide selection of 30-40 sequences in your BLAST report for further analysis. Your selection criteria are to sample a diverse range of P450 subfamilies and a diverse range of organisms in your P450’s family and subfamilies, plus hopefully a few sequences from an outgroup P450 family. **If possible, include representative P450s from fish, reptiles, and mammals from at least two subfamilies. Avoid invertebrates.**
 
@@ -85,7 +85,7 @@ Now you have a FASTA format data file of representative P450 sequences related t
 
 Note that the sequences are not aligned, but individually ordered from first amino acid to last amino acid. Before we align them, we will hear from our second Flash Update.
 
-> Flash Update - Sequence Alignment
+> Flash Update - Sequence Alignment [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 Perform multiple sequence alignment on these data via the menu, *Matrix -> Align Multiple Sequences -> ClustalW Align*, with the following options when prompted:
 
@@ -177,7 +177,7 @@ Download the Best ML Tree with Bootstrap results:
 <a name="tree"></a>
 ## Phylogenetic Tree Interpretation
 
-> Flash Update - Phylogenetic Trees
+> Flash Update - Phylogenetic Trees [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 Once the flash update is complete, we will look at the pre-prepared phylogenetic tree for a putative Elephant Shark CYP 3A. Download the tree file from Avenue to Learn. Click on the Windows icon at the bottom left of your screen and use the search box to search for the program *forester_1038.jar*. Double click to start this program (it may take a moment to appear and start). Forester is a software package for visualizing phylogenetic trees. Perform the following:
 

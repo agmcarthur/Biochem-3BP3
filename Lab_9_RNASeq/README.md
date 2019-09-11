@@ -52,7 +52,7 @@ Today’s lab will use the public server of the Galaxy project, http://usegalaxy
 <a name="experiment"></a>
 ## The Experiment
 
-> Flash Update - RNA-Seq
+> Flash Update - RNA-Seq [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 We are going to examine the response of the human transcriptome in a human lens epithelial cell line (part of the eye) exposed to Cadmium, as preliminary microarray work has suggested Cadmium exposure, via the MTF-1 transcription factor, impacts lens development and maintenance. The experiment is RNA-Seq of three Cadmium exposed replicates and 3 Control replicates, using the GRCh38 version of the human genome annotation as reference. The RNA-Seq was performed using an Illumina HiSeq with 2 x 50 bp mate pair sequencing.
 
@@ -75,7 +75,7 @@ Even if the data as a whole passed FASTQC, quality trimming and filtering is sti
 
 Note, Trimmomatic under these settings creates both **paired** and **unpaired** output. We only want to use paired reads in our data, so will ignore the unpaired files.
 
-> Flash Update - Illumina HT-12
+> Flash Update - Illumina HT-12 [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 <a name="mapping"></a>
 ## Mapping Reads to the Human Genome
@@ -86,7 +86,7 @@ Perform *HiSAT2* read mapping for each sample, using the hg38 built in reference
 
 ![HiSAT2](./HiSAT2.jpg)
 
-> Flash Update - Tn-Seq
+> Flash Update - Tn-Seq [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 Record the results identifiers in the the *Sample Tracking.xlsx* spreadsheet.
 

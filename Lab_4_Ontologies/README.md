@@ -57,7 +57,7 @@ In Avenue to Learn you can find an EXCEL sheet corresponding to Figure 3, giving
 
 **Question #1. Which probe(s) measure CYP1A transcript abundance? How do TCDD and tBHQ effect CYP1A abundance?**  [1 point]
 
-> Flash Update - Gene Ontology
+> Flash Update - Gene Ontology [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 Some of the clusters of probes with correlated transcriptional patterns are quite large, making manual interpretation difficult. In this lab, you are going to use the DAVID (Database for Annotation, Visualization and Integrated Discovery) tool to provide an automated interpretation:
 
@@ -78,14 +78,14 @@ Using the list of Agilent probes in the EXCEL sheet, you will compare these list
 
 **Question #3. After a demo from your instructor, perform DAVID analysis of the Cluster 1, Cluster 2, Cluster 3 and Cluster 4 probe lists that include up- or down-regulation of genes in response to tBHQ and TCDD. Write a short paragraph (1/2 page maximum) outlining your findings and interpretation. What are the main responses in these embryonic cells to insult by tBHQ and/or TCDD?** [5 points]
 
-> Flash Update - KEGG
+> Flash Update - KEGG [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 **Question #4. Look at the KEGG pathway results for Cluster 1, *Up-regulated in tBHQ*. A number of signalling pathways are enriched for this probe set. Are there any proteins enriched in more than one of these signalling pathways? Looking the KEGG signalling pathway plots, what are they and what biology is being upregulated?**  [5 points]
 
 <a name="amr"></a>
 ## Predicting Antimicrobial Resistance from Genome Sequences
 
-> Flash Update - CARD
+> Flash Update - CARD [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 One of today’s Flash Updates will outline the Comprehensive Antibiotic Resistance Database, focussing on the current public version, http://card.mcmaster.ca. At the heart of the CARD is the Antibiotic Resistance Ontology (ARO). After a brief demo, work through the following questions:
 

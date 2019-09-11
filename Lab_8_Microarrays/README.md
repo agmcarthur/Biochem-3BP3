@@ -41,7 +41,7 @@ The goal of this lab is to review the analysis of microarray data.
 <a name="qc"></a>
 ## Sample Quality Control
 
-> Flash Update - Microarrays
+> Flash Update - Microarrays [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 You will be shown both BioAnalyzer results for assessment of RNA quality but also Feature Extraction results for assessment of hybridization and scanning quality. 
 
@@ -52,7 +52,7 @@ You will be shown both BioAnalyzer results for assessment of RNA quality but als
 <a name="normalization"></a>
 ## Normalization of Single Channel Data
 
-> Flash Update - Normalization
+> Flash Update - Normalization [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 **Example #1** illustrates Rank Invariant Probe normalization of the microarray data, needed since each microarray has received slightly differ amounts of labelled cRNA.  You will need the following:
 
@@ -93,7 +93,7 @@ From **Example 2**, you will next look at some normalized data from an experimen
 <a name="statistics"></a>
 ## Statistical Analysis
 
-> Flash Update - False Discovery
+> Flash Update - False Discovery [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 In **Example #3**, you will take the normalized data from the zebrafish oxidative stress experiment examined above and perform a statistical analysis. You will need from A2L:
 

@@ -46,9 +46,9 @@ We are going to perform a command line assembly of a *Salmonella* genome that wa
 
 **WE RECOMMEND YOU WORK IN TEAMS OF THREE or FOUR FOR BETTER SERVER PERFORMANCE**
 
-> Flash Update - Illumina Sequencing
+> Flash Update - Illumina Sequencing [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
-> Flash Update - FASTQ
+> Flash Update - FASTQ [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 To start:
 * Log into uppsala.mcmaster.ca
@@ -181,7 +181,7 @@ Using the lab computers, visualize the quality of the assembly graph, with an em
 <a name="galaxy"></a>
 ## Galaxy
 
-> Flash Update - Galaxy
+> Flash Update - Galaxy [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
 You will receive a demonstration of the Galaxy workflow environment (http://galaxylab.mcmaster.ca) and will assemble a full size *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
 
