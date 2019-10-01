@@ -32,9 +32,10 @@ In this lab we are going to examine the use of ontologies to provide functional 
 * All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
 
 **Grading**
-* The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline.
-* An answer key will be provided on A2L after the deadline.
-* Points listed beside each question, total = 33
+* The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline
+* An answer key will be provided on A2L after the deadline
+* Questions are group participation, zero points
+* Problems are worth 5 points each (-1 for each error) = 15 points maximum
 
 <a name="tcdd"></a>
 ## The Transcriptional Impact of Industrial Compounds
@@ -59,7 +60,7 @@ You will be studying the results of this experiment using the Gene Ontology and 
 
 In Avenue to Learn you can find an EXCEL sheet corresponding to Figure 3, giving the lists of Agilent microarray probes underlying the Figure. Microarray probes are used to measure mRNA transcript abundance and each probe measures a different zebrafish gene. Looking at the spreadsheet, you can see the quality of annotation of each probe varies.
 
-**Question #1. Which probe(s) measure CYP1A transcript abundance? How do TCDD and tBHQ effect CYP1A abundance?**  [1 point]
+**Question #1. Which probe(s) measure CYP1A transcript abundance? How do TCDD and tBHQ effect CYP1A abundance?**
 
 > Flash Update - Gene Ontology [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
@@ -86,13 +87,13 @@ Using the list of Agilent probes in the EXCEL sheet, you will compare these list
 
 ![DAVID Chart View](./DAVID_chartview.jpg)
 
-**Question #2. Explore the *Help and Manual* link to understand the output. If EASE is a version of the Fisher’s Exact Test, what is the null hypothesis when testing for enrichment of a specific ontology term?** [1 point]
+**Question #2. Explore the *Help and Manual* link to understand the output. If EASE is a version of the Fisher’s Exact Test, what is the null hypothesis when testing for enrichment of a specific ontology term?**
 
-**Question #3. After a demo from your instructor, perform DAVID analysis of the Cluster 1, Cluster 2, Cluster 3 and Cluster 4 probe lists that include up- or down-regulation of genes in response to tBHQ and TCDD. Write a short paragraph (1/2 page maximum) outlining your findings and interpretation. What are the main responses in these embryonic cells to insult by tBHQ and/or TCDD?** [5 points]
+**Question #3. After a demo from your instructor, perform DAVID analysis of the Cluster 1, Cluster 2, Cluster 3 and Cluster 4 probe lists that include up- or down-regulation of genes in response to tBHQ and TCDD. Write a short paragraph (1/2 page maximum) outlining your findings and interpretation. What are the main responses in these embryonic cells to insult by tBHQ and/or TCDD?**
 
 > Flash Update - KEGG [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
-**Question #4. Look at the KEGG pathway results for Cluster 1, *Up-regulated in tBHQ*. A number of signalling pathways are enriched for this probe set. Are there any proteins enriched in more than one of these signalling pathways? Looking at the KEGG signalling pathway plots, what are they and what biology is being upregulated?**  [5 points]
+**Question #4. Look at the KEGG pathway results for Cluster 1, *Up-regulated in tBHQ*. A number of signalling pathways are enriched for this probe set. Are there any proteins enriched in more than one of these signalling pathways? Looking at the KEGG signalling pathway plots, what are they and what biology is being upregulated?**
 
 ![DAVID KEGG View](./DAVID_KEGGview.jpg)
 
@@ -103,17 +104,17 @@ Using the list of Agilent probes in the EXCEL sheet, you will compare these list
 
 One of today’s Flash Updates will outline the Comprehensive Antibiotic Resistance Database, focussing on the current public version, http://card.mcmaster.ca. At the heart of the CARD is the Antibiotic Resistance Ontology (ARO). After a brief demo, work through the following questions:
 
-**Question #5. Browsing from the CARD home page, what are the seven major branches of the ARO?** [1 point]
+**Question #5. Browsing from the CARD home page, what are the seven major branches of the ARO?**
 
-**Question #6. How many major drug classes are represented in the ARO?** [1 point]
+**Question #6. How many major drug classes are represented in the ARO?**
 
-**Question #7. Using the search box, find the ARO term for the MCR-1.1 protein. Outline what drugs MCR-1.1 confers resistance to and via which mechanism. Explain the mechanism by exploring the ARO terms associated with MCR-1.1.** [3 points]
+**Question #7. Using the search box, find the ARO term for the MCR-1.1 protein. Outline what drugs MCR-1.1 confers resistance to and via which mechanism. Explain the mechanism by exploring the ARO terms associated with MCR-1.1.**
 
-**Question #8. Again using the search box, contrast MCR-1.1 and ethambutol resistant embB genes. How does the mechanism of resistance differ between these two genes? What extra information is required in the embB detection model?** [2 points]
+**Question #8. Again using the search box, contrast MCR-1.1 and ethambutol resistant embB genes. How does the mechanism of resistance differ between these two genes? What extra information is required in the embB detection model?**
 
-**Question #9. Using the Resistance Gene Identifier software, analyze plasmid HQ451074.1. Perfect = perfect matches to reference sequences in the CARD, Strict = allowable variants of the reference sequences in the CARD using curated cut-offs, Loose = sequences with similarity to CARD reference sequences, but outside of detection model cut-offs. Trying the RGI visualizations or the Chart View, which are all based on the ARO, and only using Perfect and Strict hits (keeping defaults: exclude nudge, high quality/coverage), what resistance genes or variants exist in this plasmid sequence, which drugs classes do they confer resistance to, and via which mechanisms?** [7 points]
+**Question #9. Using the Resistance Gene Identifier software, analyze plasmid HQ451074.1. Perfect = perfect matches to reference sequences in the CARD, Strict = allowable variants of the reference sequences in the CARD using curated cut-offs, Loose = sequences with similarity to CARD reference sequences, but outside of detection model cut-offs. Trying the RGI visualizations or the Chart View, which are all based on the ARO, and only using Perfect and Strict hits (keeping defaults: exclude nudge, high quality/coverage), what resistance genes or variants exist in this plasmid sequence, which drugs classes do they confer resistance to, and via which mechanisms?**
 
-**Question #10. Plasmid HQ451074.1 above confers resistance to the *nucleoside antibiotic* tunicamycin, but this is not explained by the Perfect and Strict hits. Can you explain this by looking at Loose hits? How good is the evidence?** [2 points]
+**Question #10. Plasmid HQ451074.1 above confers resistance to the *nucleoside antibiotic* tunicamycin, but this is not explained by the Perfect and Strict hits. Can you explain this by looking at Loose hits? How good is the evidence?**
 
-**Question #11. Using the Resistance Gene Identifier software, analyze *Salmonella enterica* genome AE014613.1 (Perfect and Strict only). Which mutation-based antimicrobial resistance is present in this genome (*hint: sort by the SNP column*), i.e. which genes and effected drugs? Are any of these detected mutations from the same pathogen? Do you think this pathogen will be resistant to these drugs?** [5 points]
+**Question #11. Using the Resistance Gene Identifier software, analyze *Salmonella enterica* genome AE014613.1 (Perfect and Strict only). Which mutation-based antimicrobial resistance is present in this genome (*hint: sort by the SNP column*), i.e. which genes and effected drugs? Are any of these detected mutations from the same pathogen? Do you think this pathogen will be resistant to these drugs?**
 
