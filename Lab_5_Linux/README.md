@@ -31,7 +31,7 @@ The goal of this lab is to introduce the Linux operating system and the *command
 * The WORD file for answers is available on A2L
 * An answer key will be provided on A2L after the deadline.
 
-> Instructor, backup files and scripts (with permissions set) can be found in files.tar.gz
+> Instructor: backup files and scripts (with permissions set) can be found in files.tar.gz
 
 <a name="terminal"></a>
 ## The Terminal Client and the Remote Server
@@ -51,7 +51,7 @@ To login into the course server, we are going to use secure shell (ssh), which i
 ssh -l biochem3bp3 uppsala.mcmaster.ca
 ```
 
-> Note: uppsala.mcmaster.ca is behind the McMaster firewall and requires VPN to connect from off campus or from the MacSecure wireless network.
+> Note: uppsala.mcmaster.ca is behind the McMaster firewall and requires VPN to connect from off campus or from the MacSecure wireless network , https://www.mcmaster.ca/uts/network/vpn/
 
 To logout of the course server:
 
