@@ -82,7 +82,7 @@ Using the list of Agilent probes in the EXCEL sheet, you will compare these list
 
 ![DAVID Enrichment Sets](./DAVID_enrichmentsets.jpg)
 
-*Note*: When looking at the individual charts of enriched terms, select options EASE Threshold of 0.05 and Display Fold Enrichment. EASE is a corrected Fisher’s Exact Test and the standard is to use p<0.05.  Try sorting by Fold Enrichment.
+**Note**: When looking at the individual charts of enriched terms, select options EASE Threshold of 0.05 and Display Fold Enrichment. EASE is a corrected Fisher’s Exact Test and the standard is to use p<0.05.  Try sorting by Fold Enrichment.
 
 ![DAVID Chart View](./DAVID_chartview.jpg)
 
