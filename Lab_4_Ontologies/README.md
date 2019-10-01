@@ -8,7 +8,7 @@
 <a name="intro"></a>
 ## Introduction
 
-In this lab we are going to examine the use of ontologies to provide functional interpretation of experimental results as well as to drive genome analytics. Our focus will be the Gene Ontology and Antibiotic Resistance Ontology.
+In this lab we are going to examine the use of ontologies to provide functional interpretation of experimental results as well as to drive genome analytics. Our focus will be on the Gene Ontology and Antibiotic Resistance Ontology.
 
 **Lectures** - [Beyond the Gene](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%204%20-%20Beyond%20the%20Gene.pptx)
 
@@ -52,6 +52,8 @@ tBHQ – known to strongly induce the oxidative stress response (OSR), which are
 You will be studying the results of this experiment using the Gene Ontology and other resources. In particular, you will be using ontology term enrichment analysis to predict the biological processes and molecular functions occurring in the transcriptional response outlined in the **Figure 3** of the paper:
 
 > Hahn et al. 2014. The transcriptional response to oxidative stress during vertebrate development: effects of tert-butylhydroquinone and 2,3,7,8-tetrachlorodibenzo-p-dioxin. PLoS One 9:e113158. [PMID 25402455].
+
+![Hahn Figure 3](./figure3.jpg)
 
 In Avenue to Learn you can find an EXCEL sheet corresponding to Figure 3, giving the lists of Agilent microarray probes underlying the Figure. Microarray probes are used to measure mRNA transcript abundance and each probe measures a different zebrafish gene. Looking at the spreadsheet, you can see the quality of annotation of each probe varies.
 
