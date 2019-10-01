@@ -94,6 +94,8 @@ Using the list of Agilent probes in the EXCEL sheet, you will compare these list
 
 **Question #4. Look at the KEGG pathway results for Cluster 1, *Up-regulated in tBHQ*. A number of signalling pathways are enriched for this probe set. Are there any proteins enriched in more than one of these signalling pathways? Looking the KEGG signalling pathway plots, what are they and what biology is being upregulated?**  [5 points]
 
+![DAVID KEGG View](./DAVID_KEGGview.jpg)
+
 <a name="amr"></a>
 ## Predicting Antimicrobial Resistance from Genome Sequences
 
