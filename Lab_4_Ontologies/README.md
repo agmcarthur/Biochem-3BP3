@@ -73,9 +73,15 @@ Using the list of Agilent probes in the EXCEL sheet, you will compare these list
 * Your *gene list* is a list of Agilent microarray probe identifiers from the EXCEL file
 * The identifier you are using is *Agilent_ID*
 * Your list type is *Gene List*
+
+![Loading Probes into DAVID](./DAVID_loadprobes.jpg)
+
 * If you get a warning that *less than 80% of your list has mapped to your chosen identifier type*, select *Continue to Submit the IDs That DAVID Could Map*
 * Visualize your results using the *Functional Annotation Tool*
 * DAVID analyzes for term enrichment in many data sets, but only up to 10 are highlighted by default (shown in red). We will only be using these 10 in our analysis. Note that GOTERM_##_FAT translates as BP = Biological Process, MF = Molecular Function, CC = Cellular Component
+
+![DAVID Enrichment Sets](./Enrichment Sets.jpg)
+
 * When looking at the individual charts of enriched terms, select options EASE Threshold of 0.05 and Display Fold Enrichment. EASE is a corrected Fisher’s Exact Test and the standard is to use p<0.05.  Try sorting by Fold Enrichment.
 
 **Question #2. Explore the *Help and Manual* link to understand the output. If EASE is a version of the Fisher’s Exact Test, what is the null hypothesis when testing for enrichment of a specific ontology term?** [1 point]
