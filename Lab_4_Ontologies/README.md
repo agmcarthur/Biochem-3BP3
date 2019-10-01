@@ -107,9 +107,9 @@ One of today’s Flash Updates will outline the Comprehensive Antibiotic Resista
 
 **Question #6. How many major drug classes are represented in the ARO?** [1 point]
 
-**Question #7. Using the search box, find the ARO term for the MCR-1 protein. Outline what drugs MCR-1 confers resistance to and via which mechanism. Explain the mechanism by exploring the ARO terms associated with MCR-1.** [3 points]
+**Question #7. Using the search box, find the ARO term for the MCR-1.1 protein. Outline what drugs MCR-1.1 confers resistance to and via which mechanism. Explain the mechanism by exploring the ARO terms associated with MCR-1.1.** [3 points]
 
-**Question #8. Again using the search box, contrast MCR-1 and ethambutol resistant embB genes. How does the mechanism of resistance differ between these two genes? What extra information is required in the embB detection model?** [2 points]
+**Question #8. Again using the search box, contrast MCR-1.1 and ethambutol resistant embB genes. How does the mechanism of resistance differ between these two genes? What extra information is required in the embB detection model?** [2 points]
 
 **Question #9. Using the Resistance Gene Identifier software, analyze plasmid HQ451074.1. Perfect = perfect matches to reference sequences in the CARD, Strict = allowable variants of the reference sequences in the CARD using curated cut-offs, Loose = sequences with similarity to CARD reference sequences, but outside of detection model cut-offs. Trying the RGI visualizations, which are all based on the ARO, and only using Perfect and Strict hits, what resistance genes or variants exist in this plasmid sequence, which drugs classes do they confer resistance to, and via which mechanisms?** [7 points]
 
