@@ -140,7 +140,9 @@ Here are the three ways you could return to your home directory. Try moving in a
 
 ```bash
 cd ~
+cd yourname
 cd ..
+cd yourname
 cd /home/biochem3bp3
 ```
 
