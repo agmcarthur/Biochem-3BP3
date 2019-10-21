@@ -52,7 +52,6 @@ We are going to perform a command line assembly of a *Salmonella* genome that wa
 
 To start:
 * Log into uppsala.mcmaster.ca
-* Change directory to /home/workspace/biochem3bp3/ so you can use a large hard drive
 * Create a working directory for yourself (e.g. *agmcarthur*) 
 * Move into your working directory
 
