@@ -78,7 +78,7 @@ We have installed software from the FASTX-Toolkit (http://hannonlab.cshl.edu/fas
 cat *.fastq | fastx_quality_stats -Q33 -o sequences.stats
 ```
 
-You needed to add the -Q33 parameter to tell it that you're using Illumina encoded quality scores, not Sanger encoding. First take a look at the contents of *sequences.stats* using the command line and then download the pre-calculated EXCEL spreadsheet in A2L to view on your computer. You can find a key to the column labels here: http://hannonlab.cshl.edu/fastx_toolkit/commandline.html#fastq_statistics_usage
+You needed to add the -Q33 parameter to tell it that you're using Illumina encoded quality scores, not Sanger encoding. First take a look at the contents of *sequences.stats* using the command line and then download the pre-calculated EXCEL spreadsheet in A2L/GitHub to view on your computer. You can find a key to the column labels here: http://hannonlab.cshl.edu/fastx_toolkit/commandline.html#fastq_statistics_usage
 
 **Question #2. Looking at the plot, we want trim the reads where the average quality becomes worse than a 1 in 100 error rate (Q20). At what position along the read on average would you trim the data?**
 
@@ -173,7 +173,7 @@ _Zoom of above image to show agreement (and rare disagreement) among sequencing 
 
 _Comparison of the assembly contigs (bottom) to the complete genome sequence of a reference *Salmonella* strain (top). Blocks reflect regions of shared sequence, red lines gaps._
 
-Using the lab computers, visualize the quality of the assembly graph, with an emphasis upon repeated sequences, using BANDAGE (https://rrwick.github.io/Bandage) and the *LastGraph.txt* file available on A2L.
+Using the lab computers, visualize the quality of the assembly graph, with an emphasis upon repeated sequences, using BANDAGE (https://rrwick.github.io/Bandage) and the *LastGraph.txt* file available on A2L/GitHub.
 
 **Question #11. Based on the Tablet, MAUVE, and BANDAGE results, what is your assessment of the quality of your genome assembly?** (2 points)
 
@@ -246,7 +246,7 @@ Note that this instance of SPAdes in Galaxy only uses 1 processor. Normally you 
 
 **VISUALIZATION**
 
-Run the SPAdes stat tool to visualize the scaffold and contig results, highlighting regions of low coverage or short contig length. Also, in A2L is the *assembly_graph.fastg* file that can be used in BANDAGE to visualize the assembly (pre-computed for you).
+Run the SPAdes stat tool to visualize the scaffold and contig results, highlighting regions of low coverage or short contig length. Also, in A2L/GitHub is the *assembly_graph.fastg* file that can be used in BANDAGE to visualize the assembly (pre-computed for you).
 
 **INTERPRETATION**
 
