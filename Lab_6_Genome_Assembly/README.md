@@ -32,8 +32,9 @@ Flash Updates - Illumina Sequencing, FASTQ, Galaxy
 
 **Grading**
 * The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline.
-* An answer key will be provided on A2L after the deadline.
-* Unless otherwise indicated, all questions worth 1 point, total = 23.
+* An answer key will be provided on A2L after the deadline
+* Questions are group participation, zero points
+* Problems are worth 5 points each (-1 for each error) = 15 points maximum
 
 **Terminal**
 * Part of today’s lab will be performed at the command line and is meant to expand your linux skills. You may need your notes from the last lab as a cheat sheet. Remember, case matters for linux computers. Unless otherwise indicated, use lowercase.
@@ -141,9 +142,9 @@ scaffoldstats draft_assembly/contigs.fa
 
 **Question #8. What fraction of the sequencing reads contributed to the final assembly?**
 
-**Question #9. The Final Graph in Velvet refers to the contig sequences, whereas the output of scaffoldstats refers to scaffolds. Why is the N50 higher for the scaffolds than the contigs?** (2 points)
+**Question #9. The Final Graph in Velvet refers to the contig sequences, whereas the output of scaffoldstats refers to scaffolds. Why is the N50 higher for the scaffolds than the contigs?**
 
-**Question #10. Why is the final estimated coverage lower than what we estimated in Question 6?** (2 points)
+**Question #10. Why is the final estimated coverage lower than what we estimated in Question 6?**
 
 Record some statistics for later comparison:
 
@@ -175,7 +176,7 @@ _Comparison of the assembly contigs (bottom) to the complete genome sequence of 
 
 Using the lab computers, visualize the quality of the assembly graph, with an emphasis upon repeated sequences, using BANDAGE (https://rrwick.github.io/Bandage) and the *LastGraph.txt* file available on A2L/GitHub.
 
-**Question #11. Based on the Tablet, MAUVE, and BANDAGE results, what is your assessment of the quality of your genome assembly?** (2 points)
+**Problem #1. Based on the Tablet, MAUVE, and BANDAGE results, what is your assessment of the quality of your genome assembly?**
 
 <a name="galaxy"></a>
 ## Galaxy
@@ -210,14 +211,14 @@ For each position a BoxWhisker type plot is drawn. The elements of the plot are 
 
 * The central red line is the median value
 * The yellow box represents the inter-quartile range (25-75%)
-* The upper and lower whiskers represent the 10% and 90% points
+* The upper and lower whiskers represent the 10% and 90% percentiles
 * The blue line represents the mean quality
 
 The y-axis on the graph shows the quality scores. The higher the score the better the base call. The background of the graph divides the y axis into very good quality calls (green), calls of reasonable quality (orange), and calls of poor quality (red). The quality of calls on most platforms will degrade as the run progresses, so it is common to see base calls falling into the orange area towards the end of a read.
 
-**Question #12. At what position along the reads does the mean quality fall below Q20? Is it the same for both the forward and reverse reads?**
+**Question #11. At what position along the reads does the mean quality fall below Q20? Is it the same for both the forward and reverse reads?**
 
-**Question #13. After reading the documentation on the FASTQC plots, do you think there is any evidence that the sequence library is biased (i.e. non-random)? Explain your reasoning.** (2 points)
+**Question #12. After reading the documentation on the FASTQC plots, do you think there is any evidence that the sequence library is biased (i.e. non-random)? Explain your reasoning.**
 
 **FASTQ GROOMER**
 
@@ -227,7 +228,7 @@ The FASTQ data is in Sanger / Illumina 1.9 format but needs to be in standard Sa
 
 You will be shown how to use the TRIMMOMATIC tool to perform quality trimming on your data. Run TRIMMOMATIC on both groomed data sets (including ILLUMINACLIP). Take a look at the new FASTQ files and then analyze the results using FASTQC. 
 
-**Question #14. How does the trimmed FASTQ data differ from the original FASTQ data? How will the trimming improve your assembly?** (2 points)
+**Question #13. How does the trimmed FASTQ data differ from the original FASTQ data? How will the trimming improve your assembly?**
 
 **PREPARING FOR ASSEMBLY**
 
@@ -260,6 +261,6 @@ By the end of the lab, you should have all of the steps in the Galaxy que. Once 
 * Scaffold N50 (bp):
 * Largest scaffold (bp):
 
-**Question #15. Based on the statistics above, do you think this is a high quality assembly of a *Salmonella* genome? Explain your reasoning.** (2 points)
+**Problem #2. Based on the statistics above, do you think this is a high quality assembly of a *Salmonella* genome? Explain your reasoning.**
 
-**Question #16. Compare this assembly to the command-line Velvet assembly. The SPAdes assembly had more FASTQ data and a better algorithm, but what specifically improved in the assembly?** (2 points)
+**Problem #3. Compare this assembly to the command-line Velvet assembly. The SPAdes assembly had more FASTQ data and a better algorithm, but what specifically improved in the assembly?**
