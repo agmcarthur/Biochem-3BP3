@@ -142,7 +142,7 @@ scaffoldstats draft_assembly/contigs.fa
 
 **Question #8. What fraction of the sequencing reads contributed to the final assembly?**
 
-**Question #9. The Final Graph in Velvet refers to the contig sequences, whereas the output of scaffoldstats refers to scaffolds. Why is the N50 higher for the scaffolds than the contigs?**
+**Question #9. The Final Graph in Velvet refers to the contig sequences, whereas the output of scaffoldstats refers to scaffolds. Is the N50 higher for the scaffolds than the contigs? Why?**
 
 **Question #10. Why is the final estimated coverage lower than what we estimated in Question 6?**
 
