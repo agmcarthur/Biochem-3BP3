@@ -183,20 +183,17 @@ Using the lab computers, visualize the quality of the assembly graph, with an em
 
 > Flash Update - Galaxy [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
-Today’s lab will use the public server of the Galaxy project, http://usegalaxy.org. This is a separate server from the McArthurLab Galaxy server you used for genome assembly. It is used by thousands of researchers, so you will be sharing computational resources – not all steps will perform quickly. Use the following steps to set up your account:
+Today’s lab will use the public server of the Galaxy project, http://usegalaxy.org. It is used by thousands of researchers, so you will be sharing computational resources – not all steps will perform quickly. Use the following steps to set up your account:
 
 * From the top menu of the site, select *User* and register for an account. This is your free account on the most complete and most maintained Galaxy server – use it whenever you have genomics data!
 * Check your email account for a message from the server and confirm you registration.  This must be completed before the server will analyze your data.
 * Return to the Galaxy home page.
-* Upload all the data files from Avenue 2 Learn (manually indicating the file type)
 
 You will receive a demonstration of the Galaxy workflow environment and will assemble a full size *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
 
 Create a New History using the history tool and give it a name:
 
 ![History](./history.jpg)
-
-**Whenever you log in, be sure to use this tool or the *User* menu to see the list of *Saved Histories* to find your own.**
 
 Once everyone has their own History, you will be shown how to import the lab data from the *Shared Data* menu. These are the forward and reverse FASTQ read files for full size *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed:
 
