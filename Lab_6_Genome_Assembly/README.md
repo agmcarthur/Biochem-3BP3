@@ -76,7 +76,7 @@ less <filename>
 We have installed software from the FASTX-Toolkit (http://hannonlab.cshl.edu/fastx_toolkit/index.html) to perform some quality control steps on these data before assembling the genome. Let’s first look at how quality varies along the sequences:
 
 ```bash
-cat *.fastq | fastx_quality_stats -Q33 -o sequences.stats
+cat /home/biochem3bp3/data/*.fastq | fastx_quality_stats -Q33 -o sequences.stats
 ```
 
 You needed to add the -Q33 parameter to tell it that you're using Illumina encoded quality scores, not Sanger encoding. First take a look at the contents of *sequences.stats* using the command line and then download the pre-calculated EXCEL spreadsheet in A2L/GitHub to view on your computer. You can find a key to the column labels here: http://hannonlab.cshl.edu/fastx_toolkit/commandline.html#fastq_statistics_usage
