@@ -201,7 +201,7 @@ Once everyone has their own History, you will be shown how to upload the lab dat
 
 [Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz](http://mcarthurbioinformatics.ca/assembly/Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz)
 
-These are the forward and reverse FASTQ read files for a *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed:
+These are the forward and reverse FASTQ read files for a *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed in uploading them:
 
 ![FASTQ](./fastq.jpg)
 
@@ -242,16 +242,14 @@ You will be shown how to use the TRIMMOMATIC tool to perform quality trimming on
 
 Just like the *fastx_trimmer* tool we used at the command line, TRIMMOMATIC may have removed some poor quality sequences, put the forward and reverse FASTQ files out of sync. First use the *FASTQ Interlacer* to merge all of the **paired** data into one file and then *FASTQ De-Interlacer* to split the resulting file into Forward, Reverse, and Orphan reads. Almost all assemblers required FASTQ data sorted in this manner to save on initial processing. The most common reason for a failed assembly is skipping this step.
 
-**SPADES ASSEMBLY**
+**SPADES ASSEMBLY** (also known as Unicycler)
 
-At the command line we used the older assembler VELVET and in the lecture we learned about the all-in-one microbial assembler A5.  We are going to perform our final assembly using the SPAdes assembler, which is considered the best for kmer based assembly. SPAdes has powerful defaults, so perform the SPAdes assembly using the FASTQ De-Interlacer results and without changing any of the parameters, except for:
+At the command line we used the older assembler VELVET and in the lecture we learned about the all-in-one microbial assembler A5.  We are going to perform our final assembly using the Unicycler assembler, which is considered the best for kmer based assembly. Unicycler has powerful defaults, so perform the Unicycler assembly using the FASTQ De-Interlacer results and without changing any of the parameters, except for:
 
 * Careful Correction? NO (just to save time for the lab, please normally use this)
 * You are performing assembly of Paired-end / Single Reads
 * The forward reads should be the FASTQ De-Interlacer left mates
 * The forward reads should be the FASTQ De-Interlacer right mates
-
-Note that this instance of SPAdes in Galaxy only uses 1 processor. Normally you would use as many processors as possible to speed up your analysis.
 
 **VISUALIZATION**
 
