@@ -86,7 +86,7 @@ You needed to add the -Q33 parameter to tell it that you're using Illumina encod
 Now trim the reads by length using the following command, but replace the word POSITION with the value you decided above (*-f* is first position to keep, *-l* is last position to keep):
 
 ```bash
-cat *.fastq | fastx_trimmer -Q33 -f 1 -l POSITION > sequences.trim
+cat /home/biochem3bp3/data/*.fastq | fastx_trimmer -Q33 -f 1 -l POSITION > sequences.trim
 ```
 
 We now want to additionally clip and filter the reads. The clipping removes the synthetic Illumina DNA adaptor sequence *TACGAATC* while the filter removes any reads of length less than 32 bp after removal of the adaptor. We pick 32 bp as when we assemble we will be using 31 bp kmers. The *-v* is for verbose mode, giving a summary of the results.
