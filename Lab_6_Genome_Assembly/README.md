@@ -195,7 +195,7 @@ Create a New History using the history tool and give it a name:
 
 ![History](./history.jpg)
 
-Once everyone has their own History, you will be shown how to import the lab data from the *Shared Data* menu. These are the forward and reverse FASTQ read files for full size *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed:
+Once everyone has their own History, you will be shown how to upload the lab data from the lab GitHub. These are the forward and reverse FASTQ read files for full size *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed:
 
 ![FASTQ](./fastq.jpg)
 
