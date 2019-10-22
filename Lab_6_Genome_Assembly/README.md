@@ -197,7 +197,7 @@ Create a New History using the history tool and give it a name:
 
 Once everyone has their own History, you will be shown how to upload the lab data, but first grab a copy of the data: 
 
-[Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz](http://mcarthurbioinformatics.ca/assembly/Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz5)
+[Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz](http://mcarthurbioinformatics.ca/assembly/Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz)
 
 [Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz](http://mcarthurbioinformatics.ca/assembly/Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz)
 
