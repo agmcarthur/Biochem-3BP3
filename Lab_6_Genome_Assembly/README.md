@@ -183,11 +183,16 @@ Using the lab computers, visualize the quality of the assembly graph, with an em
 
 > Flash Update - Galaxy [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
-You will receive a demonstration of the Galaxy workflow environment (http://galaxylab.mcmaster.ca) and will assemble a full size *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
+Today’s lab will use the public server of the Galaxy project, http://usegalaxy.org. This is a separate server from the McArthurLab Galaxy server you used for genome assembly. It is used by thousands of researchers, so you will be sharing computational resources – not all steps will perform quickly. Use the following steps to set up your account:
 
-**WE RECOMMEND YOU WORK IN TEAMS OF FOUR FOR BETTER SERVER PERFORMANCE**
+* From the top menu of the site, select *User* and register for an account. This is your free account on the most complete and most maintained Galaxy server – use it whenever you have genomics data!
+* Check your email account for a message from the server and confirm you registration.  This must be completed before the server will analyze your data.
+* Return to the Galaxy home page.
+* Upload all the data files from Avenue 2 Learn (manually indicating the file type)
 
-Since the entire class is sharing the same account, Create a New History using the history tool and then alter it to your team name:
+You will receive a demonstration of the Galaxy workflow environment and will assemble a full size *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
+
+Create a New History using the history tool and give it a name:
 
 ![History](./history.jpg)
 
