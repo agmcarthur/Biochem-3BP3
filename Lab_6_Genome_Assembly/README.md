@@ -189,13 +189,13 @@ Today’s lab will use the public server of the Galaxy project, http://usegalaxy
 * Check your email account for a message from the server and confirm you registration.  This must be completed before the server will analyze your data.
 * Return to the Galaxy home page.
 
-You will receive a demonstration of the Galaxy workflow environment and will assemble a full size *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
+You will receive a demonstration of the Galaxy workflow environment and will assemble a *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
 
 Create a New History using the history tool and give it a name:
 
 ![History](./history.jpg)
 
-Once everyone has their own History, you will be shown how to upload the lab data from the lab GitHub. These are the forward and reverse FASTQ read files for full size *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed:
+Once everyone has their own History, you will be shown how to upload the lab data from the lab GitHub. These are the forward and reverse FASTQ read files for a *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed:
 
 ![FASTQ](./fastq.jpg)
 
