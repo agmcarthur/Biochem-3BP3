@@ -246,8 +246,6 @@ Just like the *fastx_trimmer* tool we used at the command line, TRIMMOMATIC may 
 
 At the command line we used the older assembler VELVET and in the lecture we learned about the all-in-one microbial assembler A5.  We are going to perform our final assembly using the Unicycler assembler, which is considered the best for kmer based assembly. Unicycler has powerful defaults, so perform the Unicycler assembly using the FASTQ De-Interlacer results and without changing any of the parameters, except for:
 
-* Careful Correction? NO (just to save time for the lab, please normally use this)
-* You are performing assembly of Paired-end / Single Reads
 * The forward reads should be the FASTQ De-Interlacer left mates
 * The forward reads should be the FASTQ De-Interlacer right mates
 
