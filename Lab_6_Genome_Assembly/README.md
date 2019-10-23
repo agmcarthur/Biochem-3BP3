@@ -255,15 +255,7 @@ Download the Unicycler assembly graph file and use BANDAGE to visualize the asse
 
 **INTERPRETATION**
 
-By the end of the lab, you should have all of the steps in the Galaxy que. Once they are all complete, using the Quast results and the BANDAGE plot to record the following stats and answer the following questions:
-
-* Total number of contigs:
-* Contig N50 (bp):
-* Median Contig coverage:
-* Total number of scaffolds:
-* Total scaffold assembly length (bp):
-* Scaffold N50 (bp):
-* Largest scaffold (bp):
+By the end of the lab, you should have all of the steps in the Galaxy que. Once they are all complete, using the Quast results and the BANDAGE plot to answer the following questions:
 
 **Problem #2. Based on the statistics above, do you think this is a high quality assembly of a *Salmonella* genome? Explain your reasoning.**
 
