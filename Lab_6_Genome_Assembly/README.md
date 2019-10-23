@@ -249,9 +249,9 @@ At the command line we used the older assembler VELVET and in the lecture we lea
 * The forward reads should be the FASTQ De-Interlacer left mates
 * The forward reads should be the FASTQ De-Interlacer right mates
 
-**VISUALIZATION**
+**VISUALIZATION AND STATISTCS**
 
-Download the Unicycler assembly graph file and use BANDAGE to visualize the assembly.
+Download the Unicycler assembly graph file and use BANDAGE to visualize the assembly. Also use the **Quast** tool (using defaults) to generate assembly statistics.
 
 **INTERPRETATION**
 
