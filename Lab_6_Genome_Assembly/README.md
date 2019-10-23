@@ -242,7 +242,7 @@ You will be shown how to use the TRIMMOMATIC tool to perform quality trimming on
 
 Just like the *fastx_trimmer* tool we used at the command line, TRIMMOMATIC may have removed some poor quality sequences, put the forward and reverse FASTQ files out of sync. First use the *FASTQ Interlacer* to merge all of the **paired** data into one file and then *FASTQ De-Interlacer* to split the resulting file into Forward, Reverse, and Orphan reads. Almost all assemblers required FASTQ data sorted in this manner to save on initial processing. The most common reason for a failed assembly is skipping this step.
 
-**SPADES ASSEMBLY** (also known as Unicycler)
+**UNICYCLER ASSEMBLY**
 
 At the command line we used the older assembler VELVET and in the lecture we learned about the all-in-one microbial assembler A5.  We are going to perform our final assembly using the Unicycler assembler, which is considered the best for kmer based assembly. Unicycler has powerful defaults, so perform the Unicycler assembly using the FASTQ De-Interlacer results and without changing any of the parameters, except for:
 
@@ -267,4 +267,4 @@ By the end of the lab, you should have all of the steps in the Galaxy que. Once 
 
 **Problem #2. Based on the statistics above, do you think this is a high quality assembly of a *Salmonella* genome? Explain your reasoning.**
 
-**Problem #3. Compare this assembly to the command-line Velvet assembly. The SPAdes assembly had more FASTQ data and a better algorithm, but what specifically improved in the assembly?**
+**Problem #3. Compare this assembly to the command-line Velvet assembly. The Unicycler assembly had more FASTQ data and a better algorithm, but what specifically improved in the assembly?**
