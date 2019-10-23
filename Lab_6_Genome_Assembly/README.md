@@ -251,11 +251,11 @@ At the command line we used the older assembler VELVET and in the lecture we lea
 
 **VISUALIZATION**
 
-Run the SPAdes stat tool to visualize the scaffold and contig results, highlighting regions of low coverage or short contig length. Also, in A2L/GitHub is the *assembly_graph.fastg* file that can be used in BANDAGE to visualize the assembly (pre-computed for you).
+Download the Unicycler assembly graph file and use BANDAGE to visualize the assembly.
 
 **INTERPRETATION**
 
-By the end of the lab, you should have all of the steps in the Galaxy que. Once they are all complete, using the SPAdes log (look at the bottom), SPADes stat plots, the BANDAGE plot, and the statistics in the SPAdes contig stats and SPAdes scaffold stats output (both downloadable for EXCEL) record the following stats and answer the following questions:
+By the end of the lab, you should have all of the steps in the Galaxy que. Once they are all complete, using the Unicycler log and the BANDAGE plot to record the following stats and answer the following questions:
 
 * Total number of contigs:
 * Contig N50 (bp):
