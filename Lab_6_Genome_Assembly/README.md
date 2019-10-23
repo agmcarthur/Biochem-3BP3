@@ -255,7 +255,7 @@ Download the Unicycler assembly graph file and use BANDAGE to visualize the asse
 
 **INTERPRETATION**
 
-By the end of the lab, you should have all of the steps in the Galaxy que. Once they are all complete, using the Unicycler log and the BANDAGE plot to record the following stats and answer the following questions:
+By the end of the lab, you should have all of the steps in the Galaxy que. Once they are all complete, using the Quast results and the BANDAGE plot to record the following stats and answer the following questions:
 
 * Total number of contigs:
 * Contig N50 (bp):
