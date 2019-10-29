@@ -213,7 +213,11 @@ These are the forward and reverse FASTQ read files for a *Salmonella* assembly d
 
 **FASTQC**
 
-You will be shown how to use the FASTQC tool. Run FASTQC on both data files and you will generate raw and web page results for both files. Full details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/
+You will be shown how to use the FASTQC tool. Run FASTQC on both data files using the default settings and you will generate raw and web page results for both files. 
+
+![RunFASTQC](./images/runfastqc.jpg)
+
+Full details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/. Here is an example of the **Per base sequence quality**:
 
 ![FASTQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/per_base_quality.png)
 
