@@ -269,7 +269,7 @@ At the command line we used the older assembler VELVET and in the lecture we lea
 * The forward reads should be the FASTQ De-Interlacer left mates
 * The forward reads should be the FASTQ De-Interlacer right mates
 
-![UniCycler](./images/unicylcer.jpg)
+![UniCycler](./images/unicycler.jpg)
 
 **VISUALIZATION AND STATISTCS**
 
