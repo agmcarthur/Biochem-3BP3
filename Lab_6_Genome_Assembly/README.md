@@ -160,17 +160,17 @@ We now want to visualize our assembly instead of just looking at statistics. Som
 
 > Visualizing BWT read mapping was performed using Tablet, https://ics.hutton.ac.uk/tablet/
 
-![Reads mapped against Node 1](./Tablet-Screenshot1.jpg)
+![Reads mapped against Node 1](./images/Tablet-Screenshot1.jpg)
 
 _We use the Burrows-Wheeler algorithm (BWA) to align our raw sequencing reads to the assembled contigs so we can see where each read contributed to the final assembly. Usually, BWA is used to align NGS sequences to a reference genome, such as the published human genome. In this case, we are using the contigs as the reference genome. Visualizing reads that aligned to the contig *Node 1*._
 
-![Zoomed: Reads mapped against Node 1, note sequencing error](./Tablet-Screenshot2.jpg)
+![Zoomed: Reads mapped against Node 1, note sequencing error](./images/Tablet-Screenshot2.jpg)
 
 _Zoom of above image to show agreement (and rare disagreement) among sequencing reads. The disagreement could be true polymorphism or sequencing errors._
 
 > Visualizing similarity between assembly and a reference *Salmonella* genome was performed using MAUVE, http://darlinglab.org/mauve/mauve.html
 
-![Mapping contigs to a reference genome](./Mauve-Screenshot.jpg)
+![Mapping contigs to a reference genome](./images/Mauve-Screenshot.jpg)
 
 _Comparison of the assembly contigs (bottom) to the complete genome sequence of a reference *Salmonella* strain (top). Blocks reflect regions of shared sequence, red lines gaps._
 
@@ -193,7 +193,7 @@ You will receive a demonstration of the Galaxy workflow environment and will ass
 
 Create a New History using the history tool and give it a name:
 
-![History](./history.jpg)
+![History](./images/history.jpg)
 
 Once everyone has their own History, you will be shown how to upload the lab data **via the Paste/Fetch tool**, but first grab a copy of the data: 
 
@@ -201,9 +201,13 @@ Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz (*URL disabled*)
 
 Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz (*URL disabled*)
 
+And the use the **Upload File** tool's *Paste/Fetch* option:
+
+![Upload](./images/upload.jpg)
+
 These are the forward and reverse FASTQ read files for a *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed in uploading them:
 
-![FASTQ](./fastq.jpg)
+![FASTQ](./images/fastq.jpg)
 
 By click on the file name you will expand the green box to see all the contents. The *eye* icon at the top will show the contents on the main screen. The *i* icon in the middle of the green box will show the file and analysis details, including STDOUT (important!).
 
