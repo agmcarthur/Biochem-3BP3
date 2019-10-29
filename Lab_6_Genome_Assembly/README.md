@@ -217,7 +217,9 @@ You will be shown how to use the FASTQC tool. Run FASTQC on both data files usin
 
 ![RunFASTQC](./images/runfastqc.jpg)
 
-Full details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/. Here is an example of the **Per base sequence quality**:
+Full details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/ 
+
+Here is an example of the **Per base sequence quality**:
 
 ![FASTQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/per_base_quality.png)
 
@@ -237,6 +239,8 @@ The y-axis on the graph shows the quality scores. The higher the score the bette
 **FASTQ GROOMER**
 
 The FASTQ data is in Sanger / Illumina 1.9 format but needs to be in standard Sanger FASTQ format for downstream steps. Use the FASTQ GROOMER to convert the data to Sanger FASTQ.
+
+![Groomer](./images/groomer.jpg)
 
 **TRIMMOMATIC**
 
