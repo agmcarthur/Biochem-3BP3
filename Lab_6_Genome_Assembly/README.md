@@ -205,11 +205,9 @@ And the use the **Upload File** tool's *Paste/Fetch* option:
 
 ![Upload](./images/upload.jpg)
 
-These are the forward and reverse FASTQ read files for a *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed in uploading them:
+These are the forward and reverse FASTQ read files for a *Salmonella* assembly data set. The data files will show up on the right panel in green when you succeed in uploading them. By click on the file name you will expand the green box to see all the contents. The *eye* icon at the top will show the contents on the main screen. The *i* icon in the middle of the green box will show the file and analysis details, including STDOUT (important!).
 
 ![FASTQ](./images/fastq.jpg)
-
-By click on the file name you will expand the green box to see all the contents. The *eye* icon at the top will show the contents on the main screen. The *i* icon in the middle of the green box will show the file and analysis details, including STDOUT (important!).
 
 > Galaxy Hints: Green = Done, Yellow = Running, Red = Error, Gray = Queued
 
