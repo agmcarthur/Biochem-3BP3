@@ -244,7 +244,11 @@ The FASTQ data is in Sanger / Illumina 1.9 format but needs to be in standard Sa
 
 **TRIMMOMATIC**
 
-You will be shown how to use the TRIMMOMATIC tool to perform quality trimming on your data. Run TRIMMOMATIC on both groomed data sets (including ILLUMINACLIP). Take a look at the new FASTQ files and then analyze the results using FASTQC. 
+You will be shown how to use the TRIMMOMATIC tool to perform quality trimming on your data. Run TRIMMOMATIC on both groomed data sets (including ILLUMINACLIP, but everything else default): 
+
+![Trimmomatic](./images/trimmomatic.jpg)
+
+Take a look at the new FASTQ files and then analyze the results using FASTQC. 
 
 **Question #13. How does the trimmed FASTQ data differ from the original FASTQ data? How will the trimming improve your assembly?**
 
