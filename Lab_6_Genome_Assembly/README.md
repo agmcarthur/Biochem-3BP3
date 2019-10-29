@@ -254,9 +254,11 @@ Take a look at the new FASTQ files and then analyze the results using FASTQC.
 
 **PREPARING FOR ASSEMBLY**
 
-Just like the *fastx_trimmer* tool we used at the command line, TRIMMOMATIC may have removed some poor quality sequences, put the forward and reverse FASTQ files out of sync. First use the *FASTQ Interlacer* to merge all of the **paired** data into one file and then *FASTQ De-Interlacer* to split the resulting file into Forward, Reverse, and Orphan reads. Almost all assemblers required FASTQ data sorted in this manner to save on initial processing. The most common reason for a failed assembly is skipping this step.
+Just like the *fastx_trimmer* tool we used at the command line, TRIMMOMATIC may have removed some poor quality sequences, put the forward and reverse FASTQ files out of sync. First use the *FASTQ Interlacer* to merge all of the **paired** data into one file
 
 ![Interlacer](./images/interlacer.jpg)
+
+Next, use *FASTQ De-Interlacer* to split the resulting file into Forward, Reverse, and Orphan reads. Almost all assemblers required FASTQ data sorted in this manner to save on initial preprocessing. The most common reason for a failed assembly is skipping this step.
 
 ![Deinterlacer](./images/deinterlacer.jpg)
 
