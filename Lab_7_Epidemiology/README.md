@@ -61,7 +61,7 @@ Your instructor will demonstrate the software needed to complete the following t
 
 > Flash Update - Metagenomics [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
-* Unexpectedly, a single patient has proven abnormally resistant to antibiotics, suggesting the *Salmonella* is not the only pathogen involved, even though it is the only pathogen successfully isolated by culture. This patient has had their fecal metagenome sequenced and assembled by the McArthur lab. Use the Resistance Gene Identifier (part of http://card.mcmaster.ca) to screen these putative AMR alleles for antimicrobial resistance genes. Note: the predicted alleles may only be fragments, so use RGI's Low Quality/Coverage setting and include Loose hits.
+* Unexpectedly, a single patient has proven abnormally resistant to antibiotics, suggesting the *Salmonella* is not the only pathogen involved, even though it is the only pathogen successfully isolated by culture. This patient has had their fecal metagenome sequenced and assembled by the McArthur lab. Use the Resistance Gene Identifier (part of http://card.mcmaster.ca) to screen these putative AMR alleles for antimicrobial resistance genes. Note: the predicted alleles may only be fragments, so use RGI's Low Quality/Coverage setting but still only look for Perfect/Strict hits.
 
 <a name="questions"></a>
 ## Questions
@@ -86,9 +86,9 @@ Examine your RAxML results in Forester or another tree viewing program. Midpoint
 
 **Question #9. *Salmonella* infections are often treated without antibiotics, except for severe cases in which trimethoprim (pediatric) or fluoroquinolones (adult) are used. If you find evidence of independent sub-clades in your RAxML tree (i.e. separated by strong bootstrap support and possibly reflecting strain labels), sample a genome from each subset for Resistance Gene Identifier analysis. What is the predicted susceptibility to trimethoprim or fluoroquinolones? Could you use either drug for treatment of these sub-clades? Note: trimethoprim is a diaminopyrimidine antibiotic.**
 
+Use the metagenomics results to answer the following questions:
 
-**Question #10. For the single patient that is abnormally resistant to antibiotics, does the AMR++ analysis concur that resistance to drugs beyond trimethoprim or fluoroquinolones exists in this microbiome? Which additional drug classes may not work against this microbiome?**
+**Question #10. For the single patient that is abnormally resistant to antibiotics, does the metagenomics analysis concur that resistance to drugs beyond trimethoprim or fluoroquinolones exists in this microbiome? Which additional drug classes may not work against this microbiome?**
 
-**Question #11. Clinical treatment of this patient illustrated failure of rifampin. Using AMR++ and the CARD website, what AMR genes are possibly causing this resistance and what is the mechanism? Can you make a prediction of which pathogen beyond *Salmonella* could infecting this patient? What other disease might they be suffering from?**
+**Problem #4. Clinical treatment of this patient illustrated failure of macrolide antibiotics. What AMR genes are possibly causing this resistance and what is the mechanism? Can you make a prediction of which pathogen beyond *Salmonella* could infecting this patient?**
 
-**Question #12. Looking at the rarefaction curves, do you think this microbiome has been sequenced enough to get an accurate assessment of its capacity for antimicrobial resistance?**
