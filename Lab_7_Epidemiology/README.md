@@ -62,7 +62,7 @@ Your instructor will demonstrate the software needed to complete the following t
 
 > Flash Update - Metagenomics [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
-* Unexpectedly, a single patient has proven abnormally resistant to antibiotics, suggesting the *Salmonella* is not the only pathogen involved, even though it is the only pathogen successfully isolated by culture. This patient has had their fecal metagenome sequenced and assembled by the McArthur lab. Use the Resistance Gene Identifier (part of http://card.mcmaster.ca) to screen these putative AMR alleles for antimicrobial resistance genes. Note: the predicted alleles may only be fragments, so use RGI's Low Quality/Coverage setting but still only look for Perfect/Strict hits.
+* Unexpectedly, a single patient has proven abnormally resistant to antibiotics, suggesting the *Salmonella* is not the only pathogen involved, even though it is the only pathogen successfully isolated by culture. This patient has had their fecal metagenome sequenced and assembled by the McArthur lab (file *metagenomics.fasta*). Use the Resistance Gene Identifier (part of http://card.mcmaster.ca) to screen these putative AMR alleles for antimicrobial resistance genes. Note: the predicted alleles may only be fragments, so use RGI's Low Quality/Coverage setting but still only look for Perfect/Strict hits.
 
 <a name="questions"></a>
 ## Questions
