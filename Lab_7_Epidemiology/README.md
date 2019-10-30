@@ -26,8 +26,8 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 **Links**
 * http://wgsa.net - Rapid Online Interpretation of Microbial Genomics for Surveillance and Epidemiology
 * CARD: Comprehensive Antibiotic Resistance Database, http://card.mcmaster.ca
-* RAxML Blackbox, http://www.genome.jp/tools/raxml/
-* The AMR++ workflow on the McArthur Galaxy server, http://galaxylab.mcmaster.ca
+* RAxML Blackbox at CIPRES, http://www.phylo.org/index.php/
+* Archaeopteryx, https://sites.google.com/site/cmzmasek/home/software/archaeopteryx
 
 **The Lab**
 * The computers in the laboratory are terminals - clients within a large maintained computer system. They have limited computational power - often we will be using them to access web-based tools or specialized servers with more computational resources.
