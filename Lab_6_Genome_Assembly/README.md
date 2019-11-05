@@ -197,9 +197,9 @@ Create a New History using the history tool and give it a name:
 
 Once everyone has their own History, you will be shown how to upload the lab data **via the Paste/Fetch tool**, but first grab a copy of the data: 
 
-Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz (*URL disabled*)
+[Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz](https://dl.dropboxusercontent.com/s/30cagee5w63dvwq/Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz)
 
-Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz (*URL disabled*)
+[Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz](https://dl.dropboxusercontent.com/s/pm622bu70er1l71/Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz)
 
 And the use the **Upload File** tool's *Paste/Fetch* option:
 
