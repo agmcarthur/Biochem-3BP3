@@ -137,9 +137,9 @@ Make sure *Files have header?* and *Output normalized counts table* are both set
 
 *DESeq2* will create a results file that included significance testing (using the P-adj to reflect correction for false discovery), a principal components plot to visualize differences in overall transcriptome among the replicates, and a table of normalized counts.
 
-**Question #6. Look at transcript differential expression testing and then try *Filter* for significant differences in transcript abundance (P-adj < 0.05). How many genes are differentially expressed in this experiment at this corrected alpha value?**
+**Question #4. Look at transcript differential expression testing and then try *Filter* for significant differences in transcript abundance (P-adj < 0.05). How many genes are differentially expressed in this experiment at this corrected alpha value?**
 
-**Question #7. Look at the normalized counts and then try *Sort* to determine the most highly expressed gene in Cadmium exposed cells. Is it the same for each replicate?**
+**Question #5. Look at the normalized counts and then try *Sort* to determine the most highly expressed gene in Cadmium exposed cells. Is it the same for each replicate?**
 
 <a name="interpretation"></a>
 ## Interpretation
@@ -148,5 +148,5 @@ At this point, we have a robust statistical analysis of these RNA-Seq data, with
 
 > Note - DAVID gets confused with the version identifiers in these Ensembl gene identifiers. The file *Ensembl_list.txt* contains the list of significant hits with the versioning removed.
 
-**Question #8. What is your overall interpretation of the impact of Cadmium on human lens epithelial cells?**
+**Problem #3. What is your overall interpretation of the impact of Cadmium on human lens epithelial cells?**
 
