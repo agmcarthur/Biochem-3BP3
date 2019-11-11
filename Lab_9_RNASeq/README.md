@@ -44,8 +44,15 @@ The goal of this lab is to review the analysis of RNA-Seq data using the public 
 
 Today’s lab will use the public server of the Galaxy project, http://usegalaxy.org, using the account you set up previously. Upload all the data files via the Paste/Fetch tool (manually indicating the file type):
 
+**GFF File(s):**
+
 ```
 https://dl.dropboxusercontent.com/s/ng1qit5698hra02/adrenal.fastq?dl=0
+```
+
+**FASTQ Files(s):**
+
+```
 https://dl.dropboxusercontent.com/s/cr7u5npcqj6xp5w/gencode.v29.annotation.gtf.gz?dl=0
 https://dl.dropboxusercontent.com/s/qgig0gsegvmkgs7/HLE_Cd_1_forward.fastq.gz?dl=0
 https://dl.dropboxusercontent.com/s/cushi8ut6mfb1ph/HLE_Cd_1_reverse.fastq.gz?dl=0
