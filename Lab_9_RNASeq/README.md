@@ -77,7 +77,7 @@ We are going to examine the response of the human transcriptome in a human lens 
 
 We are going to manipulate these data files multiple times, so download the *Sample Tracking.xlsx* spreadsheet to keep track of each step. Start by recording the identifiers of the upload boxes.
 
-Use the FastQC tool to examine the quality of some of the RNA-Seq data. As before, details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/ or you can review [Lab 6](http://github.com/agmcarthur/biochem3BP3-2018/tree/master/Lab_6_Genome_Assembly).
+Use the FastQC tool to examine the quality of some of the RNA-Seq data. As before, details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/ or you can review [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly).
 
 **Question #1. How many mRNA were sequenced from each replicate and does this data need any adaptor removal or quality trimming?**
 
@@ -144,7 +144,7 @@ Make sure *Files have header?* and *Output normalized counts table* are both set
 <a name="interpretation"></a>
 ## Interpretation
 
-At this point, we have a robust statistical analysis of these RNA-Seq data, with a resulting list of significantly differentially expressed genes, that are labeled using *ENSEMBL_GENE_ID* identifiers. Using the techniques of [Lab 4](http://github.com/agmcarthur/biochem3BP3-2018-dev/tree/master/Lab_4_Ontologies), use the DAVID tool (http://david.ncifcrf.gov) to interpret these results. 
+At this point, we have a robust statistical analysis of these RNA-Seq data, with a resulting list of significantly differentially expressed genes, that are labeled using *ENSEMBL_GENE_ID* identifiers. Using the techniques of [Lab 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_4_Ontologies), use the DAVID tool (http://david.ncifcrf.gov) to interpret these results. 
 
 > Note - DAVID gets confused with the version identifiers in these Ensembl gene identifiers. The file *Ensembl_list.txt* contains the list of significant hits with the versioning removed.
 
