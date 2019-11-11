@@ -79,9 +79,9 @@ We are going to manipulate these data files multiple times, so download the *Sam
 
 Use the FastQC tool to examine the quality of some of the RNA-Seq data. As before, details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/ or you can review [Lab 6](http://github.com/agmcarthur/biochem3BP3-2018/tree/master/Lab_6_Genome_Assembly).
 
-**Question #1. How many mRNA were sequenced from each replicate and does this data need any adaptor removal or quality trimming?** (1 point)
+**Question #1. How many mRNA were sequenced from each replicate and does this data need any adaptor removal or quality trimming?**
 
-**Question #2. This lab is using only a fraction of the total data so it does not take too long, but also perform FASTQC on the full replicate from a different experiment (adrenal.fastq). When a full RNA-Seq run is analyzed, do the samples pass FastQC's quality control checks for per-sequence GC content and sequence duplication levels? These checks passed when we were assembling bacterial genomes. If they do not pass for these RNA-Seq data, suggest reasons.** (3 points)
+**Problem #1. This lab is using only a fraction of the total data so it does not take too long, but also perform FASTQC on the full replicate from a different experiment (adrenal.fastq). When a full RNA-Seq run is analyzed, do the samples pass FastQC's quality control checks for per-sequence GC content and sequence duplication levels? These checks passed when we were assembling bacterial genomes. If they do not pass for these RNA-Seq data, suggest reasons.**
 
 <a name="clean"></a>
 ## Data Cleaning
@@ -90,7 +90,7 @@ Even if the data as a whole passed FASTQC, quality trimming and filtering is sti
 
 ![trimmomatic](./trimmomatic.jpg)
 
-**Question #3. Run *FASTQC* on a couple of your samples to see if the data has changed in quality. Has anything improved?** (1 point)
+**Question #3. Run *FASTQC* on a couple of your samples to see if the data has changed in quality. Has anything improved?**
 
 Note, Trimmomatic under these settings creates both **paired** and **unpaired** output. We only want to use paired reads in our data, so will ignore the unpaired files.
 
@@ -109,7 +109,7 @@ Perform *HiSAT2* read mapping for each sample, using the hg38 built in reference
 
 Record the results identifiers in the the *Sample Tracking.xlsx* spreadsheet.
 
-**Question #4. HiSAT2 creates a BAM file that contains the alignment information. Click on the HiSAT2 results for HLE Ctrl 1 replicate and then the *i* icon to access the STDERR. What percentage of read pairs aligned uniquely to one location in the genome and what percentage may represent multiple copy genes? What was the overall alignment rate? Would you say this is a good RNA-Seq data set? Why?** (3 points)
+**Question #4. HiSAT2 creates a BAM file that contains the alignment information. Click on the HiSAT2 results for HLE Ctrl 1 replicate and then the *i* icon to access the STDERR. What percentage of read pairs aligned uniquely to one location in the genome and what percentage may represent multiple copy genes? What was the overall alignment rate? Would you say this is a good RNA-Seq data set? Why?**
 
 <a name="transcripts"></a>
 ## Transcript Assembly
@@ -122,7 +122,7 @@ Perform *htseq-count* on each replicate's *HiSAT2* BAM file, using the *gencode.
 
 **Ignore the *(no feature)* results, as these are not mapped to genes**. Record the results identifiers in the the *Sample Tracking.xlsx* spreadsheet.
 
-**Question #5. Examine the results of htseq-count and then using *Filter*, determine how many assembled transcripts were found in the Cadmium and Control collections (give the range covered by the three replicates).** (1 point)
+**Question #5. Examine the results of htseq-count and then using *Filter*, determine how many assembled transcripts were found in the Cadmium and Control collections (give the range covered by the three replicates).**
 
 <a name="dge"></a>
 ## Differential Gene Expression Analysis
@@ -137,9 +137,9 @@ Make sure *Files have header?* and *Output normalized counts table* are both set
 
 *DESeq2* will create a results file that included significance testing (using the P-adj to reflect correction for false discovery), a principal components plot to visualize differences in overall transcriptome among the replicates, and a table of normalized counts.
 
-**Question #6. Look at transcript differential expression testing and then try *Filter* for significant differences in transcript abundance (P-adj < 0.05). How many genes are differentially expressed in this experiment at this corrected alpha value?** (1 points)
+**Question #6. Look at transcript differential expression testing and then try *Filter* for significant differences in transcript abundance (P-adj < 0.05). How many genes are differentially expressed in this experiment at this corrected alpha value?**
 
-**Question #7. Look at the normalized counts and then try *Sort* to determine the most highly expressed gene in Cadmium exposed cells. Is it the same for each replicate?** (1 point)
+**Question #7. Look at the normalized counts and then try *Sort* to determine the most highly expressed gene in Cadmium exposed cells. Is it the same for each replicate?**
 
 <a name="interpretation"></a>
 ## Interpretation
@@ -148,5 +148,5 @@ At this point, we have a robust statistical analysis of these RNA-Seq data, with
 
 > Note - DAVID gets confused with the version identifiers in these Ensembl gene identifiers. The file *Ensembl_list.txt* contains the list of significant hits with the versioning removed.
 
-**Question #8. What is your overall interpretation of the impact of Cadmium on human lens epithelial cells?** (5 points)
+**Question #8. What is your overall interpretation of the impact of Cadmium on human lens epithelial cells?**
 
