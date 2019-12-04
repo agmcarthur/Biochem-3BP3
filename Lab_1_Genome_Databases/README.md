@@ -80,7 +80,7 @@ _Stein. 2010. The case for cloud computing in genome informatics. Genome Biol. 1
 
 The NCBI is one of the dominant international data repositories for biomedical data, hosted by the US Government’s National Library of Medicine at the National Institutes of Health in Bethesda, Maryland. It is often referred to as GenBank, but this name actually refers to only a subset of its data and tools. The NCBI leads international data integration efforts, particularly with the European Molecular Biology Laboratory (EMBL) and the DNA Data Bank of Japan (DDBJ). The origins and success of the NCBI is tightly tied to the origins and success of the Internet – GenBank came online in 1992.  Modern bioinformatics research is highly dependant upon the Internet and this is best exemplified by the NCBI. As such, we are going to start by looking at the global network infrastructure, since bioinformatics is increasingly a global enterprise.
 
-![Map of Japan. Source: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Regions_and_Prefectures_of_Japan_2.svg/500px-Regions_and_Prefectures_of_Japan_2.svg.png)
+![Map of Japan. Source: Wikipedia](./japan.jpg)
 
 _Map of Japan. Source: Wikipedia_
 
