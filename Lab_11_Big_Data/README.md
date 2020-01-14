@@ -6,7 +6,7 @@
 <a name="intro"></a>
 ## Introduction
 
-The goal of this lab is to review the analysis of microbiome 16S profiling data.
+The goal of this lab is to review the advances in Big Data.
 
 **Lectures** - [Internet of Things & Big Data](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%2010%20-%20Internet%20of%20DNA.pptx)
 
