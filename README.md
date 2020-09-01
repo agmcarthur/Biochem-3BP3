@@ -1,7 +1,5 @@
 ## Biochem 3BP3 (McMaster University) 
 
-## CURRENTLY UPDATING FOR FALL 2020 ONLINE INSTRUCTION
-
 BIOCHEM 3BP3 - Practical Bioinformatics in the Genomics Era
 
 > This GitHub repository only contains material developed by Dr. McArthur directly and does not include guest lectures, student generated content, or course documents. These are only available to registered students via Avenue to Learn. In addition, some of the exercises require password access to class servers, available to registered students only. These can be provided by request for undergraduate and graduate students in Biochemistry & Biomedical Sciences, the Michael G. DeGroote Institute for Infectious Disease Research, or other affiliated programs. 
