@@ -12,7 +12,7 @@
 <a name="intro"></a>
 ## Introduction
 
-The goal of this lab is to introduce the computing laboratory and terminals, followed by a walk-through and assignment on two key bioinformatics databases – GenBank & Ensembl – plus a few additional online resources.
+The goal of this lab is to introduce two key bioinformatics databases – GenBank & Ensembl – plus a few additional online resources.
 
 **Lectures** - [Introduction to Bioinformatics & the Course](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx)
 
