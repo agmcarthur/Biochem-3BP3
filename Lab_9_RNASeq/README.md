@@ -35,7 +35,6 @@ The goal of this lab is to review the analysis of RNA-Seq data using the public 
 **Grading**
 * The WORD file for answers is available on A2L, be sure to submit your answers on A2L Quizzes before the deadline.
 * An answer key will be provided on A2L after the deadline
-* Questions are group participation, zero points
 * Problems are worth 5 points each (-1 for each error) = 15 points maximum
 
 <a name="qc"></a>

@@ -40,7 +40,6 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 **Grading**
 * The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline
 * An answer key will be provided on A2L after the deadline
-* Questions are group participation, zero points
 * Problems are worth 5 points each (-1 for each error) = 15 points maximum
 
 <a name="shark"></a>
