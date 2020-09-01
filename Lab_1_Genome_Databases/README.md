@@ -95,7 +95,7 @@ _Map of Japan. Source: Wikipedia_
 
 Change websites to the NCBI Homepage, http://www.ncbi.nlm.nih.gov, and select PubMed on the right hand side.  The search box will accept general terms, author names, or PubMed Identifiers (PMID). Yet, PubMed offers much more advanced tools for literature mining. Click on the Advanced link below the search box and use these tools to answer the following questions:
 
-**Question #5. Which journal did Nick Waglechner (a grad student in Biochemistry) publish his first paper in?**
+**Question #5. Which journal did Nick Waglechner (a recent PhD graduate in Biochemistry) publish his first paper in?**
 
 **Question #6. How many times have Nick Waglechner and Andrew McArthur published together?**
 
@@ -118,7 +118,7 @@ If you are doing a research project, after you find a successful set of search t
 
 > Flash Update - GenBank ([kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895))
 
-The above exercise illustrates how the combination of data (i.e. citation information), classification (i.e. controlled vocabularies) and unique identifiers (i.e. PMID) can be used to generate powerful informatics resources. Similar efforts exist for gene sequences. Return to the NCBI homepage, http://www.ncbi.nlm.nih.gov, and search all databases for the drug *colistin*. This gives you a sense of the diversity of data available for a single drug: associated genes, gene expression (GEO), chemical assays, and chemical compound data. Note that there are over 1,700,000 protein sequences that have an association with colistin. Click on the *Protein* link to view the list and you’ll see the top of the list is predominantly Mcr and Pmr proteins. View the **top 100 hits** and click on the protein in the list with accession AGK23098.1 (PmrA) to view GenBank Format Data, a verbose file format for describing molecular data. While software has been developed to read GenBank format, it is primarily for human consumption.
+The above exercise illustrates how the combination of data (i.e. citation information), classification (i.e. controlled vocabularies) and unique identifiers (i.e. PMID) can be used to generate powerful informatics resources. Similar efforts exist for gene sequences. Return to the NCBI homepage, http://www.ncbi.nlm.nih.gov, and search all databases for the drug *colistin*. This gives you a sense of the diversity of data available for a single drug: associated genes, gene expression (GEO), chemical assays, and chemical compound data. Note that there are over 1,900,000 protein sequences that have an association with colistin. Click on the *Protein* link to view the list and you’ll see the top of the list is predominantly Mcr and Pmr proteins. View the **top 200 hits** and click on the protein in the list with accession AGK23098.1 (PmrA) to view GenBank Format Data, a verbose file format for describing molecular data. While software has been developed to read GenBank format, it is primarily for human consumption.
 
 **Question #11. Find the following information in the GenBank data file:**
 
