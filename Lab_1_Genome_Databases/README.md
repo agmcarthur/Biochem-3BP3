@@ -104,7 +104,7 @@ Change websites to the NCBI Homepage, http://www.ncbi.nlm.nih.gov, and select Pu
 
 **Question #9. Enter the full citation for the paper originally describing NDM-1, its PubMed identifier, plus how many times it has been cited in the literature.**
 
-Go back to the PubMed home page (http://pubmed.gov) and select the *MeSH Database* and then the Advanced link below the search box. MeSH is a *controlled vocabulary* that organizes PubMed using standardized language. This means that now matter the words and phrases authors use in their publications, they are all searchable via commonly assigned MeSH terms. Search for MeSH terms relating to *antibiotic resistance*. 
+Go back to the PubMed home page (http://pubmed.gov) and select the *MeSH Database* and then the Advanced link below the search box. MeSH is a *controlled vocabulary* that organizes PubMed using standardized language. This means that no matter the words and phrases authors use in their publications, they are all searchable via commonly assigned MeSH terms. Search for MeSH terms relating to *antibiotic resistance*. 
 
 Examine the MeSH term *Drug Resistance, Microbial* to see the diversity of related MeSH terms. You will note the term had its origins in 1963 – antimicrobial resistance (AMR) is not a new problem. Use the search builder on the right to search for papers related to the term *Drug Resistance, Microbial*.
 
