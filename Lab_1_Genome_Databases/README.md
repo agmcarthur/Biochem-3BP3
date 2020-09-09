@@ -146,9 +146,11 @@ GenBank is not just for browsing data, but instead you can search based on seque
 
 **Question #14. Give the % similarity of the best “hit” and the worst “hit”.**
 
-**Question #15. Take a look at the Taxonomy report. Are there any similar proteins in a non-bacteria?**
+Now please edit your BLAST search to find **5000 targets** but filter for **Vertebrata (taxid:7742)** hits.
 
-**Problem #1. You have found a non-bacteria protein similar to a bacterial Pmr protein. Note the Accession, look up the GenBank file, perform BLAST as above and then look at the “Distance Tree of Results”. Do you think this gene is part of that genome or a possible sequence contaminant? Use the information in the GenBank record, the BLAST results, and the Tree to make your decision.**
+**Question #15. Take a look at the Taxonomy report for this edited BLAST search. Are there any similar proteins in vertebrates?**
+
+**Problem #1. You have found a non-bacteria proteins similar to a bacterial Pmr protein. Picking one as an example, note the Accession, look up the GenBank file, perform BLAST as above and then look at the “Distance Tree of Results”. Do you think this gene is part of that genome or a possible sequence contaminant? Use the information in the GenBank record, the BLAST results, and the Tree to make your decision.**
 
 <a name="ensembl"></a>
 ## Ensembl
