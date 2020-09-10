@@ -215,4 +215,4 @@ _Introns and Exons (py = pyrimidines, i.e. C or U). Source: Wikipedia_
 * How many different transcripts have been predicted?
 * How many are protein coding?
 * How many exons encode the canonical CYP19A1 protein (503 aa)?
-* What is this transcript’s Transcript Support Level? Do you think it is a real transcript?
+* What is this transcript’s [Transcript Support Level](https://grch37.ensembl.org/info/genome/genebuild/transcript_quality_tags.html)? Do you think it is a real transcript?
