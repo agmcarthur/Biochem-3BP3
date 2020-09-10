@@ -58,9 +58,9 @@ To put it another way, if you had $5000 dollars to spend on processors or hard d
 
 **Hard Drives**
 
-* Today: **Y** processing power
-* 14 months from today: **2Y** processing power
-* 28 months from today: **4Y** processing power
+* Today: **Y** storage capacity
+* 14 months from today: **2Y** storage capacity
+* 28 months from today: **4Y** storage capacity
 
 That big announcement of a new phone or gaming platform? They are roughly every 14-18 months as new chip classes or drive technologies come online to double capacity. Companies depend on doubling of how much they get for their purchasing dollar. This drives the technology market. But what if your data is coming in faster than either Moore's or Kryder's law? Will it all break down? That is the big concern for the future of next-generation DNA sequencing:
 
