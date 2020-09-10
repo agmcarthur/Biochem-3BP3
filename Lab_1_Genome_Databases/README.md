@@ -150,7 +150,7 @@ Now please edit your BLAST search to find **5000 targets** but filter for **Vert
 
 **Question #15. Take a look at the Taxonomy report for this edited BLAST search. Are there any similar proteins in vertebrates?**
 
-**Problem #1. You have found non-bacteria proteins similar to a bacterial Pmr protein. Picking one as an example, note the Accession, look up the GenBank file, perform BLAST as above and then look at the “Distance Tree of Results”. Do you think this gene is part of that genome or a possible sequence contaminant? Use the information in the GenBank record, the BLAST results, and the Tree to make your decision.**
+**Problem #1. You have found non-bacteria proteins similar to a bacterial Pmr protein. Picking one as an example, note the Accession, look up the GenBank file, perform BLAST as above (but **500 targets** and **remove** the **Vertebrata (taxid:7742)** filter) and then look at the “Distance Tree of Results”. Do you think this gene is part of that genome or a possible sequence contaminant? Use the information in the GenBank record, the BLAST results, and the Tree to make your decision.**
 
 <a name="ensembl"></a>
 ## Ensembl
