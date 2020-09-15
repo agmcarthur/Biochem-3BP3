@@ -130,7 +130,7 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 * CYPs > 40% identical aa in same family (numeric)
 * CYPs > 55% identical aa in same subfamily (alpha)
 
-This completes today’s laboratory. The protein you predicted today will be used in the next lab, which uses phylogenetics to further determine the accuracy of your prediction plus test your P450 family assignment. **DO NOT LOOSE YOUR PROTEIN SEQUENCE**.
+This completes today’s laboratory. The protein you predicted today will be used in the next lab, which uses phylogenetics to further determine the accuracy of your prediction plus test your P450 family assignment. **DO NOT LOSE YOUR PROTEIN SEQUENCE**.
 
 
 
