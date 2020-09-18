@@ -198,7 +198,7 @@ _mRNA Splicing. Source: Wikipedia_
 
 _Introns and Exons (py = pyrimidines, i.e. C or U). Source: Wikipedia_
 
-**Problem #2. Zoom into exon 3 and exon 4 to examine the third intron. Remember this gene is in the reverse strand! Where questions marks are in the figure below, enter the corresponding nucleotides (in UPPERCASE) from the zebrafish genome that correspond to the first two and last two nucleotides of the intron. Use all the available data to make your decision by using the *Configure this page* tool:**
+**Problem #2. Zoom into exon 3 and exon 4 to examine the third intron. Remember this gene is in the reverse strand! Where questions marks are in the figure below, enter the corresponding nucleotides (in UPPERCASE) from the zebrafish genome that correspond to the first four and last four nucleotides of the intron. Use all the available data to make your decision by using the *Configure this page* tool:**
 
 * try turning on all the *genes and transcripts* tracks unstacked / expanded (without labels)
 * also try turning all the *mRNA and protein alignments* tracks unstacked / expanded (without labels)
