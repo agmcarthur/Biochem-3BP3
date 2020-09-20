@@ -115,8 +115,8 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 
 **Question #5. List your gene's co-ordinates within the genome assembly (possibly includes introns):**
 * Contig Accession: 
-* Start codon: 
-* End codon:
+* 1st base of Start codon: 
+* 3rd based of End codon:
 * Strand:
 
 **Problem #2. How many exons are in your P450 gene? List their co-ordinates. Do you think your gene model is correct or do you have concerns about your exon detection and intron/exon boundaries? Why?**
