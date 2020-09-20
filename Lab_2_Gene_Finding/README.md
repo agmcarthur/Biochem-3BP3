@@ -89,7 +89,11 @@ Once you have generated a list of possible P450 genes in *Carcharodon carcharias
 <a name="p450"></a>
 ## Predicting a Single P450 Gene
 
-Now that the class has generated a master list of putative P450s, you will annotate your best BLAST hit. Using NCBI’s BLAST and genome browser tools, work to define the complete gene and answer the questions below. Use the genome browser to extract the DNA sequence and the Translate tools (http://web.expasy.org/translate/) to define the complete protein sequence. Submitting your predicted protein sequences to BLAST against GenBank can help determine if you have possibly missed an exon or made an error on intron/exon boundaries.
+Now that the class has generated a master list of putative P450s, you will annotate your best BLAST hit. Using NCBI’s BLAST and genome browser tools, work to define the complete gene and answer the questions below. 
+
+* Use the genome browser to extract the DNA sequence
+* Use the Translate tools (http://web.expasy.org/translate/) to define the complete protein sequence. 
+* Submit your predicted protein sequences to BLAST against GenBank can help determine if you have possibly missed an exon or made an error on intron/exon boundaries.
 
 To view the NCBI Genome Browser, view the best HSP for your TBLASTN hit and select the *Graphics* link, e.g.
 
