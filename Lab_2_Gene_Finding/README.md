@@ -134,9 +134,9 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 
 **Question #6. How many amino acids long is your putative P450? Is this length similar to P450 proteins in GenBank from other organisms?**
 
-**Question #7. What Pfam domains are predicted for your protein sequence? What predictions can you make about the function of this protein?**
+**Question #7. What [Pfam](http://pfam.xfam.org) domains are predicted for your protein sequence? What predictions can you make about the function of this protein?**
 
-**Question #8. What PROSITE motifs are predicted for your protein sequence? What predictions can you make about the function of this protein?**
+**Question #8. What [PROSITE](http://prosite.expasy.org) motifs are predicted for your protein sequence? What predictions can you make about the function of this protein?**
 
 **Problem #3. Include your predicted protein sequence as part of this answer so the TA can assess your putative P450. Given all your analysis results, including BLAST against GenBank, can you predict which P450 family or subfamily this protein belongs to (e.g. CYP2, CYP4, CYP19, etc.)? Do you think it is functional? Remember:**
 * CYPs > 40% identical aa in same family (numeric)
