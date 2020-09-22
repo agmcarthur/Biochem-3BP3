@@ -95,7 +95,7 @@ Now that the class has generated a master list of putative P450s, you will annot
 
 * Use the genome browser to extract the DNA sequence
 * Use the Translate tools (http://web.expasy.org/translate/) to define the complete protein sequence. 
-* Submit your predicted protein sequences to BLAST against GenBank can help determine if you have possibly missed an exon or made an error on intron/exon boundaries.
+* Submit your predicted protein sequences to BLAST against GenBank can help determine if you have possibly missed an exon or made an error on intron/exon boundaries. https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
 To view the NCBI Genome Browser, view the best HSP for your TBLASTN hit and select the *Graphics* link, e.g.
 
