@@ -31,7 +31,7 @@ In the last lab you worked to identify and develop a gene model for a putative P
 * NCBI Tree Viewer, http://www.ncbi.nlm.nih.gov/projects/treeview/
 
 **Computer Resources**
-* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID.
+* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID. Instructions to install Microsoft Remote Desktop software for UTS Virtual Desktop, https://uts.mcmaster.ca/computer-labs/
 * You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
 * All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
 
