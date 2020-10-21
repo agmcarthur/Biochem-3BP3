@@ -41,6 +41,7 @@ The goal of this lab is to introduce the Linux operating system and the *command
 Today’s lab will be performed almost exclusively at the command line and is meant to be an introduction to command line thinking. Your instructor will introduce the terminal client on the class computers and you will use it to connect to a Linux server in the McArthur Laboratory (called *uppsala.mcmaster.ca*). Please note, often Windows terminal clients may not allow cut-and-paste of text. Your credentials for logging in to *uppsala* are available in the A2L WORD file.
 
 **NOTE 1: Case matters for linux computers. Unless otherwise indicated, use lowercase.**
+
 **NOTE 2: If you are familiar with the command line and have client software on your computer (e.g. the Mac *Terminal* program), you may alternatively use your own client. This will require the McMaster VPN to access *uppsala.mcmaster.ca*.**
 
 <a name="login"></a>
