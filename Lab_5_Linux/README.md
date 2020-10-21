@@ -325,32 +325,17 @@ ps -a
 ps -ef | more
 ```
 
-The *ps* give the process ID number for each job at the left. We are going to use this to manipulate processes. Try the following command, which is designed to always give the affirmative:
+The *ps* give the process ID number for each job at the left, which you can use with the *kill* command to stop runaway processes.
 
-```bash
-yes
-```
-
-It won’t stop, will it? Take a look at the instructor’s screen while they do the following to determine a process ID for *yes* job and kill a few:
-
-```bash
-ps -a
-kill procID
-```
-
-If your *yes* jobs has not been killed, type *ctrl-c* to stop it. Now, get a global view of processes again but this time using *htop*:
+We can also get a global view of processes again but this time using *htop*:
 
 ```bash
 htop
 ```
 
-The server you are using has 8 processors (listed at the top) and 128 GB memory. Unless the server is busy today, most of the processors will be idle and most of the memory will not be used. Exit the *htop* program by entering *q* and then use the *yes* program again while watching the instructor’s *htop* output.
+The server you are using has 8 processors (listed at the top) and 128 GB memory. Unless the server is busy today, most of the processors will be idle and most of the memory will not be used. Exit the *htop* program by entering *q*.
 
-```bash
-yes
-```
-
-Watch the instructor’s *htop* and you should see many *yes* jobs, each only getting a fraction of the processor.  In LINUX, you can run as many jobs as you like simultaneously, but at some point they will begin to slow each other down as they are forced to shared processors (ie. none will run at 100% speed). Similarly, when users and jobs can share memory but when they run out, they start to use swap space.
+In LINUX, you can run as many jobs as you like simultaneously, but at some point they will begin to slow each other down as they are forced to shared processors (ie. none will run at 100% speed). Similarly, when users and jobs can share memory but when they run out, they start to use swap space.
 
 **Question #2. What is swap space?**
 
