@@ -52,7 +52,7 @@ We are going to perform a command line assembly of a *Salmonella* genome that wa
 
 To start:
 * Log into uppsala.mcmaster.ca
-* Create a working directory for yourself (e.g. *agmcarthur*) 
+* Create a *new* working directory for yourself (e.g. *agmcarthur2*) 
 * Move into your working directory
 
 The FASTQ data you need is in the following files. Place copies in your working directory.
