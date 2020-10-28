@@ -55,7 +55,7 @@ To start:
 * Create a *new* working directory for yourself (e.g. *agmcarthur2*) 
 * Move into your working directory
 
-The FASTQ data you need is in the following files. Place copies in your working directory.
+The FASTQ data you need is in the following files.
 
 > /home/biochem3bp3/data/Salmonella_3185_TACGAATC_L003_R1_001.fastq
 > /home/biochem3bp3/data/Salmonella_3185_TACGAATC_L003_R2_001.fastq
