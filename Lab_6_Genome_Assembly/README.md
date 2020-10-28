@@ -40,7 +40,7 @@ Flash Updates - Illumina Sequencing, FASTQ, Galaxy
 * uppsala.mcmaster.ca is behind the McMaster firewall and requires VPN to connect from off campus or from the MacSecure wireless network.
 
 <a name="velvet"></a>
-## VELVET Genome Assembly
+## PART 1 - Command line Genome Assembly
 
 We are going to perform a command line assembly of a *Salmonella* genome that was sequenced using the Illumina platform using a kmer assembler called VELVET.
 
@@ -178,7 +178,7 @@ Using the lab computers, visualize the quality of the assembly graph, with an em
 **Problem #1. Based on the Tablet, MAUVE, and BANDAGE results, what is your assessment of the quality of your genome assembly?**
 
 <a name="galaxy"></a>
-## Galaxy
+## PART 2 - Galaxy
 
 > Flash Update - Galaxy [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
