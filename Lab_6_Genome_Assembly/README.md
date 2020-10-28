@@ -44,7 +44,7 @@ Flash Updates - Illumina Sequencing, FASTQ, Galaxy
 
 We are going to perform a command line assembly of a *Salmonella* genome that was sequenced using the Illumina platform using a kmer assembler called VELVET.
 
-**WE RECOMMEND YOU WORK IN TEAMS OF THREE or FOUR FOR BETTER SERVER PERFORMANCE**
+**NOTE: SERVER PERFORMANCE MAY BE SLOW IF MANY STUDENTS ARE USING UPPSALA SIMULTANEOUSLY**
 
 > Flash Update - Illumina Sequencing [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
