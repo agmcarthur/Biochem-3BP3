@@ -63,13 +63,13 @@ The FASTQ data you need is in the following files.
 **Question #1. These two files contain the *forward*  (R1) and *reverse* (R2) sequencing reads of this genome sequencing project. Given that the following command will tell you how many lines are in a file, how many DNA molecules have been sequenced and how many sequences are there?**
 
 ```bash
-wc -l <filename>
+wc -l /home/biochem3bp3/data/Salmonella_3185_TACGAATC_L003_R1_001.fastq
 ```
 
 Take a look at one of the FASTQ files to remind yourself of the format and how sequencing quality is encoded:
 
 ```bash
-less <filename>
+less /home/biochem3bp3/data/Salmonella_3185_TACGAATC_L003_R1_001.fastq
 ```
 
 We have installed software from the FASTX-Toolkit (http://hannonlab.cshl.edu/fastx_toolkit/index.html) to perform some quality control steps on these data before assembling the genome. Let’s first look at how quality varies along the sequences:
