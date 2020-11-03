@@ -72,7 +72,7 @@ Your instructor will demonstrate the software needed to complete the following t
 
 **Problem #1. Based on your answer to Question #1 and #2 above, is there any evidence that this is not a single source outbreak of *Salmonella*? Explain.**
 
-Examine your RAxML results in Forester or another tree viewing program. Midpoint root the tree and order subtrees to answer the following questions.
+Examine your RAxML results in Forester or another tree viewing program as a cladogram (i.e. no branch lengths). Midpoint root the tree and order subtrees to answer the following questions.
 
 **Question #3. How many positions in the genome of *Salmonella enterica* are being used to generate the phylogenetic tree?**
 
@@ -90,5 +90,5 @@ Use the metagenomics results to answer the following questions:
 
 **Question #10. For the single patient that is abnormally resistant to antibiotics, does the metagenomics analysis concur that resistance to drugs beyond trimethoprim or fluoroquinolones exists in this microbiome? Which additional drug classes may not work against this microbiome?**
 
-**Problem #4. Clinical treatment of this patient illustrated failure of macrolide antibiotics. What AMR genes are possibly causing this resistance and what is the mechanism? Can you make a prediction of which pathogen beyond *Salmonella* could infecting this patient?**
+**Problem #4. Clinical treatment of this patient illustrated failure of macrolide antibiotics. What AMR genes are possibly causing this resistance and what is the mechanism? Can you make a prediction of which pathogen beyond *Salmonella* could be infecting this patient?**
 
