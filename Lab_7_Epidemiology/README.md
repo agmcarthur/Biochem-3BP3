@@ -24,7 +24,7 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 * Li & Durbin. 2010. Fast and accurate long-read alignment with Burrows-Wheeler transform. [Bioinformatics 26: 589-95](https://www.ncbi.nlm.nih.gov/pubmed/?term=20080505)
 
 **Links**
-* http://wgsa.net - Rapid Online Interpretation of Microbial Genomics for Surveillance and Epidemiology
+* https://pathogen.watch - Pathogen Watch, a Global Platform for Genomic Surveillance
 * CARD: Comprehensive Antibiotic Resistance Database, http://card.mcmaster.ca
 * RAxML Blackbox at CIPRES, http://www.phylo.org
 * Archaeopteryx, https://sites.google.com/site/cmzmasek/home/software/archaeopteryx
@@ -51,11 +51,11 @@ Your instructor will demonstrate the software needed to complete the following t
 
 > Flash Update - SNPs [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
-* http://WGSA.net provides molecular typing tools for a number of pathogens. While it does not have a core genome MLST (cgMLST) framework for *Salmonella enterica*, it can perform traditional MLST profiling. Upload your sequences to WGSA.net to examine the MLST typing. Note that an alternate site, SISTR, can perform *Salmonella* cgMLST but it lacks sufficient hardware to be workable in a classroom setting (https://lfz.corefacility.ca/sistr-app/). We won’t be trying SISTR for this lab.
+* https://pathogen.watch provides molecular typing tools for a number of pathogens. While it does not have a core genome MLST (cgMLST) framework for *Salmonella enterica*, it can perform traditional MLST profiling. Upload your sequences to Pathogen Watch to examine the MLST typing. Note that an alternate site, SISTR, can perform *Salmonella* cgMLST but it lacks sufficient hardware to be workable in a classroom setting (https://lfz.corefacility.ca/sistr-app/). We won’t be trying SISTR for this lab.
 
 > Flash Update - Horizontal Gene Transfer [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
 
-* In addition to WGSA.net, these genomes have been run through the PARSNP algorithm to catalog whole-genome SNPs (less SNP dense regions indicative of horizontal gene transfer). The result is a PHYLIP format file that also includes a reference sequence from the same MLST as well as the strain labels from a k-mer analysis. Perform a RAxML analysis (http://www.phylo.org) to determine fine-resolution relationships of these strains. Note: this is a nucleotide alignment, not a protein alignment, but as before include a gamma model of rate heterogeneity, a maximum likelihood search, and estimated proportion of invariable sites. See [Lab 3 Phylogenetics](../Lab_3_Phylogenetics) for a reminder. The results file to look at is *RAxML_bipartitions.out* and the results are easier to look as a cladogram (i.e. no branch lengths).
+* In addition to Pathogen Watch, these genomes have been run through the PARSNP algorithm to catalog whole-genome SNPs (less SNP dense regions indicative of horizontal gene transfer). The result is a PHYLIP format file that also includes a reference sequence from the same MLST as well as the strain labels from a k-mer analysis. Perform a RAxML analysis (http://www.phylo.org) to determine fine-resolution relationships of these strains. Note: this is a nucleotide alignment, not a protein alignment, but as before include a gamma model of rate heterogeneity, a maximum likelihood search, and estimated proportion of invariable sites. See [Lab 3 Phylogenetics](../Lab_3_Phylogenetics) for a reminder. The results file to look at is *RAxML_bipartitions.out* and the results are easier to look as a cladogram (i.e. no branch lengths).
 
 * *Salmonella* infections are often treated without antibiotics, except for severe cases in which trimethoprim (pediatric) or fluoroquinolones (adult) are used. If you find evidence of clonal outbreaks in your data, sample a genome from each subset for Resistance Gene Identifier analysis (part of http://card.mcmaster.ca). 
 
