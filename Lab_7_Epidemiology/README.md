@@ -30,7 +30,7 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 * Archaeopteryx, https://sites.google.com/site/cmzmasek/home/software/archaeopteryx
 
 **Computer Resources**
-* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID.
+* This lab will use McMaster's Virtual Machines for Archaeopteryx, see the demo on how to login using your MacID, otherwise all other steps are performed using any web browser.
 * You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
 * All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
 
