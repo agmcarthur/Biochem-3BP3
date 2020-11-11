@@ -124,18 +124,3 @@ For each of the following tests, how many probes were significant? What do you t
 
 **Question #10 – Explain the different result for the above tests – why did they have different numbers of significant probes?**
 
-The visualization at this point is based on the log transformed, median centered values. You will be shown how to:
-
-* Store the significant probes as a cluster
-* Launch a new session with the significant probes only
-* Log Transform & Median Center the data & adjust visualization
-* Create a Heat Map of the median centered, significant probes (clustering genes & samples)
-* Perform a Rank Product analysis (two-class unpaired, p<0.01, 5% FDR) to see which genes are changing with exposure to Diquat and SFN. Use DMSO as the *Group 1* control.
-* Produce VENN diagrams of the overlapping effects of Diquat and SFN
-
-**Question #11 – How many probes up/down for Diquat and SFN? Do they impact some of the same probes? If so, do they have the same impact on transcript abundance?**
-
-**Question #12 – Are any two compounds more similar to each other than the DMSO control in overall impact on transcript abundance?**
-
-Now that you have lists of significant genes, the remaining (optional) challenge is interpretation. This involves learning about the genes in your list and performing higher-level interpretation using tools like the DAVID Gene Ontology term enrichment tests (note that MeV has this functionality as well if you have the correct annotation files).
-
