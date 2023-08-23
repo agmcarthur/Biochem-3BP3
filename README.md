@@ -2,7 +2,7 @@
 
 Department of Biochemistry & Biomedical Sciences, Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada
 
-*This is a living document, content will be updated frequently.***
+**This is a living document, content will be updated frequently.**
 
 Introduction to bioinformatics theory, tools, and practice with an emphasis on high-throughput DNA sequencing technologies. Areas of emphasis include gene sequence analysis, functional prediction, genome assembly and annotation, gene expression analysis, gene regulation analysis, genome databases, and microbial genomics. Includes an introduction to the command line, software development, and cloud computing.
 
