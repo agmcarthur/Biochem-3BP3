@@ -17,7 +17,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | Week | Dates | Lecture | Tutorial | Flash Updates |
 |-----|-----|-----|-----|-----|
 | 1 | September 5 & 7 | [Lecture 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Bioinformatics & the Course | *Tours of FHS SeqCore and SHARCNET* |
-| 2 | September 12 & 14 | *Tours of FHS SeqCore and SHARCNET* | Lab 1: Introduction to Lab & Genome Databases | GenBank, Ensemble, Growth of Sequencing Data |
+| 2 | September 12 & 14 | *Tours of FHS SeqCore and SHARCNET* | Lab 1: Introduction to Lab & Genome Databases | GenBank, Ensembl, Growth of Sequencing Data |
 | 3 | September 19 & 21 | [Lecture 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Sequence Similarity & Searching | Lab 2: Searches, Protein Annotation | BLAST, Pfam, PROSITE |
 | 4 | September 26 & 28 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology | Lab 3: Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees |
 | 5 | October 3 & 5 | [Lecture 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Beyond the Gene - Networks, Ontologies | Lab 4: Ontology and Antimicrobial Resistance | Gene Ontology, KEGG, CARD |
