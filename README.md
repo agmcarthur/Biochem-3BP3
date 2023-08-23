@@ -29,5 +29,8 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 11 | November 14 & 16 | Lecture 9: RNA-Seq, ChIP-Seq, Bisulfite-Seq | Lab 9: RNA-Seq | RNA-Seq, Illumina HT-12, Tn-Seq |
 | 12 | November 21 & 23 | Lecture 10: Advances in DNA Sequencing | Guest Lecture and/or Lab: Dr. Samantha Wilson | Random Forest, Logistic Regression, Natural Language Processing |
 | 13 | November 28 & 30 | Lecture 11: Genomics of Pandemics | *none* | *none*
-| 14 | 05-Dec | Lecture 12: Internet of Things & Big Data | *none* | *none*
+| 14 | December 5 | Lecture 12: Internet of Things & Big Data | *none* | *none*
 
+* All assignments are to be submitted to A2L by 11:59 pm on the date the assignment is due unless otherwise stated.
+* The Critical Review and Reflective Essay are to be submitted to the assessment drop box on A2L by 11:59 pm on October 24, 2023 and December 6, 2023, respectively.
+* Throughout the term, each student will give a single 10-minute Flash Update presentation on an assigned topic and must upload their slides to A2L before the start of their tutorial.
