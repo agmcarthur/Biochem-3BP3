@@ -37,16 +37,16 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 
 ## Supplementary Videos
 
-**Not official course content for Fall 2023, recorded during Fall 2020, requires McMaster authorized access. Please note, Stream (Classic) is being decommissioned and all videos will be migrated to Stream (on OneDrive and SharePoint) in August, 2023.**
+*Not official course content for Fall 2023, recorded during Fall 2020, requires McMaster authorized access. Please note, Stream (Classic) is being decommissioned and all videos will be migrated to Stream (on OneDrive and SharePoint) in August, 2023.*
 
-* Dr. Joanna Wilson, Department of Biology, McMaster University discusses their research program in aquatic toxicology and the role of genomics and bioinformatic in their research [video ~10 minutes](https://web.microsoftstream.com/video/d8efccec-57d6-4439-ba13-2d5bff4f365b)
-* Dr. Christine Mader, Farncombe Metagenomics DNA Sequencing Core, McMaster University provides an overview of McMaster high-throughput DNA sequencing facility [video ~72 minutes](https://web.microsoftstream.com/video/8c74bee8-8f96-4bb6-b58a-1e768d7e1e85)
-* Mark Hahn, SHARCNET/Digital Alliance provides an overview of the SHARCNET high-performance computing platform [video ~50 minutes](https://web.microsoftstream.com/video/3b619d7c-c31e-434e-b6d2-b8579e441145)
-* Dr. Robyn Lee, Dalla Lana School of Public Health discusses critical infectious disease analyses in the Canadian north [video ~7 minutes](https://web.microsoftstream.com/video/8a04da03-951c-42cb-8059-53be0012d1b4)
-* Dr. Fiona Whelan, University of Nottingham discusses genomics and bioinformatics of the human microbiome [video ~6 minutes](https://web.microsoftstream.com/video/8ff9ee66-8892-4041-99ae-6d1a8f4333be)
-* Dr. Guillaume Paré, Population Health Research Institute, McMaster University discusses exome sequencing and the genetics of cardiovascular disease [video ~17 minutes](https://web.microsoftstream.com/video/83533954-b7ca-44e9-be83-61e833106c23)
-* Dr. Shawn Hercules, Department of Biology McMaster University discusses the genetic underpinnings of triple negative breast cancer [video ~56 minutes](https://web.microsoftstream.com/video/36f73c78-b3b9-4b4e-8145-3cbed5a0e09b)
-* Drs. Michael Chong & Ricky Lali, Population Health Research Institute, McMaster University discuss genome-wide association and cardiovascular disease [video ~95 minutes](https://web.microsoftstream.com/video/dfb7c46e-ce4e-4657-951b-54d51a231262)
+* Dr. Joanna Wilson, Department of Biology, McMaster University discusses their research program in aquatic toxicology and the role of genomics and bioinformatic in their research [, video ~10 minutes](https://web.microsoftstream.com/, video/d8efccec-57d6-4439-ba13-2d5bff4f365b)
+* Dr. Christine Mader, Farncombe Metagenomics DNA Sequencing Core, McMaster University provides an overview of McMaster high-throughput DNA sequencing facility [, video ~72 minutes](https://web.microsoftstream.com/, video/8c74bee8-8f96-4bb6-b58a-1e768d7e1e85)
+* Mark Hahn, SHARCNET/Digital Alliance provides an overview of the SHARCNET high-performance computing platform [, video ~50 minutes](https://web.microsoftstream.com/, video/3b619d7c-c31e-434e-b6d2-b8579e441145)
+* Dr. Robyn Lee, Dalla Lana School of Public Health discusses critical infectious disease analyses in the Canadian north [, video ~7 minutes](https://web.microsoftstream.com/, video/8a04da03-951c-42cb-8059-53be0012d1b4)
+* Dr. Fiona Whelan, University of Nottingham discusses genomics and bioinformatics of the human microbiome [, video ~6 minutes](https://web.microsoftstream.com/, video/8ff9ee66-8892-4041-99ae-6d1a8f4333be)
+* Dr. Guillaume Paré, Population Health Research Institute, McMaster University discusses exome sequencing and the genetics of cardiovascular disease [, video ~17 minutes](https://web.microsoftstream.com/, video/83533954-b7ca-44e9-be83-61e833106c23)
+* Dr. Shawn Hercules, Department of Biology McMaster University discusses the genetic underpinnings of triple negative breast cancer [, video ~56 minutes](https://web.microsoftstream.com/, video/36f73c78-b3b9-4b4e-8145-3cbed5a0e09b)
+* Drs. Michael Chong & Ricky Lali, Population Health Research Institute, McMaster University discuss genome-wide association and cardiovascular disease [, video ~95 minutes](https://web.microsoftstream.com/, video/dfb7c46e-ce4e-4657-951b-54d51a231262)
 
 ## Flash Updates
 
