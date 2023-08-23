@@ -48,7 +48,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 * Dr. Shawn Hercules, Department of Biology McMaster University discusses the genetic underpinnings of triple negative breast cancer, [video ~56 minutes](https://web.microsoftstream.com/video/36f73c78-b3b9-4b4e-8145-3cbed5a0e09b)
 * Drs. Michael Chong & Ricky Lali, Population Health Research Institute, McMaster University discuss genome-wide association and cardiovascular disease, [video ~95 minutes](https://web.microsoftstream.com/video/dfb7c46e-ce4e-4657-951b-54d51a231262)
 
-## Flash Updates
+## Flash Updates - *currently updating to more recent citations*
 
 WEEK 2 - GenBank, Ensembl, Growth of Sequencing Data
 * NCBI & GenBank. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D23-D28. [PMID 30395293](https://pubmed.ncbi.nlm.nih.gov/30395293) & *Nucleic Acids Res.* 2019 Jan 8;47(D1):D94-D99. [PMID 30365038](https://pubmed.ncbi.nlm.nih.gov/30365038).
