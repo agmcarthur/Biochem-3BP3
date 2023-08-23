@@ -17,16 +17,16 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | Week | Dates | Lecture | Tutorial | Flash Updates |
 |-----|-----|-----|-----|-----|
 | 1 | September 5 & 7 | [Lecture 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Bioinformatics & the Course | *Tours of FHS SeqCore and SHARCNET* |
-| 2 | September 12 & 14 | *Tours of FHS SeqCore and SHARCNET* | Lab 1: Introduction to Lab & Genome Databases | GenBank, Ensembl, Growth of Sequencing Data |
-| 3 | September 19 & 21 | [Lecture 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Sequence Similarity & Searching | Lab 2: Searches, Protein Annotation | BLAST, Pfam, PROSITE |
-| 4 | September 26 & 28 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology | Lab 3: Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees |
-| 5 | October 3 & 5 | [Lecture 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Beyond the Gene - Networks, Ontologies | Lab 4: Ontology and Antimicrobial Resistance | Gene Ontology, KEGG, CARD |
+| 2 | September 12 & 14 | *Tours of FHS SeqCore and SHARCNET* | [Lab 1][(https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_1_Genome_Databases)]: Introduction to Lab & Genome Databases | GenBank, Ensembl, Growth of Sequencing Data |
+| 3 | September 19 & 21 | [Lecture 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Sequence Similarity & Searching | [Lab 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_2_Gene_Finding): Searches, Protein Annotation | BLAST, Pfam, PROSITE |
+| 4 | September 26 & 28 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology | [Lab 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_3_Phylogenetics): Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees |
+| 5 | October 3 & 5 | [Lecture 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Beyond the Gene - Networks, Ontologies | [Lab 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_4_Ontologies): Ontology and Antimicrobial Resistance | Gene Ontology, KEGG, CARD |
 | 6 | October 10 & 12 (mid-term recess) | | | |
-| 7 | October 17 & 19 | *Tours of CRLB-GMEL lab* | Lab 5: Linux & Sequencing Informatics (demo) | Sanger Sequencing, FASTA, Linux |
-| 8 | October 24 & 26 | [Lecture 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): DNA Sequencing & Genome Assembly | Lab 6: Galaxy, FASTQ, Assembly | Illumina Sequencing, FASTQ, Galaxy |
-| 9 | October 31 & November 2 | [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Molecular Epidemiology | Lab 7: SNP analysis & Molecular Epidemiology | SNPs, Horizontal Gene Transfer, Metagenomics |
-| 10 | November 7 & 9 | [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Gene Expression Analysis | Lab 8: Microarray Lab (demo) | Microarrays, Normalization, False Discovery |
-| 11 | November 14 & 16 | [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): RNA-Seq, ChIP-Seq, Bisulfite-Seq | Lab 9: RNA-Seq | RNA-Seq, Illumina HT-12, Tn-Seq |
+| 7 | October 17 & 19 | *Tours of CRLB-GMEL lab* | [Lab 5](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_5_Linux): Linux & Sequencing Informatics (demo) | Sanger Sequencing, FASTA, Linux |
+| 8 | October 24 & 26 | [Lecture 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): DNA Sequencing & Genome Assembly | [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly): Galaxy, FASTQ, Assembly | Illumina Sequencing, FASTQ, Galaxy |
+| 9 | October 31 & November 2 | [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Molecular Epidemiology | [Lab 7](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology): SNP analysis & Molecular Epidemiology | SNPs, Horizontal Gene Transfer, Metagenomics |
+| 10 | November 7 & 9 | [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Gene Expression Analysis | [Lab 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_8_Microarrays): Microarray Lab (demo) | Microarrays, Normalization, False Discovery |
+| 11 | November 14 & 16 | [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): RNA-Seq, ChIP-Seq, Bisulfite-Seq | [Lab 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_9_RNASeq): RNA-Seq | RNA-Seq, Illumina HT-12, Tn-Seq |
 | 12 | November 21 & 23 | [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Advances in DNA Sequencing | Guest Lecture & Lab: [Dr. Samantha Wilson](https://www.wilsonpregnancylab.com/) | Random Forest, Logistic Regression, Natural Language Processing |
 | 13 | November 28 & 30 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Genomics of Pandemics | | 
 | 14 | December 5 | [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data |  | 
