@@ -47,6 +47,8 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 * Dr. Guillaume Paré, Population Health Research Institute, McMaster University discusses exome sequencing and the genetics of cardiovascular disease, [video ~17 minutes](https://web.microsoftstream.com/video/83533954-b7ca-44e9-be83-61e833106c23)
 * Dr. Shawn Hercules, Department of Biology McMaster University discusses the genetic underpinnings of triple negative breast cancer, [video ~56 minutes](https://web.microsoftstream.com/video/36f73c78-b3b9-4b4e-8145-3cbed5a0e09b)
 * Drs. Michael Chong & Ricky Lali, Population Health Research Institute, McMaster University discuss genome-wide association and cardiovascular disease, [video ~95 minutes](https://web.microsoftstream.com/video/dfb7c46e-ce4e-4657-951b-54d51a231262)
+* Dr. Sandrine Moreira, National de Santé Publique du Québec discusses implementation of microbial genomics in a public health lab [video ~50 minutes](https://web.microsoftstream.com/video/b3d8eb8c-52a9-4a6f-8f30-9f89efd49e2f)
+* Dr. Kara Tsang, London School of Hygiene & Tropical Medicine discusses analytics and machine learning to predict antimicrobial resistance [video ~50 minutes](https://web.microsoftstream.com/video/9cffd333-8cca-4db1-a17c-884963dcc009)
 
 ## Flash Updates - *currently updating to more recent citations*
 
