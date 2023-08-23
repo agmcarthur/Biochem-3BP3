@@ -21,7 +21,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 3 | September 19 & 21 | [Lecture 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Sequence Similarity & Searching | Lab 2: Searches, Protein Annotation | BLAST, Pfam, PROSITE |
 | 4 | September 26 & 28 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology | Lab 3: Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees |
 | 5 | October 3 & 5 | [Lecture 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Beyond the Gene - Networks, Ontologies | Lab 4: Ontology and Antimicrobial Resistance | Gene Ontology, KEGG, CARD |
-| 6 | October 10 & 12 | *mid-term recess* | *mid-term recess* | *mid-term recess* |
+| 6 | October 10 & 12 (mid-term recess) | | | |
 | 7 | October 17 & 19 | *Tours of CRLB-GMEL lab* | Lab 5: Linux & Sequencing Informatics (demo) | Sanger Sequencing, FASTA, Linux |
 | 8 | October 24 & 26 | [Lecture 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): DNA Sequencing & Genome Assembly | Lab 6: Galaxy, FASTQ, Assembly | Illumina Sequencing, FASTQ, Galaxy |
 | 9 | October 31 & November 2 | [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Molecular Epidemiology | Lab 7: SNP analysis & Molecular Epidemiology | SNPs, Horizontal Gene Transfer, Metagenomics |
