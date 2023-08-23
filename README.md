@@ -1,6 +1,8 @@
 # BIOCHEM 3BP3
 
-## BIOCHEM 3BP3 Practical Bioinformatics in the Genomics Era (McMaster University, Canada) 
+## BIOCHEM 3BP3 Practical Bioinformatics in the Genomics Era
+
+Department of Biochemistry & Biomedical Sciences, Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada
 
 *This is a living document, content will be updated frequently.*
 
