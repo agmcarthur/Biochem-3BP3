@@ -67,8 +67,8 @@ WEEK 4 - Terminology, Sequence Alignment, Phylogenetic Trees
 
 WEEK 5 - Gene Ontology, KEGG, CARD
 * Gene Ontology. Introduce the Gene Ontology. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D330-D338 [PMID 30395331](https://pubmed.ncbi.nlm.nih.gov/30395331).
-* KEGG. Introduce the Kyoto Encyclopedia of Genes and Genomes (KEGG). See Nucleic Acids Res. 2016 Jan 4;44(D1):D457-62 [PMID 26476454] and Nucleic Acids Res. 2019 Jan 8;47(D1):D590-D595 [PMID 30321428].
-* CARD. Introduce the Comprehensive Antibiotic Resistance Database. See Nucleic Acids Res. 2017 45(Database issue):D566-D573 [PMID 27789705] and Nucleic Acids Res. 2020 48(Database issue):D517-D525 [PMID 31665441].
+* KEGG. Introduce the Kyoto Encyclopedia of Genes and Genomes (KEGG). See *Nucleic Acids Res.* 2016 Jan 4;44(D1):D457-62 [PMID 26476454](https://pubmed.ncbi.nlm.nih.gov/26476454) and *Nucleic Acids Res.* 2019 Jan 8;47(D1):D590-D595 [PMID 30321428](https://pubmed.ncbi.nlm.nih.gov/30321428).
+* CARD. Introduce the Comprehensive Antibiotic Resistance Database. See *Nucleic Acids Res.* 2017 45(Database issue):D566-D573 [PMID 27789705](https://pubmed.ncbi.nlm.nih.gov/27789705) and *Nucleic Acids Res.* 2020 48(Database issue):D517-D525 [PMID 31665441](https://pubmed.ncbi.nlm.nih.gov/31665441).
 
 WEEK 7 - Sanger Sequencing, FASTA, Linux
 * Sanger Sequencing. Review the Sanger DNA sequencing method, with emphasis upon automation by Applied Biosystems. See Nature Education 1:193 [http://www.nature.com/scitable/topicpage/dna-sequencing-technologies-690] and http://www.nature.com/scitable/topicpage/the-order-of-nucleotides-in-a-gene-6525806. Note: You do not need to introduce 454, Illumina, or Next-Generation Sequencing (NGS) methods.
