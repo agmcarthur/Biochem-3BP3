@@ -29,7 +29,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 11 | November 14 & 16 | [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): RNA-Seq, ChIP-Seq, Bisulfite-Seq | [Lab 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_9_RNASeq): RNA-Seq | RNA-Seq, Illumina HT-12, Tn-Seq |
 | 12 | November 21 & 23 | [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Advances in DNA Sequencing | Guest Lecture & Lab: [Dr. Samantha Wilson](https://www.wilsonpregnancylab.com/) | Random Forest, Logistic Regression, Natural Language Processing |
 | 13 | November 28 & 30 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Genomics of Pandemics | | 
-| 14 | December 5 | [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data |  | 
+| 14 | December 5 | [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data | | 
 
 * All assignments are to be submitted to A2L by 11:59 pm on the date the assignment is due unless otherwise stated.
 * The Critical Review and Reflective Essay are to be submitted to the assessment drop box on A2L by 11:59 pm on October 24, 2023 and December 6, 2023, respectively.
@@ -51,24 +51,24 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 ## Flash Updates
 
 WEEK 2 - GenBank, Ensembl, Growth of Sequencing Data
-* NCBI & GenBank. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See Nucleic Acids Res. 2019 Jan 8;47(D1):D23-D28. [PMID 30395293] & Nucleic Acids Res. 2019 Jan 8;47(D1):D94-D99. [PMID 30365038].
-* Ensemble. Provide a review of the Ensembl resource, with an emphasis on the variety of tools and data it offers. See Nucleic Acids Res. 2019 Jan 8;47(D1):D745-D751. [PMID 30407521].
-* Growth of Sequencing Data. Provide an overview of the growth of DNA sequencing data as well as predicted growth. See Nucleic Acids Res. 2019 Jan 8;47(D1):D94-D99. [PMID 30365038], http://www.ncbi.nlm.nih.gov/genbank/statistics, http://www.genome.gov/sequencingcosts/ and Science 2011 331:728-9 [PMID 21311016].
+* NCBI & GenBank. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D23-D28. [PMID 30395293](https://pubmed.ncbi.nlm.nih.gov/30395293) & *Nucleic Acids Res.* 2019 Jan 8;47(D1):D94-D99. [PMID 30365038](https://pubmed.ncbi.nlm.nih.gov/30365038).
+* Ensembl. Provide a review of the Ensembl resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D745-D751. [PMID 30407521](https://pubmed.ncbi.nlm.nih.gov/30407521).
+* Growth of Sequencing Data. Provide an overview of the growth of DNA sequencing data as well as predicted growth. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D94-D99. [PMID 30365038](https://pubmed.ncbi.nlm.nih.gov/30365038), http://www.ncbi.nlm.nih.gov/genbank/statistics, http://www.genome.gov/sequencingcosts/, and *Science* 2011 331:728-9 [PMID 21311016](https://pubmed.ncbi.nlm.nih.gov/21311016).
 
 WEEK 3 - BLAST, Pfam, PROSITE
-* BLAST. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online.  Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). Nature Education 1: 215 [http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096]
-* Pfam. Provide a review of the Pfam resource, with an emphasis on the variety of tools and data it offers. See Nucleic Acids Res. 2019 Jan 8;47(D1):D427-D432 [PMID 30357350] and Nucleic Acids Res. 2018 Jul 2;46(W1):W200-W204 [PMID 29905871].
-* PROSITE. Provide a review of the PROSITE resource, with an emphasis on the variety of tools and data it offers. See Nucleic Acids Res. 2013 41(Database issue):D344-7 [PMID 23161676].
+* BLAST. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online. Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). [*Nature Education* 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096)
+* Pfam. Provide a review of the Pfam resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D427-D432 [PMID 30357350](https://pubmed.ncbi.nlm.nih.gov/30357350) and *Nucleic Acids Res.* 2018 Jul 2;46(W1):W200-W204 [PMID 29905871](https://pubmed.ncbi.nlm.nih.gov/29905871).
+* PROSITE. Provide a review of the PROSITE resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2013 41(Database issue):D344-7 [PMID 23161676](https://pubmed.ncbi.nlm.nih.gov/23161676).
 
 WEEK 4 - Terminology, Sequence Alignment, Phylogenetic Trees
-* Terminology. Explain the difference between the terms “similarity” and “homology”. Differentiate between the terms “homolog”, “paralog”, “ortholog”. See Annu Rev Genet. 2005;39:309-38 [PMID 16285863] and http://www.ncbi.nlm.nih.gov/books/NBK62051/.
-* Sequence Alignment. Explain the difference between local alignment (e.g. BLAST) and global alignment (e.g. CLUSTAL) and introduce the CLUSTAL family of algorithms. See Protein Sci. 2018 Jan;27(1):135-145 [PMID 28884485].
-* Phylogenetic Trees. Overview what a phylogenetic tree represents and the major concepts for its interpretation. See Baum 2008. Reading a phylogenetic tree: The meaning of monophyletic groups. Nature Education 1: 190 [http://www.nature.com/scitable/topicpage/reading-a-phylogenetic-tree-the-meaning-of-41956].
+* Terminology. Explain the difference between the terms “similarity” and “homology”. Differentiate between the terms “homolog”, “paralog”, “ortholog”. See *Annu Rev Genet.* 2005;39:309-38 [PMID 16285863](https://pubmed.ncbi.nlm.nih.gov/16285863) and http://www.ncbi.nlm.nih.gov/books/NBK62051/.
+* Sequence Alignment. Explain the difference between local alignment (e.g. BLAST) and global alignment (e.g. CLUSTAL) and introduce the CLUSTAL family of algorithms. See *Protein Sci.* 2018 Jan;27(1):135-145 [PMID 28884485](https://pubmed.ncbi.nlm.nih.gov/28884485).
+* Phylogenetic Trees. Overview what a phylogenetic tree represents and the major concepts for its interpretation. See Baum 2008. Reading a phylogenetic tree: The meaning of monophyletic groups. [*Nature Education* 1: 190](http://www.nature.com/scitable/topicpage/reading-a-phylogenetic-tree-the-meaning-of-41956).
 
 WEEK 5 - Gene Ontology, KEGG, CARD
-* Gene Ontology. Introduce the Gene Ontology. See Nucleic Acids Res. 2019 Jan 8;47(D1):D330-D338 [PMID 30395331].
+* Gene Ontology. Introduce the Gene Ontology. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D330-D338 [PMID 30395331](https://pubmed.ncbi.nlm.nih.gov/30395331).
 * KEGG. Introduce the Kyoto Encyclopedia of Genes and Genomes (KEGG). See Nucleic Acids Res. 2016 Jan 4;44(D1):D457-62 [PMID 26476454] and Nucleic Acids Res. 2019 Jan 8;47(D1):D590-D595 [PMID 30321428].
-* CARD. Introduce the Comprehensive Antibiotic Resistance Database. See Nucleic Acids Res. 2017 45(Database issue):D566-D573 [PMID 27789705] and  Nucleic Acids Res. 2020 48(Database issue):D517-D525 [PMID 31665441].
+* CARD. Introduce the Comprehensive Antibiotic Resistance Database. See Nucleic Acids Res. 2017 45(Database issue):D566-D573 [PMID 27789705] and Nucleic Acids Res. 2020 48(Database issue):D517-D525 [PMID 31665441].
 
 WEEK 7 - Sanger Sequencing, FASTA, Linux
 * Sanger Sequencing. Review the Sanger DNA sequencing method, with emphasis upon automation by Applied Biosystems. See Nature Education 1:193 [http://www.nature.com/scitable/topicpage/dna-sequencing-technologies-690] and http://www.nature.com/scitable/topicpage/the-order-of-nucleotides-in-a-gene-6525806. Note: You do not need to introduce 454, Illumina, or Next-Generation Sequencing (NGS) methods.
