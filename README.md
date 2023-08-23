@@ -28,6 +28,6 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 10 | November 7 & 9 | Lecture 8: Gene Expression Analysis | Lab 8: Microarray Lab (demo) | Microarrays, Normalization, False Discovery |
 | 11 | November 14 & 16 | Lecture 9: RNA-Seq, ChIP-Seq, Bisulfite-Seq | Lab 9: RNA-Seq | RNA-Seq, Illumina HT-12, Tn-Seq |
 | 12 | November 21 & 23 | Lecture 10: Advances in DNA Sequencing | Guest Lecture and/or Lab: Dr. Samantha Wilson | Random Forest, Logistic Regression, Natural Language Processing |
-| 13 | November 28 & 30 | Lecture 11: Genomics of Pandemics | *none* |
-| 14 | 05-Dec | Lecture 12: Internet of Things & Big Data | *none* |
+| 13 | November 28 & 30 | Lecture 11: Genomics of Pandemics | *none* | *none*
+| 14 | 05-Dec | Lecture 12: Internet of Things & Big Data | *none* | *none*
 
