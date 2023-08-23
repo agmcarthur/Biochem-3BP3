@@ -28,8 +28,8 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 10 | November 7 & 9 | [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Gene Expression Analysis | Lab 8: Microarray Lab (demo) | Microarrays, Normalization, False Discovery |
 | 11 | November 14 & 16 | [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): RNA-Seq, ChIP-Seq, Bisulfite-Seq | Lab 9: RNA-Seq | RNA-Seq, Illumina HT-12, Tn-Seq |
 | 12 | November 21 & 23 | [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Advances in DNA Sequencing | Guest Lecture & Lab: [Dr. Samantha Wilson](https://www.wilsonpregnancylab.com/) | Random Forest, Logistic Regression, Natural Language Processing |
-| 13 | November 28 & 30 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Genomics of Pandemics | *none* | *none*
-| 14 | December 5 | [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data | *none* | *none*
+| 13 | November 28 & 30 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Genomics of Pandemics | | 
+| 14 | December 5 | [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data |  | 
 
 * All assignments are to be submitted to A2L by 11:59 pm on the date the assignment is due unless otherwise stated.
 * The Critical Review and Reflective Essay are to be submitted to the assessment drop box on A2L by 11:59 pm on October 24, 2023 and December 6, 2023, respectively.
