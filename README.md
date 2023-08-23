@@ -18,8 +18,8 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 |-----|-----|-----|-----|-----|
 | 1 | September 5 & 7 | [Lecture 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Bioinformatics & the Course | *Tours of FHS SeqCore and SHARCNET* |
 | 2 | September 12 & 14 | *Tours of FHS SeqCore and SHARCNET* | [Lab 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_1_Genome_Databases): Introduction to Lab & Genome Databases | GenBank, Ensembl, Growth of Sequencing Data |
-| 3 | September 19 & 21 | [Lecture 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Sequence Similarity & Searching | [Lab 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_2_Gene_Finding): Searches, Protein Annotation | BLAST, Pfam, PROSITE |
-| 4 | September 26 & 28 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology | [Lab 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_3_Phylogenetics): Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees |
+| 3 | September 19 & 21 | [Lecture 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Sequence Similarity & Searching | [Shark CYPome video ~8 minutes](https://web.microsoftstream.com/video/a876db13-6d45-4ac0-86c5-5c0ef83496e6) & [Lab 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_2_Gene_Finding): Searches, Protein Annotation | BLAST, Pfam, PROSITE |
+| 4 | September 26 & 28 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology | [P450 Phylogeny & Classification video ~13 minutes](https://web.microsoftstream.com/video/654e2d90-b497-4166-9678-c8c76cb3e1ad) & [Lab 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_3_Phylogenetics): Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees |
 | 5 | October 3 & 5 | [Lecture 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Beyond the Gene - Networks, Ontologies | [Lab 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_4_Ontologies): Ontology and Antimicrobial Resistance | Gene Ontology, KEGG, CARD |
 | 6 | October 10 & 12 (mid-term recess) | | | |
 | 7 | October 17 & 19 | *Tours of CRLB-GMEL lab* | [Lab 5](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_5_Linux): Linux & Sequencing Informatics (demo) | Sanger Sequencing, FASTA, Linux |
@@ -34,6 +34,19 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 * All assignments are to be submitted to A2L by 11:59 pm on the date the assignment is due unless otherwise stated.
 * The Critical Review and Reflective Essay are to be submitted to the assessment drop box on A2L by 11:59 pm on October 24, 2023 and December 6, 2023, respectively.
 * Throughout the term, each student will give a single 10-minute Flash Update presentation on an assigned topic and must upload their slides to A2L before the start of their tutorial.
+
+## Supplementary Videos
+
+**Not official course content for Fall 2023, recorded during Fall 2020, requires McMaster authorized access. Please note, Stream (Classic) is being decommissioned and all videos will be migrated to Stream (on OneDrive and SharePoint) in August, 2023.**
+
+* Dr. Joanna Wilson, Department of Biology, McMaster University discusses their research program in aquatic toxicology and the role of genomics and bioinformatic in their research [video ~10 minutes](https://web.microsoftstream.com/video/d8efccec-57d6-4439-ba13-2d5bff4f365b)
+* Dr. Christine Mader, Farncombe Metagenomics DNA Sequencing Core, McMaster University provides an overview of McMaster high-throughput DNA sequencing facility [video ~72 minutes](https://web.microsoftstream.com/video/8c74bee8-8f96-4bb6-b58a-1e768d7e1e85)
+* Mark Hahn, SHARCNET/Digital Alliance provides an overview of the SHARCNET high-performance computing platform [video ~50 minutes](https://web.microsoftstream.com/video/3b619d7c-c31e-434e-b6d2-b8579e441145)
+* Dr. Robyn Lee, Dalla Lana School of Public Health discusses critical infectious disease analyses in the Canadian north [video ~7 minutes](https://web.microsoftstream.com/video/8a04da03-951c-42cb-8059-53be0012d1b4)
+* Dr. Fiona Whelan, University of Nottingham discusses genomics and bioinformatics of the human microbiome [video ~6 minutes](https://web.microsoftstream.com/video/8ff9ee66-8892-4041-99ae-6d1a8f4333be)
+* Dr. Guillaume Paré, Population Health Research Institute, McMaster University discusses exome sequencing and the genetics of cardiovascular disease [video ~17 minutes](https://web.microsoftstream.com/video/83533954-b7ca-44e9-be83-61e833106c23)
+* Dr. Shawn Hercules, Department of Biology McMaster University discusses the genetic underpinnings of triple negative breast cancer [video ~56 minutes](https://web.microsoftstream.com/video/36f73c78-b3b9-4b4e-8145-3cbed5a0e09b)
+* Drs. Michael Chong & Ricky Lali, Population Health Research Institute, McMaster University discuss genome-wide association and cardiovascular disease [video ~95 minutes](https://web.microsoftstream.com/video/dfb7c46e-ce4e-4657-951b-54d51a231262)
 
 ## Flash Updates
 
