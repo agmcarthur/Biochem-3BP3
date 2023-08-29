@@ -57,12 +57,13 @@ WEEK 2 - GenBank, Ensembl, Growth of Sequencing Data
 * Ensembl. Provide a review of the Ensembl resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2023 Jan 6;51(D1):D933-D941. [PMID 36318249](https://pubmed.ncbi.nlm.nih.gov/36318249).
 * Growth of Sequencing Data. Provide an overview of the growth of DNA sequencing data as well as predicted growth. See *Nucleic Acids Res.* 2023 Jan 6;51(D1):D141-D144. [PMID 36350640](https://pubmed.ncbi.nlm.nih.gov/36350640), [GenBank and WGS Statistics](http://www.ncbi.nlm.nih.gov/genbank/statistics), [The Cost of Sequencing a Human Genome](http://www.genome.gov/sequencingcosts/), and [In The Year 2030—Looking at How Genomic Data Might Evolve](https://datascience.cancer.gov/news-events/blog/year-2030-looking-how-genomic-data-might-evolve).
 
+WEEK 3 - BLAST, Pfam, PROSITE
+* BLAST. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online. Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See [*Nature Education* 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096) & *Curr Protoc Mol Biol.** 2001 May;Chapter 19:Unit 19.3 [PMID 18265177](https://pubmed.ncbi.nlm.nih.gov/18265177).
+* Pfam. Provide a review of the Pfam resource, with an emphasis on the variety of tools and data it offers (as well as its migration to InterPro). See *Nucleic Acids Res.* 2021 Jan 8;49(D1):D412-D419 [PMID 33125078](https://pubmed.ncbi.nlm.nih.gov/33125078) and *Nucleic Acids Res.* 2023 Jan 6; 51(D1): D418–D427 [PMID 36350672](https://pubmed.ncbi.nlm.nih.gov/36350672).
+* PROSITE. Provide a review of the PROSITE resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2013 41(Database issue):D344-7 [PMID 23161676](https://pubmed.ncbi.nlm.nih.gov/23161676) and the [PROSITE website](https://prosite.expasy.org).
+
 ## Flash Updates - BEING UPDATED
 
-WEEK 3 - BLAST, Pfam, PROSITE
-* BLAST. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online. Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). [*Nature Education* 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096)
-* Pfam. Provide a review of the Pfam resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D427-D432 [PMID 30357350](https://pubmed.ncbi.nlm.nih.gov/30357350) and *Nucleic Acids Res.* 2018 Jul 2;46(W1):W200-W204 [PMID 29905871](https://pubmed.ncbi.nlm.nih.gov/29905871).
-* PROSITE. Provide a review of the PROSITE resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2013 41(Database issue):D344-7 [PMID 23161676](https://pubmed.ncbi.nlm.nih.gov/23161676).
 
 WEEK 4 - Terminology, Sequence Alignment, Phylogenetic Trees
 * Terminology. Explain the difference between the terms “similarity” and “homology”. Differentiate between the terms “homolog”, “paralog”, “ortholog”. See *Annu Rev Genet.* 2005;39:309-38 [PMID 16285863](https://pubmed.ncbi.nlm.nih.gov/16285863) and http://www.ncbi.nlm.nih.gov/books/NBK62051/.
