@@ -50,12 +50,14 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 * Dr. Sandrine Moreira, National de Santé Publique du Québec discusses implementation of microbial genomics in a public health lab [video ~50 minutes](https://web.microsoftstream.com/video/b3d8eb8c-52a9-4a6f-8f30-9f89efd49e2f)
 * Dr. Kara Tsang, London School of Hygiene & Tropical Medicine discusses analytics and machine learning to predict antimicrobial resistance [video ~50 minutes](https://web.microsoftstream.com/video/9cffd333-8cca-4db1-a17c-884963dcc009)
 
-## Flash Updates - *currently updating to more recent citations*
+## Flash Updates - READY FOR 2023
 
 WEEK 2 - GenBank, Ensembl, Growth of Sequencing Data
-* NCBI & GenBank. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D23-D28. [PMID 30395293](https://pubmed.ncbi.nlm.nih.gov/30395293) & *Nucleic Acids Res.* 2019 Jan 8;47(D1):D94-D99. [PMID 30365038](https://pubmed.ncbi.nlm.nih.gov/30365038).
-* Ensembl. Provide a review of the Ensembl resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D745-D751. [PMID 30407521](https://pubmed.ncbi.nlm.nih.gov/30407521).
-* Growth of Sequencing Data. Provide an overview of the growth of DNA sequencing data as well as predicted growth. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D94-D99. [PMID 30365038](https://pubmed.ncbi.nlm.nih.gov/30365038), http://www.ncbi.nlm.nih.gov/genbank/statistics, http://www.genome.gov/sequencingcosts/, and *Science* 2011 331:728-9 [PMID 21311016](https://pubmed.ncbi.nlm.nih.gov/21311016).
+* NCBI & GenBank. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2023 Jan 6;51(D1):D29-D38. [PMID 36370100](https://pubmed.ncbi.nlm.nih.gov/36370100), *Nucleic Acids Res.* 2022 Jan 7;50(D1):D161-D164. [PMID 34850943](https://pubmed.ncbi.nlm.nih.gov/34850943).
+* Ensembl. Provide a review of the Ensembl resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2023 Jan 6;51(D1):D933-D941. [PMID 36318249](https://pubmed.ncbi.nlm.nih.gov/36318249).
+* Growth of Sequencing Data. Provide an overview of the growth of DNA sequencing data as well as predicted growth. See *Nucleic Acids Res.* 2023 Jan 6;51(D1):D141-D144. [PMID 36350640](https://pubmed.ncbi.nlm.nih.gov/36350640), [GenBank and WGS Statistics](http://www.ncbi.nlm.nih.gov/genbank/statistics), [The Cost of Sequencing a Human Genome](http://www.genome.gov/sequencingcosts/), and [In The Year 2030—Looking at How Genomic Data Might Evolve](https://datascience.cancer.gov/news-events/blog/year-2030-looking-how-genomic-data-might-evolve).
+
+## Flash Updates - BEING UPDATED
 
 WEEK 3 - BLAST, Pfam, PROSITE
 * BLAST. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online. Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). [*Nature Education* 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096)
