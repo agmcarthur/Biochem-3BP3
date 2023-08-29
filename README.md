@@ -62,13 +62,12 @@ WEEK 3 - BLAST, Pfam, PROSITE
 * Pfam. Provide a review of the Pfam resource, with an emphasis on the variety of tools and data it offers (as well as its migration to InterPro). See *Nucleic Acids Res.* 2021 Jan 8;49(D1):D412-D419 [PMID 33125078](https://pubmed.ncbi.nlm.nih.gov/33125078) and *Nucleic Acids Res.* 2023 Jan 6; 51(D1): D418–D427 [PMID 36350672](https://pubmed.ncbi.nlm.nih.gov/36350672).
 * PROSITE. Provide a review of the PROSITE resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2013 41(Database issue):D344-7 [PMID 23161676](https://pubmed.ncbi.nlm.nih.gov/23161676) and the [PROSITE website](https://prosite.expasy.org).
 
-## Flash Updates - BEING UPDATED
-
-
 WEEK 4 - Terminology, Sequence Alignment, Phylogenetic Trees
-* Terminology. Explain the difference between the terms “similarity” and “homology”. Differentiate between the terms “homolog”, “paralog”, “ortholog”. See *Annu Rev Genet.* 2005;39:309-38 [PMID 16285863](https://pubmed.ncbi.nlm.nih.gov/16285863) and http://www.ncbi.nlm.nih.gov/books/NBK62051/.
+* Terminology. Explain the difference between the terms “similarity” and “homology”. Differentiate between the terms “homolog”, “paralog”, “ortholog”. See *Annu Rev Genet.* 2005;39:309-38 [PMID 16285863](https://pubmed.ncbi.nlm.nih.gov/16285863) and [BLAST Glossary](http://www.ncbi.nlm.nih.gov/books/NBK62051/).
 * Sequence Alignment. Explain the difference between local alignment (e.g. BLAST) and global alignment (e.g. CLUSTAL) and introduce the CLUSTAL family of algorithms. See *Protein Sci.* 2018 Jan;27(1):135-145 [PMID 28884485](https://pubmed.ncbi.nlm.nih.gov/28884485).
-* Phylogenetic Trees. Overview what a phylogenetic tree represents and the major concepts for its interpretation. See Baum 2008. Reading a phylogenetic tree: The meaning of monophyletic groups. [*Nature Education* 1: 190](http://www.nature.com/scitable/topicpage/reading-a-phylogenetic-tree-the-meaning-of-41956).
+* Phylogenetic Trees. Overview what a phylogenetic tree represents and the major concepts for its interpretation. See [*Nature Education* 1: 190](http://www.nature.com/scitable/topicpage/reading-a-phylogenetic-tree-the-meaning-of-41956).
+
+## Flash Updates - BEING UPDATED
 
 WEEK 5 - Gene Ontology, KEGG, CARD
 * Gene Ontology. Introduce the Gene Ontology. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D330-D338 [PMID 30395331](https://pubmed.ncbi.nlm.nih.gov/30395331).
