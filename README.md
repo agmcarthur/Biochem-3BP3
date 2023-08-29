@@ -82,12 +82,12 @@ WEEK 8 - Illumina Sequencing, FASTQ, Galaxy
 * FASTQ. Introduce the FASTQ file format, review how it was developed for Next-Generation Sequencing (NGS). Review the concept of base calling quality and how it is encoded in FASTQ. *Nucleic Acids Res.* 2010 38:1767-71 [PMID 20015970](https://pubmed.ncbi.nlm.nih.gov/20015970). *Note: We will be handling recent Illumina FASTQ data, which uses an offset of 33, see https://en.wikipedia.org/wiki/FASTQ_format.*
 * Galaxy. Introduce the Galaxy platform for bioinformatics analysis, see *Genome Biol.* 2010;11(8):R86 [PMID 20738864](https://pubmed.ncbi.nlm.nih.gov/20738864) and *Nucleic Acids Res*. 2022 Jul 5;50(W1):W345-W351 [PMID 35446428](https://pubmed.ncbi.nlm.nih.gov/35446428).
 
-## Flash Updates - BEING UPDATED
-
 WEEK 9 - SNPs, Horizontal Gene Transfer, Metagenomics
-* SNPs. Define the term Single Nucleotide Polymorphism (SNP) and explain how these data can be used to determine organism/strain relatedness. Use the spread of MRSA as an example, Science 2010 327: 469-74 [PMID 20093474].
-* Horizontal Gene Transfer. Define the term Horizontal Gene Transfer (HGT; also known as Lateral Gene Transfer, LGT) and discuss how it could confound determination of organism/strain relatedness using SNP analysis. Use the emergence of MCR-1 as an example, Lancet Infect Dis. 2015 Nov 18. pii: S1473-3099(15)00424-7 [PMID 26603172].
-* Metagenomics. Introduce metagenomics in the context of molecular epidemiology. See Expert Rev Mol Diagn. 2018 Jul;18(7):605-615. [PMID 29898605].
+* SNPs. Define the term Single Nucleotide Polymorphism (SNP) and explain how these data can be used to determine organism/strain relatedness. Use SARS-CoV-2 as an example, see *Microbiol Spectr*. 2023 Jun 15;11(3):e0190022 [PMID 37093060](https://pubmed.ncbi.nlm.nih.gov/37093060) and [Phylogenetic Analysis of SARS-CoV-2 in Ontario](https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/COVID-19-Data-Surveillance/Nextstrain).
+* Horizontal Gene Transfer. Define the term Horizontal Gene Transfer (HGT; also known as Lateral Gene Transfer, LGT) and discuss how it could confound determination of organism/strain relatedness using SNP analysis. Use the emergence of MCR-1 as an example, *Lancet Infect Dis.* 2015 Nov 18. pii: S1473-3099(15)00424-7 [PMID 26603172](https://pubmed.ncbi.nlm.nih.gov/26603172).
+* Metagenomics. Introduce metagenomics in the context of molecular and clinical epidemiology. See *Expert Rev Mol Diagn.* 2018 Jul;18(7):605-615. [PMID 29898605](https://pubmed.ncbi.nlm.nih.gov/29898605).
+
+## Flash Updates - BEING UPDATED
 
 WEEK 10 - Microarrays, Normalization, False Discovery
 * Microarrays. Review microarray technology for measurement of absolute or relative gene expression levels. Highlight the key difference between microarrays and RNA sequencing approaches. See Nature Education 1:195 (http://www.nature.com/scitable/topicpage/transcriptome-connecting-the-genome-to-gene-function-605) and http://www.nature.com/scitable/topicpage/scientists-can-study-an-organism-s-entire-6526266
