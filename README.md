@@ -87,12 +87,12 @@ WEEK 9 - SNPs, Horizontal Gene Transfer, Metagenomics
 * Horizontal Gene Transfer. Define the term Horizontal Gene Transfer (HGT; also known as Lateral Gene Transfer, LGT) and discuss how it could confound determination of organism/strain relatedness using SNP analysis. Use the emergence of MCR-1 as an example, *Lancet Infect Dis.* 2015 Nov 18. pii: S1473-3099(15)00424-7 [PMID 26603172](https://pubmed.ncbi.nlm.nih.gov/26603172).
 * Metagenomics. Introduce metagenomics in the context of molecular and clinical epidemiology. See *Expert Rev Mol Diagn.* 2018 Jul;18(7):605-615. [PMID 29898605](https://pubmed.ncbi.nlm.nih.gov/29898605).
 
-## Flash Updates - BEING UPDATED
-
 WEEK 10 - Microarrays, Normalization, False Discovery
-* Microarrays. Review microarray technology for measurement of absolute or relative gene expression levels. Highlight the key difference between microarrays and RNA sequencing approaches. See Nature Education 1:195 (http://www.nature.com/scitable/topicpage/transcriptome-connecting-the-genome-to-gene-function-605) and http://www.nature.com/scitable/topicpage/scientists-can-study-an-organism-s-entire-6526266
-* Normalization. Introduce the concept of normalization and why it is needed in microarray analysis. Review the major normalization approaches. See Quackenbush. 2002. Microarray data normalization and transformation. Nat Genet. 32 Suppl:496-501. [PMID 12454644]
-* False Discovery. Introduce the concept of the false discovery rate and how it is handled in genomic analyses. See Storey & Tibshirani. 2003. Statistical significance for genomewide studies. Proc Natl Acad Sci U S A. 100: 9440-5. [PMID 12883005] and http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
+* Microarrays. Review microarray technology for measurement of absolute or relative gene expression levels. Highlight the key difference between microarrays and RNA sequencing approaches. See [*Nature Education** 1:195](http://www.nature.com/scitable/topicpage/transcriptome-connecting-the-genome-to-gene-function-605) and [Scientists Can Study an Organism's Entire Genome with Microarray Analysis](http://www.nature.com/scitable/topicpage/scientists-can-study-an-organism-s-entire-6526266).
+* Normalization. Introduce the concept of normalization and why it is needed in microarray analysis. Review the major normalization approaches. See *Nat Genet.* 32 Suppl:496-501. [PMID 12454644](https://pubmed.ncbi.nlm.nih.gov/12454644).
+* False Discovery. Introduce the concept of the false discovery rate and how it is handled in genomic analyses. See *Proc Natl Acad Sci USA*. 100: 9440-5. [PMID 12883005](https://pubmed.ncbi.nlm.nih.gov/12454644) and [P-values, False Discovery Rate (FDR) and q-values](http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx).
+
+## Flash Updates - BEING UPDATED
 
 WEEK 11 - RNA-Seq, Illumina HT-12, Tn-Seq
 * RNA-Seq. Overview the steps in RNA-Seq analysis of transcriptomes. See Wang et al. 2009. RNA-Seq: a revolutionary tool for transcriptomics. Nat Rev Genet. 10:57-63. [PMID 19015660]
