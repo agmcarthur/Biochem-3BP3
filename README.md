@@ -50,7 +50,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 * Dr. Sandrine Moreira, National de Santé Publique du Québec discusses implementation of microbial genomics in a public health lab [video ~50 minutes](https://web.microsoftstream.com/video/b3d8eb8c-52a9-4a6f-8f30-9f89efd49e2f)
 * Dr. Kara Tsang, London School of Hygiene & Tropical Medicine discusses analytics and machine learning to predict antimicrobial resistance [video ~50 minutes](https://web.microsoftstream.com/video/9cffd333-8cca-4db1-a17c-884963dcc009)
 
-## Flash Updates - READY FOR 2023
+## Flash Updates
 
 WEEK 2 - GenBank, Ensembl, Growth of Sequencing Data
 * NCBI & GenBank. Provide a review of the GenBank resource, with an emphasis on the variety of tools and data it offers. See *Nucleic Acids Res.* 2023 Jan 6;51(D1):D29-D38. [PMID 36370100](https://pubmed.ncbi.nlm.nih.gov/36370100), *Nucleic Acids Res.* 2022 Jan 7;50(D1):D161-D164. [PMID 34850943](https://pubmed.ncbi.nlm.nih.gov/34850943).
@@ -90,7 +90,7 @@ WEEK 9 - SNPs, Horizontal Gene Transfer, Metagenomics
 WEEK 10 - Microarrays, Normalization, False Discovery
 * Microarrays. Review microarray technology for measurement of absolute or relative gene expression levels. Highlight the key difference between microarrays and RNA sequencing approaches. See [*Nature Education* 1:195](http://www.nature.com/scitable/topicpage/transcriptome-connecting-the-genome-to-gene-function-605) and [Scientists Can Study an Organism's Entire Genome with Microarray Analysis](http://www.nature.com/scitable/topicpage/scientists-can-study-an-organism-s-entire-6526266).
 * Normalization. Introduce the concept of normalization and why it is needed in microarray analysis. Review the major normalization approaches. See *Nat Genet.* 32 Suppl:496-501. [PMID 12454644](https://pubmed.ncbi.nlm.nih.gov/12454644).
-* False Discovery. Introduce the concept of the false discovery rate and how it is handled in genomic analyses. See *Proc Natl Acad Sci USA*. 100: 9440-5. [PMID 12883005](https://pubmed.ncbi.nlm.nih.gov/12454644) and [P-values, False Discovery Rate (FDR) and q-values](http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx).
+* False Discovery. Introduce the concept of the false discovery rate and how it is handled in genomic analyses. See *Proc Natl Acad Sci USA*. 100: 9440-5. [PMID 12883005](https://pubmed.ncbi.nlm.nih.gov/12883005) and [P-values, False Discovery Rate (FDR) and q-values](http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx).
 
 ## Flash Updates - BEING UPDATED
 
