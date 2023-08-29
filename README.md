@@ -80,7 +80,7 @@ WEEK 7 - Sanger Sequencing, FASTA, Linux
 WEEK 8 - Illumina Sequencing, FASTQ, Galaxy
 * Illumina Sequencing. Review the Illumina DNA sequencing method, see [DNA Sequencing: How to Choose the Right Technology](https://frontlinegenomics.com/dna-sequencing-how-to-choose-the-right-technology/) and [Explore Illumina sequencing technology](http://www.illumina.com/technology/next-generation-sequencing/sequencing-technology.html). *Note: you may use images from the “Illumina Sequencing Introduction” PDF).*
 * FASTQ. Introduce the FASTQ file format, review how it was developed for Next-Generation Sequencing (NGS). Review the concept of base calling quality and how it is encoded in FASTQ. *Nucleic Acids Res.* 2010 38:1767-71 [PMID 20015970](https://pubmed.ncbi.nlm.nih.gov/20015970). *Note: We will be handling recent Illumina FASTQ data, which uses an offset of 33, see https://en.wikipedia.org/wiki/FASTQ_format.*
-* Galaxy. Introduce the Galaxy platform for bioinformatics analysis, see *Genome Biol.* 2010;11(8):R86 [PMID 20738864](https://pubmed.ncbi.nlm.nih.gov/20738864), *Nucleic Acids Res*. 2022 Jul 5;50(W1):W345-W351 [PMID 35446428](https://pubmed.ncbi.nlm.nih.gov/35446428), and [Galaxy Platform Directory: Servers, Clouds, and Deployable Resources](https://galaxyproject.org/use/#which-platform-platform-type-to-choose).
+* Galaxy. Introduce the Galaxy platform for bioinformatics analysis, see *Genome Biol.* 2010;11(8):R86 [PMID 20738864](https://pubmed.ncbi.nlm.nih.gov/20738864) and *Nucleic Acids Res*. 2022 Jul 5;50(W1):W345-W351 [PMID 35446428](https://pubmed.ncbi.nlm.nih.gov/35446428).
 
 ## Flash Updates - BEING UPDATED
 
