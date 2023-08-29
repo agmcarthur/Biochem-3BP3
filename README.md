@@ -65,14 +65,14 @@ WEEK 3 - BLAST, Pfam, PROSITE
 WEEK 4 - Terminology, Sequence Alignment, Phylogenetic Trees
 * Terminology. Explain the difference between the terms “similarity” and “homology”. Differentiate between the terms “homolog”, “paralog”, “ortholog”. See *Annu Rev Genet.* 2005;39:309-38 [PMID 16285863](https://pubmed.ncbi.nlm.nih.gov/16285863) and [BLAST Glossary](http://www.ncbi.nlm.nih.gov/books/NBK62051/).
 * Sequence Alignment. Explain the difference between local alignment (e.g. BLAST) and global alignment (e.g. CLUSTAL) and introduce the CLUSTAL family of algorithms. See *Protein Sci.* 2018 Jan;27(1):135-145 [PMID 28884485](https://pubmed.ncbi.nlm.nih.gov/28884485).
-* Phylogenetic Trees. Overview what a phylogenetic tree represents and the major concepts for its interpretation. See [*Nature Education* 1: 190](http://www.nature.com/scitable/topicpage/reading-a-phylogenetic-tree-the-meaning-of-41956).
-
-## Flash Updates - BEING UPDATED
+* Phylogenetic Trees. Overview what a phylogenetic tree represents and the major concepts for its interpretation. See [*Nature Education* 1: 190](http://www.nature.com/scitable/topicpage/reading-a-phylogenetic-tree-the-meaning-of-41956) and [How to read a phylogenetic tree](https://artic.network/how-to-read-a-tree.html).
 
 WEEK 5 - Gene Ontology, KEGG, CARD
-* Gene Ontology. Introduce the Gene Ontology. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D330-D338 [PMID 30395331](https://pubmed.ncbi.nlm.nih.gov/30395331).
-* KEGG. Introduce the Kyoto Encyclopedia of Genes and Genomes (KEGG). See *Nucleic Acids Res.* 2016 Jan 4;44(D1):D457-62 [PMID 26476454](https://pubmed.ncbi.nlm.nih.gov/26476454) and *Nucleic Acids Res.* 2019 Jan 8;47(D1):D590-D595 [PMID 30321428](https://pubmed.ncbi.nlm.nih.gov/30321428).
-* CARD. Introduce the Comprehensive Antibiotic Resistance Database. See *Nucleic Acids Res.* 2017 45(Database issue):D566-D573 [PMID 27789705](https://pubmed.ncbi.nlm.nih.gov/27789705) and *Nucleic Acids Res.* 2020 48(Database issue):D517-D525 [PMID 31665441](https://pubmed.ncbi.nlm.nih.gov/31665441).
+* Gene Ontology. Introduce the Gene Ontology. See *Nucleic Acids Res.* 2019 Jan 8;47(D1):D330-D338 [PMID 30395331](https://pubmed.ncbi.nlm.nih.gov/30395331) and *Genetics* 2023 May 4;224(1):iyad031 [PMID 36866529](https://pubmed.ncbi.nlm.nih.gov/36866529).
+* KEGG. Introduce the Kyoto Encyclopedia of Genes and Genomes (KEGG). See *Nucleic Acids Res.* 2023 Jan 6;51(D1):D587-D592 [PMID 36300620](https://pubmed.ncbi.nlm.nih.gov/36300620) and *Nucleic Acids Res.* 2019 Jan 8;47(D1):D590-D595 [PMID 30321428](https://pubmed.ncbi.nlm.nih.gov/30321428).
+* CARD. Introduce the Comprehensive Antibiotic Resistance Database. See *Nucleic Acids Res.* 2023 Jan 6;51(D1):D690-D699 [PMID 36263822](https://pubmed.ncbi.nlm.nih.gov/36263822) and *Nucleic Acids Res.* 2020 48(Database issue):D517-D525 [PMID 31665441](https://pubmed.ncbi.nlm.nih.gov/31665441).
+
+## Flash Updates - BEING UPDATED
 
 WEEK 7 - Sanger Sequencing, FASTA, Linux
 * Sanger Sequencing. Review the Sanger DNA sequencing method, with emphasis upon automation by Applied Biosystems. See Nature Education 1:193 [http://www.nature.com/scitable/topicpage/dna-sequencing-technologies-690] and http://www.nature.com/scitable/topicpage/the-order-of-nucleotides-in-a-gene-6525806. Note: You do not need to introduce 454, Illumina, or Next-Generation Sequencing (NGS) methods.
