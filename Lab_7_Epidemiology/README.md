@@ -14,9 +14,9 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 **Lectures** - [Molecular Epidemiology](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%206%20-%20Molecular%20Epidemiology.pptx)
 
 **Flash Updates**
-* *SNPs*. Define the term Single Nucleotide Polymorphism (SNP) and explain how these data can be used to determine organism/strain relatedness. Use the spread of MRSA as an example, [Science 2010 327: 469-74](https://www.ncbi.nlm.nih.gov/pubmed/?term=20093474).
-* *Horizontal Gene Transfer*. Define the term Horizontal Gene Transfer (HGT; also known as Lateral Gene Transfer, LGT) and discuss how it could confound determination of organism/strain relatedness using SNP analysis. Use the emergence of MCR-1 as an example, [Lancet Infect Dis. 2015 Nov 18. pii: S1473-3099(15)00424-7](https://www.ncbi.nlm.nih.gov/pubmed/?term=26603172).
-* *Metagenomics*. Introduce metagenomics in the context of molecular epidemiology. See [Expert Rev Mol Diagn. 2018 Jul;18(7):605-615](https://www.ncbi.nlm.nih.gov/pubmed/?term=29898605).
+* *SNPs* 
+* *Horizontal Gene Transfer* 
+* *Metagenomics* 
 
 **Background Reading** (optional)
 * Mutreja et al .2011. Evidence for several waves of global transmission in the seventh cholera pandemic. [Nature 477: 462-5](https://www.ncbi.nlm.nih.gov/pubmed/?term=21866102)

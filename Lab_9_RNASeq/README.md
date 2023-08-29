@@ -18,9 +18,9 @@ The goal of this lab is to review the analysis of RNA-Seq data using the public 
 **Lectures** - [RNA-Seq, ChIP-Seq, Bisulfite-Seq](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%208%20-%20RNA-Seq.pptx)
 
 **Flash Updates**
-* *RNA-Seq*. Overview the steps in RNA-Seq analysis of transcriptomes. See Wang et al. 2009. RNA-Seq: a revolutionary tool for transcriptomics. [Nat Rev Genet. 10:57-63](https://www.ncbi.nlm.nih.gov/pubmed/?term=19015660)
-* *Illumina Bead Microarrays*. Introduce ‘bead chip’ technologies for measurement of gene expression levels. Contrast the method with RNA-Seq and traditional two-channel microarrays. Illustrate how the technology can be use for gene expression, gene copy number, and gene methylation measurement. See http://www.illumina.com/technology/beadarray-technology.html and embedded links.
-* *Tn-Seq*. Provide an overview on the Tn-Seq approach to examining bacterial genetics. See Gallagher et al. 2011. [MBio 2:e00315-10](https://www.ncbi.nlm.nih.gov/pubmed/?term=21253457)
+* *RNA-Seq* 
+* *Illumina Bead Microarrays* 
+* *Tn-Seq* 
 
 **Background Reading** (optional)
 * Bock. 2012. Analysing and interpreting DNA methylation data. [Nat Rev Genet. 13:705-19](https://www.ncbi.nlm.nih.gov/pubmed/?term=22986265)

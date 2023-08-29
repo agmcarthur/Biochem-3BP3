@@ -16,9 +16,9 @@ Flash Updates - Illumina Sequencing, FASTQ, Galaxy
 **Lectures** - [DNA Sequencing & Genome Assembly](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx)
 
 **Flash Updates**
-* *Illumina Sequencing*. Review the Illumina DNA sequencing method, using the MiSeq platform as an example. [Nat Biotechnol. 30:434-9](https://www.ncbi.nlm.nih.gov/pubmed/?term=22522955) and http://www.illumina.com/technology/next-generation-sequencing/sequencing-technology.html (you may use images from the “Illumina Sequencing Introduction” PDF).
-* *FASTQ*. Introduce the FASTQ file format, review how it was developed for Next-Generation Sequencing (NGS). Review the concept of base calling quality and how it is encoded in FASTQ. [Nucleic Acids Res. 2010 38:1767-71](https://www.ncbi.nlm.nih.gov/pubmed/?term=20015970). Note: We will be handling recent Illumina FASTQ data, which uses an offset of 33, see https://en.wikipedia.org/wiki/FASTQ_format.
-* *Galaxy*. Introduce the Galaxy platform for bioinformatics analysis and how it relates to Cloud computing (focus on CloudMan and Amazon Web Services). See [Genome Biol. 2010 11:R86](https://www.ncbi.nlm.nih.gov/pubmed/?term=20738864) and https://wiki.galaxyproject.org/BigPicture/Choices.
+* *Illumina Sequencing* 
+* *FASTQ* 
+* *Galaxy* 
 
 **Background Reading** (optional)
 * Myers et al. 2000. A whole-genome assembly of *Drosophila*. [Science 287:2196-2204](https://www.ncbi.nlm.nih.gov/pubmed/?term=10731133)

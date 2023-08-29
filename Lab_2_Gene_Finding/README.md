@@ -15,9 +15,9 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 **Lectures** - [Sequence Similarity & Searching](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx)
 
 **Flash Updates**
-* *BLAST*. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online.  Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). [Nature Education 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096)
-* *Pfam*. Provide a review of the Pfam resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2019 Jan 8;47(D1):D427-D432](https://www.ncbi.nlm.nih.gov/pubmed/?term=30357350) and [Nucleic Acids Res. 2018 Jul 2;46(W1):W200-W204](https://www.ncbi.nlm.nih.gov/pubmed/?term=29905871).
-* *PROSITE*. Provide a review of the PROSITE resource, with an emphasis on the variety of tools and data it offers. See [Nucleic Acids Res. 2013 41(Database issue):D344-7](https://www.ncbi.nlm.nih.gov/pubmed/?term=23161676).
+* *BLAST*
+* *Pfam*
+* *PROSITE*
 
 **Background Reading** (optional)
 * Marra et al. 2019. White shark genome reveals ancient elasmobranch adaptations associated with wound healing and the maintenance of genome stability. [Proc Natl Acad Sci U.S.A. 2019 Feb 19, Epub ahead of print](https://www.ncbi.nlm.nih.gov/pubmed/30782839)
