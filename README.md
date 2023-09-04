@@ -16,8 +16,8 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 
 | Week | Dates | Lecture | Tutorial | Flash Updates |
 |-----|-----|-----|-----|-----|
-| 1 | September 5 & 7 | [Lecture 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Bioinformatics & the Course | **Tours of FHS SeqCore and SHARCNET** |
-| 2 | September 12 & 14 | **Tours of FHS SeqCore and SHARCNET** | [Lab 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_1_Genome_Databases): Introduction to Lab & Genome Databases | GenBank, Ensembl, Growth of Sequencing Data |
+| 1 | September 5 & 7 | [Lecture 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Bioinformatics & the Course | **Tours of FHS SeqCore** |
+| 2 | September 12 & 14 | **Tours of SHARCNET** | [Lab 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_1_Genome_Databases): Introduction to Lab & Genome Databases | GenBank, Ensembl, Growth of Sequencing Data |
 | 3 | September 19 & 21 | [Lecture 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Sequence Similarity & Searching | [Shark CYPome video](https://web.microsoftstream.com/video/a876db13-6d45-4ac0-86c5-5c0ef83496e6) & [Lab 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_2_Gene_Finding): Searches, Protein Annotation | BLAST, Pfam, PROSITE |
 | 4 | September 26 & 28 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology | [P450 Phylogeny & Classification video](https://web.microsoftstream.com/video/654e2d90-b497-4166-9678-c8c76cb3e1ad) & [Lab 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_3_Phylogenetics): Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees |
 | 5 | October 3 & 5 | [Lecture 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Beyond the Gene - Networks, Ontologies | [Lab 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_4_Ontologies): Ontology and Antimicrobial Resistance | Gene Ontology, KEGG, CARD |
