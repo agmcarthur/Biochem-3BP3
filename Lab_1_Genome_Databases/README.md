@@ -42,7 +42,7 @@ The goal of this lab is to introduce two key bioinformatics databases – GenBan
 <a name="laws"></a>
 ## Moore's and Kryder's Laws
 
-> Flash Update - Growth of Sequencing Data ([kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895))
+> Flash Update - Growth of Sequencing Data
 
 You were introduced to Moore's and Kryder's laws in the lecture:
 
@@ -78,11 +78,14 @@ _Stein. 2010. The case for cloud computing in genome informatics. Genome Biol. 1
 
 The NCBI is one of the dominant international data repositories for biomedical data, hosted by the US Government’s National Library of Medicine at the National Institutes of Health in Bethesda, Maryland. It is often referred to as GenBank, but this name actually refers to only a subset of its data and tools. The NCBI leads international data integration efforts, particularly with the European Molecular Biology Laboratory (EMBL) and the DNA Data Bank of Japan (DDBJ). The origins and success of the NCBI is tightly tied to the origins and success of the Internet – GenBank came online in 1992.  Modern bioinformatics research is highly dependant upon the Internet and this is best exemplified by the NCBI. As such, we are going to start by looking at the global network infrastructure, since bioinformatics is increasingly a global enterprise.
 
+![Undersea Cables](./cable.jpg)
+See [Submarine Cables: the Invisible Fiber Link Enabling the Internet](https://dgtlinfra.com/submarine-cables-fiber-link-internet/)
+
 ![Map of Japan. Source: Wikipedia](./japan.jpg)
 
 _Map of Japan. Source: Wikipedia_
 
-**Question #1. Take a look at http://www.submarinecablemap.com. How many submarine cable landing points does Japan have (excluding Okinawa)?** 
+**Question #1. Take a look at http://www.submarinecablemap.com, with the map above as a guide. How many submarine cable landing points does Japan have (excluding Okinawa)?** 
 
 **Question #2. How many cable links are between Russia and Japan?**
 
