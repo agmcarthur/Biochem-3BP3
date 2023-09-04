@@ -30,9 +30,10 @@ In this lab we are going to examine the use of ontologies to provide functional 
 * You can complete this entire lab by using your web browser
 
 **Grading**
-* The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline
-* An answer key will be provided on A2L after the deadline
-* Problems are worth 5 points each (-1 for each error) = 20 points maximum
+* Questions are for your learning and are not graded
+* Problems are worth 5 points each (-1 for each error)
+* Submit your answers to the Problems, plus any supplmental multiple choice questions, on **A2L Quizzes** before the deadline
+* An answer key to Questions and Problems will be provided on A2L after the deadline
 
 <a name="tcdd"></a>
 ## The Transcriptional Impact of Industrial Compounds

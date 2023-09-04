@@ -31,9 +31,10 @@ Flash Updates - Illumina Sequencing, FASTQ, Galaxy
 * All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
 
 **Grading**
-* The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline.
-* An answer key will be provided on A2L after the deadline
-* Problems are worth 5 points each (-1 for each error) = 15 points maximum
+* Questions are for your learning and are not graded
+* Problems are worth 5 points each (-1 for each error)
+* Submit your answers to the Problems, plus any supplmental multiple choice questions, on **A2L Quizzes** before the deadline
+* An answer key to Questions and Problems will be provided on A2L after the deadline
 
 **Terminal**
 * Part of today’s lab will be performed at the command line and is meant to expand your linux skills. You may need your notes from the last lab as a cheat sheet. Remember, case matters for linux computers. Unless otherwise indicated, use lowercase.

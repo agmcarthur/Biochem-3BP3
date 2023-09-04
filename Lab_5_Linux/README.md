@@ -28,7 +28,6 @@ The goal of this lab is to introduce the Linux operating system and the *command
 
 **Grading**
 * This is a participation lab, not graded.
-* The WORD file for answers is available on A2L
 * An answer key will be provided on A2L after the deadline.
 
 > Instructor: backup files and scripts (with permissions set) can be found in files.tar.gz

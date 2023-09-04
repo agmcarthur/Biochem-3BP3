@@ -33,7 +33,6 @@ The goal of this lab is to review the analysis of microarray data.
 
 **Data and A2L Files**
 * This is a participation lab, not graded.
-* The WORD file for answers is available on A2L.
 * An answer key will be provided on A2L after the lab.
 * Remember to refer to the microarray flow chart as we work through the lab.
 * Experimental design and results are available in the A2L file *Biochem 3BP3 Lab 8 Microarray.pptx*.

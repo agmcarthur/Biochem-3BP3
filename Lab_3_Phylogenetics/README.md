@@ -43,11 +43,12 @@ Computer -> UDiskBOOT -> Users
 Please de-select the “Read-only” option as demonstrated. 
 ```
 
-**Submit for Grading:**
-* The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline
-* An answer key will be provided on A2L after the deadline
-* Problems are worth 5 points each (-1 for each error) = 5 points maximum
+**Grading**
+* Questions are for your learning and are not graded
+* Problems are worth 5 points each (-1 for each error)
 * Your FASTA sequence file (seqdump.txt), PHYLIP alignment file (seqdump.txt.phy), and RAxML tree file (RAxML_bipartitions.result.txt) should be uploaded to A2L for review by the TA.
+* Submit your answers to the Problems, plus any supplmental multiple choice questions, on **A2L Quizzes** before the deadline
+* An answer key to Questions and Problems will be provided on A2L after the deadline
 
 <a name="msa"></a>
 ## From Sequences to a Multiple Sequence Alignment
