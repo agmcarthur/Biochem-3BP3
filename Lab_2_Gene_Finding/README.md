@@ -67,7 +67,7 @@ _Introns and Exons (py = pyrimidines, i.e. C or U). Source: Wikipedia_
 <a name="blast"></a>
 ## Finding Putative P450s via BLAST
 
-> Flash Update - BLAST [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
+> Flash Update - BLAST
 
 Using your query sequence (as protein!) in FASTA format, search the *Carcharodon carcharias* genome sequence at NCBI for all the possible P450 genes. Remember, since you are submitting a protein query against a genome that contains both introns & exons, a single putative P450 gene will likely have multiple High-scoring Segment Pairs (HSPs). Also, since all P450s are related, your single query may detect more than one putative P450 gene. 
 
@@ -127,9 +127,9 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 <a name="annotate"></a>
 ## Annotating a Single P450 Gene
 
-> Flash Update - Pfam [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
+> Flash Update - Pfam
 
-> Flash Update - PROSITE [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
+> Flash Update - PROSITE
 
 **Paste your putative P450 protein sequence into your WORD file or otherwise keep a copy of it for next week.**
 

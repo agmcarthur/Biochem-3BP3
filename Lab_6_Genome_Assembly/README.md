@@ -11,8 +11,6 @@
 
 The goal of this lab is to improve student usage of the Linux operating system and the *command line*, in the context Illumina FASTQ DNA sequencing data and microbial genome assembly. Students will additionally be introduced to cloud computing and the Galaxy framework for bioinformatics analyses.
 
-Flash Updates - Illumina Sequencing, FASTQ, Galaxy
-
 **Lectures** - [DNA Sequencing & Genome Assembly](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx)
 
 **Flash Updates**
@@ -47,9 +45,9 @@ We are going to perform a command line assembly of a *Salmonella* genome that wa
 
 **NOTE: SERVER PERFORMANCE MAY BE SLOW IF MANY STUDENTS ARE USING UPPSALA SIMULTANEOUSLY**
 
-> Flash Update - Illumina Sequencing [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
+> Flash Update - Illumina Sequencing
 
-> Flash Update - FASTQ [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
+> Flash Update - FASTQ 
 
 To start:
 * Log into uppsala.mcmaster.ca
@@ -181,7 +179,7 @@ Using the lab computers, visualize the quality of the assembly graph, with an em
 <a name="galaxy"></a>
 ## PART 2 - Galaxy
 
-> Flash Update - Galaxy [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
+> Flash Update - Galaxy 
 
 Today’s lab will use the public server of the Galaxy project, http://usegalaxy.org. It is used by thousands of researchers, so you will be sharing computational resources – not all steps will perform quickly. Use the following steps to set up your account:
 
