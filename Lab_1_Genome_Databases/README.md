@@ -121,7 +121,7 @@ If you are doing a research project, after you find a successful set of search t
 
 > Flash Update - GenBank
 
-The above exercise illustrates how the combination of data (i.e. citation information), classification (i.e. controlled vocabularies) and unique identifiers (i.e. PMID) can be used to generate powerful informatics resources. Similar efforts exist for gene sequences. Return to the NCBI homepage, http://www.ncbi.nlm.nih.gov, and search all databases for the drug *colistin*. This gives you a sense of the diversity of data available for a single drug: associated genes, gene expression (GEO), chemical assays, and chemical compound data. Note that there are over 1,900,000 protein sequences that have an association with colistin. Click on the *Protein* link to view the list and you’ll see the top of the list is predominantly Mcr and Pmr proteins. View the **top 200 hits** and click on the protein in the list with accession AGK23098.1 (PmrA) to view GenBank Format Data, a verbose file format for describing molecular data. While software has been developed to read GenBank format, it is primarily for human consumption.
+The above exercise illustrates how the combination of data (i.e. citation information), classification (i.e. controlled vocabularies) and unique identifiers (i.e. PMID) can be used to generate powerful informatics resources. Similar efforts exist for gene sequences. Return to the NCBI homepage, http://www.ncbi.nlm.nih.gov, and search all databases for the drug *colistin*. This gives you a sense of the diversity of data available for a single drug: associated genes, gene expression (GEO), chemical assays, and chemical compound data. Note that there are over 2,600,000 protein sequences that have an association with colistin. Click on the *Protein* link to view the list and you’ll see the top of the list is predominantly Mcr and Pmr proteins. Focus on one of these proteins by searching for accession AGK23098.1 (PmrA) to view GenBank Format Data, a verbose file format for describing molecular data. While software has been developed to read GenBank format, it is primarily for human consumption.
 
 **Question #11. Find the following information in the GenBank data file:**
 
@@ -130,7 +130,6 @@ The above exercise illustrates how the combination of data (i.e. citation inform
 * GenBank accession
 * How many amino acids in this protein?
 * Which residues (amino acids) are involved in DNA binding?
-* Is the DNA binding region in the N-terminus or C-terminus of the protein?
 * GenBank accession for the corresponding DNA sequence
 
 An important feature of GenBank data is the use of Accession numbers as these are reported in the scientific literature. However, if an author or sequencing centre submits a correction to the sequence, the Accession remains unchanged (it is immortal - so the scientific literature does not become stale) but is now given a version sub-identifier. To make this clear, record the following:
@@ -142,13 +141,13 @@ In the scientific literature and in discussion, researchers predominantly refer 
 <a name="blast"></a>
 ## BLAST
 
-GenBank is not just for browsing data, but instead you can search based on sequence. Next week’s lecture and lab is going to detail the Basic Local Alignment Search Tool (BLAST) algorithm, but try it now to see what is does by clicking on the *Run BLAST* link. This will launch an interface to compare your Pmr protein against curated reference proteins in GenBank: select **Non-redundant protein sequences (nr) & 500 targets**.
+GenBank is not just for browsing data, but instead you can search based on sequence. Next week’s lecture and lab is going to detail the Basic Local Alignment Search Tool (BLAST) algorithm, but try it now to see what is does by clicking on the *Run BLAST* link. This will launch an interface to compare your Pmr protein against curated reference proteins in GenBank: select **Non-redundant protein sequences (nr) & 500 Max Target Sequences**.
 
 **Record the Request ID (RID) of your search, so you don't have to repeat it later (expires after 24 hours)**
 
 **Question #13. Which functional domains are predicted in your protein and what does each do (select on Graphic Summary and click on the domain for details)?**
 
-**Question #14. Give the % similarity of the best “hit” and the worst “hit”.**
+**Question #14. Give the % identity of the best “hit” and the worst “hit”.**
 
 Now please edit your BLAST search to find **5000 targets** but filter for **Vertebrata (taxid:7742)** hits.
 
