@@ -14,7 +14,7 @@
 
 The goal of this lab is to introduce two key bioinformatics databases – GenBank & Ensembl – plus a few additional online resources.
 
-**Lecture:** [Lecture 1 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) Introduction to Bioinformatics & the Course [video ~43 minutes](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Lecture%201.mp4?csf=1&web=1&e=u9de3C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+**Lecture:** [Lecture 1 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) Introduction to Bioinformatics & the Course [video ~43 minutes](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Lecture%201.mp4?csf=1&web=1&e=9RjzMf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 **Flash Updates**
 * *GenBank* 
