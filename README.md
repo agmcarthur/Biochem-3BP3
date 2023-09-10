@@ -12,7 +12,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 
 > This GitHub repository only contains material developed by [Dr. McArthur](http://mcarthurbioinformatics.ca) directly and does not include guest lectures, student generated content, or course documents. These are only available to registered students via Avenue to Learn. In addition, some of the exercises require password access to class servers, available to registered students only. These can be provided by request for undergraduate and graduate students in Biochemistry & Biomedical Sciences, the Michael G. DeGroote Institute for Infectious Disease Research, or other affiliated programs. Please see [License and Copyright information](https://github.com/agmcarthur/Biochem-3BP3/blob/master/LICENSE).
 
-Those with McMaster University credentials can view the entire [Lecture & Lab Video Collection for BIOCHEM 3BP3 Fall 2023](BIOCHEM 3BP3 Fall 2023 - Lab 1 Intro & Undersea Cables).
+Those with McMaster University credentials can view the entire [Lecture & Lab Video Collection for BIOCHEM 3BP3 Fall 2023](https://mcmasteru365-my.sharepoint.com/:l:/g/personal/mcarthua_mcmaster_ca/FK6TG49iu9BHslHEHqxlREUBfvf3zeQ4zqmAx737WhZnEg?e=tQr2jn).
 
 ## Course Schedule Fall 2023
 
