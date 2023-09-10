@@ -21,6 +21,10 @@ The goal of this lab is to introduce two key bioinformatics databases – GenBan
 * *Ensemble* 
 * *Growth of Sequencing Data* 
 
+**Demo Videos**
+* [Intro & Undersea Cables](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Fall%202023%20-%20Lab%201%20Intro%20%26%20Undersea%20Cables.mp4?csf=1&web=1&e=JdZYgp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) ~4 minutes
+* [PubMeD](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Fall%202023%20-%20Lab%201%20PubMED.mp4?csf=1&web=1&e=PkmGxE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) ~5 minutes
+
 **Background Reading** (optional)
 * J. Chang. 2015. Core services: Reward bioinformaticians. [Nature 520:151-2](https://www.ncbi.nlm.nih.gov/pubmed/?term=25855439)
 * Goodman et al. 2014. Ten simple rules for the care and feeding of scientific data. [PLoS Comput Biol. 10(4):e1003542](https://www.ncbi.nlm.nih.gov/pubmed/?term=24763340)
