@@ -14,7 +14,7 @@
 
 The goal of this lab is to introduce two key bioinformatics databases – GenBank & Ensembl – plus a few additional online resources.
 
-**Lecture:** [Lecture 1 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) Introduction to Bioinformatics & the Course [video ~43 minutes](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Lecture%201.mp4?csf=1&web=1&e=9RjzMf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+**Lecture:** [Lecture 1 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) Introduction to Bioinformatics & the Course [video ~43 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/ET4LBPiNG3NCvOY2Gx7pqqEBKxsBngzQ6vBuQLJAyCun_A)
 
 **Flash Updates**
 * *GenBank* 
@@ -22,10 +22,10 @@ The goal of this lab is to introduce two key bioinformatics databases – GenBan
 * *Growth of Sequencing Data* 
 
 **Demo Videos**
-* [Intro & Undersea Cables](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Fall%202023%20-%20Lab%201%20Intro%20%26%20Undersea%20Cables.mp4?csf=1&web=1&e=JdZYgp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) ~4 minutes
-* [PubMeD](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Fall%202023%20-%20Lab%201%20PubMED.mp4?csf=1&web=1&e=PkmGxE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) ~5 minutes
-* [GenBank & BLAST](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Fall%202023%20-%20Lab%201%20Entrez%20and%20BLAST.mp4?csf=1&web=1&e=FX8wG0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) ~13 minutes
-* [Ensembl](https://mcmasteru365-my.sharepoint.com/:v:/r/personal/mcarthua_mcmaster_ca/Documents/BIOCHEM%203BP3%20Fall%202023%20-%20Lab%201%20Ensembl.mp4?csf=1&web=1&e=zQvaMb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) ~15 minutes
+* [Intro & Undersea Cables](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/Ednxa2wKV4RKvjC364HiwDYBZVCRa0xtu13wkQh3HnrMrA) ~4 minutes
+* [PubMeD](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EdZVnIH3XUZJoEg2zQXHqv4BFe4uQGIVTgdIn6Q1-LfZDQ) ~5 minutes
+* [GenBank & BLAST](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EdPwIBaqq7hEofEKfux_eycBgmD6QmE-XjdlfdcFZw7JRQ) ~13 minutes
+* [Ensembl](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EbIIq_NbMotCjqySXVNyJv8BoUc7bmPeHDboIIWZLBE1Qg) ~15 minutes
 
 **Background Reading** (optional)
 * J. Chang. 2015. Core services: Reward bioinformaticians. [Nature 520:151-2](https://www.ncbi.nlm.nih.gov/pubmed/?term=25855439)
