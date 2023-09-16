@@ -134,11 +134,11 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 
 > Flash Update - PROSITE
 
-**Paste your putative P450 protein sequence into your WORD file or otherwise keep a copy of it for next week.**
+**Paste your putative P450 protein sequence into a WORD file and keep a copy of it for next week.**
 
 **Question #6. How many amino acids long is your putative P450? Is this length similar to P450 proteins in GenBank from other organisms?**
 
-**Question #7. What [Pfam](http://pfam.xfam.org) domains are predicted for your protein sequence? What predictions can you make about the function of this protein?**
+**Question #7. What [Pfam](https://www.ebi.ac.uk/interpro) domains are predicted for your protein sequence? What predictions can you make about the function of this protein?**
 
 **Question #8. What [PROSITE](http://prosite.expasy.org) motifs are predicted for your protein sequence? What predictions can you make about the function of this protein?**
 
