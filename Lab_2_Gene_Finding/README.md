@@ -34,7 +34,7 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 * *Carcharodon carcharias* genome, https://www.ncbi.nlm.nih.gov/nuccore/QUOW00000000.1/
 * NCBI TBLASTN, https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=tblastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 * Translate tool, http://web.expasy.org/translate/
-* Pfam, http://pfam.xfam.org
+* Pfam (at InterPro), https://www.ebi.ac.uk/interpro/
 * Prosite, http://prosite.expasy.org
 
 **Computer Resources**
