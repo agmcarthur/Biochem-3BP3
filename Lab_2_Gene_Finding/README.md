@@ -12,12 +12,15 @@
 
 The goal of this lab is to annotate the P450 proteins in the recently sequenced Great White Shark genome, using BLAST, Pfam, and other tools plus a number of available databases. This is a problem-based learning lab and you will work both collectively and individually. The results of this week’s lab will be used in next week’s evolution lab.
 
-**Lectures** - [Sequence Similarity & Searching](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx)
+**Lecture:** - [Lecture 2 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx) Sequence Similarity & Searching video ~x minutes
 
 **Flash Updates**
 * *BLAST*
 * *Pfam*
 * *PROSITE*
+
+**Demo Videos**
+* []() ~X minutes
 
 **Background Reading** (optional)
 * Marra et al. 2019. White shark genome reveals ancient elasmobranch adaptations associated with wound healing and the maintenance of genome stability. [Proc Natl Acad Sci U.S.A. 2019 Feb 19, Epub ahead of print](https://www.ncbi.nlm.nih.gov/pubmed/30782839)
