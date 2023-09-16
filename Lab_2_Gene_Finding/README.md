@@ -20,7 +20,7 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 * *PROSITE*
 
 **Demo Videos**
-* [Introduction to P450s](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVlSruy12RBAq5-3kwudtEMBAqWdUvWDiz-4xExGFOvbtw) (Dr. Joanna Wilson, Department of Biology, McMaster University) ~8 minutes
+* [Introduction to P450s & The Great White Shark](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVlSruy12RBAq5-3kwudtEMBAqWdUvWDiz-4xExGFOvbtw) (Dr. Joanna Wilson, Department of Biology, McMaster University) ~8 minutes
 
 **Background Reading** (optional)
 * Marra et al. 2019. White shark genome reveals ancient elasmobranch adaptations associated with wound healing and the maintenance of genome stability. [Proc Natl Acad Sci U.S.A. 116:4446-4455](https://www.ncbi.nlm.nih.gov/pubmed/30782839)
@@ -53,7 +53,7 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 
 _Carcharodon carcharias. Source: IUCN Red List of Threatened Species_
 
-Dr. Joanna Wilson (Biology) will introduce *Carcharodon carcharias* (great white shark) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome (see [Introduction to P450s video](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVlSruy12RBAq5-3kwudtEMBAqWdUvWDiz-4xExGFOvbtw)). Using query sequences from the zebrafish genome, it is your job to use the BLAST tools and genome browser at NCBI to collectively find all the putative P450 genes in this genome. 
+Dr. Joanna Wilson (Biology) will introduce *Carcharodon carcharias* (great white shark) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome (see [Introduction to P450s & The Great White Shark](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVlSruy12RBAq5-3kwudtEMBAqWdUvWDiz-4xExGFOvbtw) video). Using query sequences from the zebrafish genome, it is your job to use the BLAST tools and genome browser at NCBI to collectively find all the putative P450 genes in this genome. 
 
 In the class Teams under *Tutorials -> Files* you will find spreadsheets for Group 1 & Group 2 with individually assigned query P450s and columns for notes as you complete the lab. These zebrafish proteins can be found at Ensembl, http://www.ensembl.org.
 
