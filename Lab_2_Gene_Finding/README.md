@@ -20,7 +20,7 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 * *PROSITE*
 
 **Demo Videos**
-* [Introduction to P450s](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVlSruy12RBAq5-3kwudtEMBAqWdUvWDiz-4xExGFOvbtw) ~8 minutes
+* [Introduction to P450s](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVlSruy12RBAq5-3kwudtEMBAqWdUvWDiz-4xExGFOvbtw) (Dr. Joanna Wilson, Department of Biology, McMaster University) ~8 minutes
 
 **Background Reading** (optional)
 * Marra et al. 2019. White shark genome reveals ancient elasmobranch adaptations associated with wound healing and the maintenance of genome stability. [Proc Natl Acad Sci U.S.A. 116:4446-4455](https://www.ncbi.nlm.nih.gov/pubmed/30782839)
