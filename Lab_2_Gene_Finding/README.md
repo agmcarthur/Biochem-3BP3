@@ -20,7 +20,7 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 * *PROSITE*
 
 **Demo Videos**
-* []() ~X minutes
+* [Introduction to P450s](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVlSruy12RBAq5-3kwudtEMBAqWdUvWDiz-4xExGFOvbtw) ~8 minutes
 
 **Background Reading** (optional)
 * Marra et al. 2019. White shark genome reveals ancient elasmobranch adaptations associated with wound healing and the maintenance of genome stability. [Proc Natl Acad Sci U.S.A. 116:4446-4455](https://www.ncbi.nlm.nih.gov/pubmed/30782839)
@@ -53,11 +53,11 @@ The goal of this lab is to annotate the P450 proteins in the recently sequenced 
 
 _Carcharodon carcharias. Source: IUCN Red List of Threatened Species_
 
-Dr. Joanna Wilson (Biology) will introduce *Carcharodon carcharias* (great white shark) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome (see pre-recorded introduction). Using query sequences from the zebrafish and human genomes, it is your job to use the BLAST tools and genome browser at NCBI to collectively find all the putative P450 genes in this genome. Once the class had developed a list of putative genes, each student will be assigned a gene to map out intron/exon boundaries and the predicted protein sequence. Remember what you have learned about splicing sites:
+Dr. Joanna Wilson (Biology) will introduce *Carcharodon carcharias* (great white shark) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome (see pre-recorded introduction). Using query sequences from the zebrafish genome, it is your job to use the BLAST tools and genome browser at NCBI to collectively find all the putative P450 genes in this genome. 
 
-List of P450 Query Sequences, https://docs.google.com/spreadsheets/d/11DJkJRuUN9hfKJykeAhph-SQFG691V3OP89YWroJU84/edit?usp=sharing
+In the class Teams under *Tutorials -> Files* you will find a spreadsheet for Group 1 & Group 2 with individual assigned query P450s and columns for notes as you complete the lab. These zebrafish proteins can be found at Ensembl, http://www.ensembl.org
 
-Ensembl, http://www.ensembl.org
+Once the class had developed a list of putative genes, each student will be assigned a gene to map out intron/exon boundaries and the predicted protein sequence. Remember what you have learned about splicing sites:
 
 ![mRNA Splicing. Source: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RNA_splicing_reaction.svg/1280px-RNA_splicing_reaction.svg.png)
 

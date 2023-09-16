@@ -19,6 +19,9 @@ In the last lab you worked to identify and develop a gene model for a putative P
 * *Sequence Alignment* 
 * *Phylogenetic Trees* 
 
+**Demo Videos**
+* [Introduction to P450 Nomenclature]() ~x minutes
+
 **Background Reading** (optional)
 * Dejong & Wilson. 2014. The Cytochrome P450 superfamily complement (CYPome) in the annelid *Capitella teleta*. [PLoS One 9:e107728](https://www.ncbi.nlm.nih.gov/pubmed/?term=25390889)
 * Bos et al. 2011. A draft genome of *Yersinia pestis* from victims of the Black Death. [Nature 478: 506-10](https://www.ncbi.nlm.nih.gov/pubmed/?term=21993626)
