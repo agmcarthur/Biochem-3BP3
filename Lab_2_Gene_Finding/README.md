@@ -12,7 +12,7 @@
 
 The goal of this lab is to annotate the P450 proteins in the recently sequenced Great White Shark genome, using BLAST, Pfam, and other tools plus a number of available databases. This is a problem-based learning lab and you will work both collectively and individually. The results of this week’s lab will be used in next week’s evolution lab.
 
-**Lecture:** - [Lecture 2 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx) Sequence Similarity & Searching video ~x minutes
+**Lecture:** - [Lecture 2 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%202%20-%20Sequence%20Searching.pptx) Sequence Similarity & Searching [video ~35 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/Edb7QIoY0wpGsV5IlIwy_20Bclz0y8_GneI7DhTfFsgFlw)
 
 **Flash Updates**
 * *BLAST*
