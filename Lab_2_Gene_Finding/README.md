@@ -110,7 +110,7 @@ For example, this is the 3' end of exon 2 of a putative P450. The exon is in the
 
 ![exon 2](exon2.jpg)
 
-Continuing the example, this is the 5' end of exon 3 of the same putative P450. The exon is also in the +3 strand and highlighted in purple. We are now viewing the 3' end of the intron, with the canonical splice site AG:
+Continuing the example, this is the 5' end of exon 3 of the same putative P450. The exon is also in the +3 strand and highlighted in red. We are now viewing the 3' end of the intron, with the canonical splice site AG:
 
 ![exon 3](exon3.jpg)
 
