@@ -63,10 +63,6 @@ Once the class had developed a list of putative genes, each student will be assi
 
 _mRNA Splicing. Source: Wikipedia_
 
-![Introns and Exons. Source: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/a/a8/Intron_miguelferig.jpg)
-
-_Introns and Exons (py = pyrimidines, i.e. C or U). Source: Wikipedia_
-
 <a name="blast"></a>
 ## Finding Putative P450s via BLAST
 
@@ -96,10 +92,6 @@ Once you have generated a list of possible P450 genes in *Carcharodon carcharias
 ## Predicting a Single P450 Gene
 
 While the class generates a master list of putative P450s, you will annotate your best BLAST hit. Using NCBI’s BLAST and genome browser tools, work to define the complete gene and answer the questions below. 
-
-* Use the genome browser to extract the DNA sequence
-* Use the Translate tools (http://web.expasy.org/translate/) to define the complete protein sequence. 
-* Submit your predicted protein sequences to BLAST against GenBank can help determine if you have possibly missed an exon or made an error on intron/exon boundaries. https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
 **Important Points:**
 * Only the first exon begins with a start codon
@@ -134,7 +126,9 @@ Once you have all the exon sequences, you can download them all:
 
 ![Download](download.jpg)
 
-Once you have all the exon sequences, stitch together a theoretical mRNA and translate it to obtain your putative P450 sequence using http://web.expasy.org/translate.
+Once you have all the exon sequences, stitch together a theoretical mRNA and translate it to obtain your putative P450 protein sequence using http://web.expasy.org/translate.
+
+To check you have a proper P450, submit your predicted protein sequence to BLASTP against GenBank: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
 **Question #4. List the query used to initially predict your gene (e.g. CYP4V7 in zebrafish, CYP6A2 in fruit fly).**
 
