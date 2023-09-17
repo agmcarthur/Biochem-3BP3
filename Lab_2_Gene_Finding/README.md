@@ -101,12 +101,12 @@ While the class generates a master list of putative P450s, you will annotate you
 * Use the Translate tools (http://web.expasy.org/translate/) to define the complete protein sequence. 
 * Submit your predicted protein sequences to BLAST against GenBank can help determine if you have possibly missed an exon or made an error on intron/exon boundaries. https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
-**Important Points**
+**Important Points:**
 * Only the first exon begins with a start codon
 * Only the last exon ends with a stop codon
 * Exons do not have to be in the same frame and exons may not have complete codons at the 5' or 3' end - all that matters is that after splicing the sequence can be translated into a complete protein
 
-For example, this is the 3' end of exon 2 of a putative P450. The exon is in the +3 strand and highlighted in purple. The exon ends part way through a codon encoding L. The downstream exon starts with the canonical splice site GC:
+For example, this is the 3' end of exon 2 of a putative P450. The exon is in the +3 strand and highlighted in purple. The exon ends part way through a codon encoding L. The downstream exon starts with the canonical splice site GT:
 
 ![exon view](exonview.jpg)
 
@@ -122,9 +122,15 @@ In the NCBI Genome Browser:
 * If your gene is on the reverse strand, you may want to use *Tools -> Flip Strands*.
 * Turn on the *Six-frame translations* track when you are zoomed in on putative exons so you can better visualize the start and stop codons relative to the splice sites.
 
-Your goal is to *Set Markers* for each exon in your putative P450 gene, using the TBLASTN hits to guide you to exons and your inspection of the sequence to identify the correct splice sites. If you drag/highlight a region of sequence, you can *Set New Marker for Selection* and subsequently rename it, tweak its co-ordinates, and download the exon nucleotide sequences. Once you have all the exon sequences, stitch together a theoretical mRNA and translate it to obtain your putative P450 sequence.
+Your goal is to *Set Markers* for each exon in your putative P450 gene, using the TBLASTN hits to guide you to exons and your inspection of the sequence to identify the correct splice sites. If you drag/highlight a region of sequence, you can *Set New Marker for Selection* and subsequently rename it and tweak its co-ordinates. For example:
 
 ![Putative Exon](exon.jpg)
+
+Once you have all the exon sequences, you can download them all:
+
+![Download](download.jpg)
+
+Once you have all the exon sequences, stitch together a theoretical mRNA and translate it to obtain your putative P450 sequence using http://web.expasy.org/translate.
 
 **Question #4. List the query used to initially predict your gene (e.g. CYP4V7 in zebrafish, CYP6A2 in fruit fly).**
 
