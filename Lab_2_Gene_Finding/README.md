@@ -101,6 +101,15 @@ While the class generates a master list of putative P450s, you will annotate you
 * Use the Translate tools (http://web.expasy.org/translate/) to define the complete protein sequence. 
 * Submit your predicted protein sequences to BLAST against GenBank can help determine if you have possibly missed an exon or made an error on intron/exon boundaries. https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
+**Important Points**
+* Only the first exon begins with a start codon
+* Only the last exon ends with a stop codon
+* Exons do not have to be in the same frame and exons may not have complete codons at the 5' or 3' end - all that matters is that after splicing the sequence can be translated into a complete protein
+
+For example, this is the 3' end of exon 2 of a putative P450. The exon is in the +3 strand and highlighted in purple. The exon ends part way through a codon encoding L. The downstream exon starts with the canonical splice site GC:
+
+![exon view](exonview.jpg)
+
 To view the NCBI Genome Browser, view the best HSP for your TBLASTN hit and select the *Graphics* link, e.g.
 
 ![HSP View](hspview.jpg)
