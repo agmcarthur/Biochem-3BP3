@@ -106,9 +106,13 @@ While the class generates a master list of putative P450s, you will annotate you
 * Only the last exon ends with a stop codon
 * Exons do not have to be in the same frame and exons may not have complete codons at the 5' or 3' end - all that matters is that after splicing the sequence can be translated into a complete protein
 
-For example, this is the 3' end of exon 2 of a putative P450. The exon is in the +3 strand and highlighted in purple. The exon ends part way through a codon encoding L. The downstream exon starts with the canonical splice site GT:
+For example, this is the 3' end of exon 2 of a putative P450. The exon is in the +3 strand and highlighted in purple. The exon ends part way through a codon encoding L. The downstream intro starts with the canonical splice site GT:
 
-![exon view](exonview.jpg)
+![exon 2](exon2.jpg)
+
+Continuing the example, this is the 5' end of exon 3 of the same putative P450. The exon is also in the +3 strand and highlighted in purple. We are now viewing the 3' end of the intron, with the canonical splice site AG:
+
+![exon 3](exon3.jpg)
 
 To view the NCBI Genome Browser, view the best HSP for your TBLASTN hit and select the *Graphics* link, e.g.
 
