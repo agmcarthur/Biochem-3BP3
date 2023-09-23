@@ -93,7 +93,7 @@ Once you have generated a list of possible P450 genes in *Carcharodon carcharias
 <a name="p450"></a>
 ## Predicting a Single P450 Gene
 
-While the class generates a master list of putative P450s, you will annotate your best BLAST hit. Using NCBI’s BLAST and genome browser tools, work to define the complete gene and answer the questions below. 
+While the class generates a master list of putative P450s, you will annotate your best BLAST hit (based on the HSP with the lowest expectation value). Using NCBI’s BLAST and genome browser tools, work to define the complete gene and answer the questions below. 
 
 **Important Points:**
 * Only the first exon begins with a start codon
