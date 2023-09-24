@@ -10,9 +10,9 @@
 <a name="intro"></a>
 ## Introduction
 
-In the last lab you worked to identify and develop a gene model for a putative P450 gene in the *Carcharodon carcharias* genome. Using the available evidence, you worked to define intron and exon boundaries as well as predict the encoded protein sequence. Yet you may have questioned whether your exons were under- or over-estimated and whether you missed any exons. Additionally, you used BLAST, Pfam, and PROSITE to provide a first-pass assignment to P450 family and subfamily. The goal of this lab is to use the methods of evolutionary biology to examine the accuracy of your gene model and preliminary annotation. 
+In the last lab you worked to identify and develop a gene model for a putative P450 gene in the *Carcharodon carcharias* genome. Using the available evidence, you worked to define intron and exon boundaries as well as predicted the encoded protein sequence. Yet you may have questioned whether your exons were under- or over-estimated and whether you missed any exons. Additionally, you used BLAST, Pfam via InterPRO, and PROSITE to provide a first-pass assignment to P450 family and subfamily. The goal of this lab is to use the methods of evolutionary biology to examine the accuracy of your gene model and preliminary annotation. 
 
-**Lectures** - [Evolutionary Biology](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%203%20-%20Evolutionary%20Biology.pptx)
+**Lectures** - [Lecture 3 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%203%20-%20Evolutionary%20Biology.pptx) Evolutionary Biology
 
 **Flash Updates**
 * *Terminology* 
@@ -30,13 +30,13 @@ In the last lab you worked to identify and develop a gene model for a putative P
 * Clustal, http://www.clustal.org
 * Mesquite, http://www.mesquiteproject.org
 * RAxML Blackbox at CIPRES, http://www.phylo.org/index.php/
-* Archaeopteryx, https://sites.google.com/site/cmzmasek/home/software/archaeopteryx 
+* Archaeopteryx, https://www.phylosoft.org/archaeopteryx/ 
 * NCBI Tree Viewer, http://www.ncbi.nlm.nih.gov/projects/treeview/
 
 **Computer Resources**
-* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID. Instructions to install Microsoft Remote Desktop software for UTS Virtual Desktop, https://uts.mcmaster.ca/computer-labs/
-* You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
-* All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
+* This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer
+* See the demo video on how to login using Microsoft Remote Desktop and your MacID. 
+* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g. email yourself a copy)
 
 ```bash
 If needed, change the Properties of your User folder found in:
@@ -49,7 +49,7 @@ Please de-select the “Read-only” option as demonstrated.
 **Grading**
 * Questions are for your learning and are not graded
 * Problems are worth 5 points each (-1 for each error)
-* Your FASTA sequence file (seqdump.txt), PHYLIP alignment file (seqdump.txt.phy), and RAxML tree file (RAxML_bipartitions.result.txt) should be uploaded to A2L for review by the TA.
+* Your FASTA sequence file (seqdump.txt), PHYLIP alignment file (seqdump.txt.phy), and RAxML tree file (RAxML_bipartitions.result.txt) should be uploaded to A2L for review by the TAs under Assessments -> Assignments
 * Submit your answers to the Problems, plus any supplmental multiple choice questions, on **A2L Quizzes** before the deadline
 * An answer key to Questions and Problems will be provided on A2L after the deadline
 
