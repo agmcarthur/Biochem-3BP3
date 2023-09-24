@@ -71,7 +71,7 @@ To perform this analysis, go to the NCBI BLASTP page and submit your sequence as
 
 When you have your BLAST results, you will see *Other Reports* -> *Distance Tree of Results*. As shown in the demo video, using a mid-point root can make visualization easier. Please examine this tree and following the demonstration, use the tree and the taxonomy report to guide selection of 30-40 sequences in your BLAST report for further analysis. Your selection criteria are to sample a diverse range of P450 subfamilies and a diverse range of organisms in your P450’s family and subfamilies, plus hopefully a few sequences from an outgroup P450 family. **If possible, include representative P450s from fish, reptiles, and mammals from at least two subfamilies. Avoid invertebrates.**
 
-> If you are not finding a diversity of organisms as outlined above, you may need to repeat your BLAST with 2500 targets
+> While all of everyone's BLAST searches should yield a diversity of organisms, not all P450s have sub-families or outgroups.
 
 **Question #1. What P450 family is your gene from? Which subfamilies are represented in your sequences. Do you have an outgroup and if so, what is it?**
 
