@@ -59,7 +59,7 @@ Please de-select the “Read-only” option.
 
 We are first going to compare our predicted sequences to related sequences in other organisms, to see if we found an overall similar protein or perhaps our protein has missing or extra amino acids due to incorrect exon predictions. 
 
-To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr), for 5000 targets, hits restricted to vertebrates and expectation value e-10 or better**: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
+To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr), for 1000 targets, hits restricted to vertebrates and expectation value e-10 or better**: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
 ![Restrict BLASTP to Vertebrates](vertebrates.jpg)
 
@@ -70,6 +70,8 @@ To perform this analysis, go to the NCBI BLASTP page and submit your sequence as
 > Flash Update - Terminology 
 
 When you have your BLAST results, you will see *Other Reports* -> *Distance Tree of Results*. As shown in the demo video, using a mid-point root can make visualization easier. Please examine this tree and following the demonstration, use the tree and the taxonomy report to guide selection of 30-40 sequences in your BLAST report for further analysis. Your selection criteria are to sample a diverse range of P450 subfamilies and a diverse range of organisms in your P450’s family and subfamilies, plus hopefully a few sequences from an outgroup P450 family. **If possible, include representative P450s from fish, reptiles, and mammals from at least two subfamilies. Avoid invertebrates.**
+
+> If you are not finding a diversity of organisms as outlined above, you may need to repeat your BLAST with 2500 targets
 
 **Question #1. What P450 family is your gene from? Which subfamilies are represented in your sequences. Do you have an outgroup and if so, what is it?**
 
