@@ -36,7 +36,7 @@ In the last lab you worked to identify and develop a gene model for a putative P
 **Computer Resources**
 * This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer
 * See the demo video on how to login using Microsoft Remote Desktop and your MacID. 
-* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g. email yourself a copy)
+* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g., email yourself a copy)
 
 ```bash
 If needed, change the Properties of your User folder found in:
