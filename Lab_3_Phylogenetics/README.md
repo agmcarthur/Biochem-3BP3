@@ -43,7 +43,7 @@ If needed, change the Properties of your User folder found in:
 
 Computer -> UDiskBOOT -> Users
 
-Please de-select the “Read-only” option as demonstrated. 
+Please de-select the “Read-only” option. 
 ```
 
 **Grading**
