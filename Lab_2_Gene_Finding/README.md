@@ -59,6 +59,8 @@ Dr. Joanna Wilson (Department of Biology, McMaster University) will introduce *C
 
 In the class Teams under *Tutorials -> Files* you will find spreadsheets for Group 1 & Group 2 with individually assigned query P450s and columns for notes as you complete the lab. These zebrafish proteins can be found at Ensembl, http://www.ensembl.org.
 
+> Ensembl giving errors? You can also obtain your protein sequence via ZFIN: [demo video](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EZPApFVb-m5EgVW66B8dHMkBcvhk4_4_1Z7ixFpWIkmRQQ)
+
 Once the class had developed a list of putative genes, each student will be assigned a gene to map out intron/exon boundaries and the predicted protein sequence. Remember what you have learned about splicing sites:
 
 ![mRNA Splicing. Source: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RNA_splicing_reaction.svg/1280px-RNA_splicing_reaction.svg.png)
