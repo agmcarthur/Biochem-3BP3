@@ -2,10 +2,11 @@
 
 ## Table of Contents
 1. [Introduction](#intro)
-2. [Multiple Sequence Alignment](#msa)
-3. [Alignment Editing](#edit)
-4. [Maximum Likelihood Phylogenetic Tree](#raxml)
-5. [Phylogenetic Tree Interpretation](#tree)
+2. [Collecting Related Sequences using BLASTP](#blast)
+3. [Generating a Multiple Sequence Alignment](#msa)
+4. [Alignment Editing](#edit)
+5. [Generating a Maximum Likelihood Phylogenetic Tree](#raxml)
+6. [Phylogenetic Tree Interpretation](#tree)
 
 <a name="intro"></a>
 ## Introduction
@@ -53,8 +54,8 @@ Please de-select the “Read-only” option.
 * Submit your answers to the Problems, plus any supplmental multiple choice questions, on **A2L Quizzes** before the deadline
 * An answer key to Questions and Problems will be provided on A2L after the deadline
 
-<a name="msa"></a>
-## From Sequences to a Multiple Sequence Alignment
+<a name="blast"></a>
+## Collecting Related Sequences using BLASTP
 
 We are first going to compare our predicted sequences to related sequences in other organisms, to see if we found an overall similar protein or perhaps our protein has missing or extra amino acids due to incorrect exon predictions. 
 
@@ -79,6 +80,9 @@ Computer -> UDiskBOOT -> Users -> username -> Downloads -> seqdump.txt
 ```
 
 Find the download file and right-click on it to open it in WordPad, then select *View -> Word Wrap -> No Wrap*. You should now see your selected sequences in FASTA format, a common format for storing sequences. We will discuss the FASTA format and its history later in the course. Using WordPad, edit the file to add your *S. kowalevskii* protein sequence to the top of the file, using a definition line like “putative CYP4V Carcharodon carcharias”. Save the file and close WordPad.
+
+<a name="msa"></a>
+## Generating a Multiple Sequence Alignment
 
 Now you have a FASTA format data file of representative P450 sequences related to your new gene. Click on the Windows icon at the bottom left of your screen and use the search box to search for the program *Mesquite*. Double click to start this program (it may take a moment to appear and start). Mesquite is a software package for visualizing and editing multiple sequence alignments. Perform the following:
 
@@ -136,7 +140,7 @@ Like above, use WordPad to view the PHYLIP format file (*Computer -> UDiskBOOT -
 * Ensure there is a single space between taxon names and their sequence.
 
 <a name="raxml"></a>
-## Maximum Likelihood Phylogenetic Tree
+## Generating a Maximum Likelihood Phylogenetic Tree
 
 ```bash
 Alternative RAxML Server
