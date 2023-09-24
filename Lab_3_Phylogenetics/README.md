@@ -96,7 +96,7 @@ Now you have a FASTA format data file of representative P450 sequences related t
 * When prompted, the format is FASTA (protein)
 * When prompted, save a NEXUS version of these data as “seqdump.txt.nex”. This is Mesquite’s preferred file format.
 
-Note that the sequences are not aligned, but individually ordered from first amino acid to last amino acid. Before we align them, we will hear from our second Flash Update.
+Note that the sequences are not aligned, but individually ordered from first amino acid to last amino acid.
 
 > Flash Update - Sequence Alignment
 
