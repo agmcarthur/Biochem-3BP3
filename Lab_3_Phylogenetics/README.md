@@ -24,6 +24,7 @@ In the last lab you worked to identify and develop a gene model for a putative P
 * [Introduction to P450 Phylogeny](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EeWrWWkth_tLoS2w_0GM6y0BHU5WvwkvfhtcJdwbV9_Tog) (Dr. Joanna Wilson, Department of Biology, McMaster University) ~14 minutes
 * [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
 * [Collecting Related Sequences using BLASTP](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EWbm_BPHrepDsvfrZeQDb9gBnaroTPvNJYkdC8aSPM7hRQ) ~16 minutes
+* [Generating and Editing a Multiple Sequence Alignment](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EfZQsWjTVbVLlG5b5udQrrwBilGwHueBtDRnv7B0u-kyUg) ~17 minutes
 
 **Background Reading** (optional)
 * Dejong & Wilson. 2014. The Cytochrome P450 superfamily complement (CYPome) in the annelid *Capitella teleta*. [PLoS One 9:e107728](https://www.ncbi.nlm.nih.gov/pubmed/?term=25390889)
@@ -40,14 +41,6 @@ In the last lab you worked to identify and develop a gene model for a putative P
 * This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer
 * See the demo video on how to login using Microsoft Remote Desktop and your MacID. 
 * All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g., email yourself a copy)
-
-```bash
-If needed, change the Properties of your User folder found in:
-
-Computer -> UDiskBOOT -> Users
-
-Please de-select the “Read-only” option. 
-```
 
 **Grading**
 * Questions are for your learning and are not graded
@@ -110,22 +103,6 @@ Perform multiple sequence alignment on these data via the menu, *Matrix -> Align
 	
 **Question #2. Based on the multiple sequence alignment, do you think your putative P450 is a complete gene? Do you think you captured all the exons and protein sequence in your gene model?**
 
-```bash
-Alternative MSA using ClustalX2 directly (optional)
-
-Click on the Windows icon at the bottom left of your screen and use the search box to search for the program Clustalx2
-
-Use File -> Load Sequences to load your seqdump.txt file
-
-Alignment -> Do Complete Alignment
-
-Click on the Windows icon at the bottom left of your screen and use the search box to search for the program Mesquite
-
-File -> Open File to load file seqdump.aln under the Clustal (protein) format
-
-When prompted, save a NEXUS version of these data as “seqdump.txt.nex”. This is Mesquite’s preferred file format.
-```
-
 <a name="edit"></a>
 ## Alignment Editing
 
@@ -142,19 +119,13 @@ Save your Mesquite results and then export in PHYLIP format (yet another format 
 * Do not click on the *interleaved matrix* box
 * Set *maximum length of taxon names* to 20
 
-Like above, use WordPad to view the PHYLIP format file (*Computer -> UDiskBOOT -> Users -> username -> Downloads -> seqdump.txt.phy*) to see how the data are organized. 
+Like above, use WordPad to view the PHYLIP format file (*Downloads -> seqdump.txt.phy*) to see how the data are organized. 
 
 * Remove any extra lines at the end of the file. 
 * Ensure there is a single space between taxon names and their sequence.
 
 <a name="raxml"></a>
 ## Generating a Maximum Likelihood Phylogenetic Tree
-
-```bash
-Alternative RAxML Server
-
-http://www.genome.jp/tools/raxml/
-```
 
 To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server at the Cyberinfrastructure for Phylogenetic Research (CIPRES) Project, http://www.phylo.org/index.php/. **If you do not have an account, please register for one (check your email to validate the registration).**
 
