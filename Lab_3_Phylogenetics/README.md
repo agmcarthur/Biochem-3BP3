@@ -15,7 +15,7 @@ In the last lab you worked to identify and develop a gene model for a putative P
 
 **Lectures**:
 * [Lecture 3 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%203%20-%20Evolutionary%20Biology.pptx) Evolutionary Biology [video ~38 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EWP-uWyObxdBp72X1YOW-HoBH_HuUXggjSbFv4gWz3OOTQ)
-* Bonus Material - Bayesian Methods (not official course content) [video ~x minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EYCAZ2CJGghMoXEFU7YEMTcBDDwCaNTTV6fh8A7UH_CKQQ)
+* Bonus Material - Bayesian Methods (not official course content) [video ~10 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EYCAZ2CJGghMoXEFU7YEMTcBDDwCaNTTV6fh8A7UH_CKQQ)
 
 **Flash Updates**
 * *Terminology* 
