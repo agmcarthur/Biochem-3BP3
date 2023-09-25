@@ -162,15 +162,13 @@ Download the Best ML Tree with Bootstrap results:
 
 > Flash Update - Phylogenetic Trees 
 
-Once the flash update is complete, we will look at the pre-prepared phylogenetic tree for a putative Elephant Shark CYP 3A. Download the tree file from Avenue to Learn. Click on the Windows icon at the bottom left of your screen and use the search box to search for the program *forester_1038.jar*. Double click to start this program (it may take a moment to appear and start). Forester is a software package for visualizing phylogenetic trees. Perform the following:
+Click on the Windows icon at the bottom left of your screen and use the search box to search for the program *forester_1038.jar* (it may take a moment to appear and start). Forester is a software package for visualizing phylogenetic trees. Perform the following:
 
-* Load your tree, *File -> Read Tree from File -> File Format to All Files*
+* Load your tree, *File -> Read Tree from File -> File Format to All Files* and load *RAxML_bipartitions.result.txt*
 * Place the visual root of the tree at the midpoint, *Tools -> MidPoint-Root*
 * Also *Order Subtrees* via the button in the left hand column
 
-What can you learn from this tree about the phylogenetic placement of the putative Elephant Shark CYP 3A and overall bootstrap support of the tree?
-
-When your own RAxML results are ready, you want to download the tree with branch lengths and support values, i.e *RAxML_bipartitions.result.txt*”, and view it in Forester. Note, once you get the email letting you know your results are ready, they will only be available for 24 hours.
+What can you learn from this tree about the phylogenetic placement of your putative P450 protein and overall bootstrap support of the tree?
 
 **Problem #1. What is your final conclusion about the family and subfamily affiliation about your protein? Has it be placed in a known family or subfamily or is it perhaps a new family or subfamily? Can you make a functional prediction?**
 
