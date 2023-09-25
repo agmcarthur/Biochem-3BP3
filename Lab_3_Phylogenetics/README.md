@@ -121,9 +121,6 @@ Save your Mesquite results and then export in PHYLIP format (yet another format 
 
 Like above, use WordPad to view the PHYLIP format file (*Downloads -> seqdump.txt.phy*) to see how the data are organized. 
 
-* Remove any extra lines at the end of the file. 
-* Ensure there is a single space between taxon names and their sequence.
-
 <a name="raxml"></a>
 ## Generating a Maximum Likelihood Phylogenetic Tree
 
