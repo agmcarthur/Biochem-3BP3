@@ -82,9 +82,9 @@ Once you have selected your sequences, use the BLAST results page to download th
 Computer -> UDiskBOOT -> Users -> username -> Downloads -> seqdump.txt
 ```
 
-Find the download file and right-click on it to open it in WordPad, then select *View -> Word Wrap -> No Wrap*. You should now see your selected sequences in FASTA format, a common format for storing sequences. We will discuss the FASTA format and its history later in the course.
+Find the download file and right-click on it to open it in WordPad or NotePad, then select *View -> Word Wrap -> No Wrap*. You should now see your selected sequences in FASTA format, a common format for storing sequences. We will discuss the FASTA format and its history later in the course.
 
-**Using WordPad, edit the file to add your *S. kowalevskii* protein sequence to the top of the file, using a definition line like “putative CYP4V Carcharodon carcharias”.** 
+**Using WordPad, edit the file to add your *S. kowalevskii* protein sequence to the top of the file, using a definition line like *>MyShareProtein*.** 
 
 Save the file and close WordPad.
 
