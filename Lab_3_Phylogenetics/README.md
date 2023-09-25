@@ -80,7 +80,7 @@ When you have your BLAST results, you will see *Other Reports* -> *Distance Tree
 Once you have selected your sequences, use the BLAST results page to download them all in FASTA (complete sequence) format:
 
 ```bash
-Computer -> UDiskBOOT -> Users -> username -> Downloads -> seqdump.txt
+Downloads -> seqdump.txt
 ```
 
 Find the download file and right-click on it to open it in WordPad or NotePad, then select *View -> Word Wrap -> No Wrap*. You should now see your selected sequences in FASTA format, a common format for storing sequences. We will discuss the FASTA format and its history later in the course.
@@ -105,7 +105,7 @@ Note that the sequences are not aligned, but individually ordered from first ami
 Perform multiple sequence alignment on these data via the menu, *Matrix -> Align Multiple Sequences -> ClustalW Align*, with the following options when prompted:
 
 * For the question about threading (i.e. use of multiple processors) select *No*
-* When prompted for the Path to ClustalW, browse to *Computer -> UDiskBOOT -> Program Files (x86) -> ClustalW2 -> clustalw2.exe*
+* When prompted for the Path to ClustalW, browse to *This PC -> Windows (C:) -> Program Files (x86) -> ClustalW2 -> clustalw2.exe*
 * Please click on the *include gaps* button
 	
 **Question #2. Based on the multiple sequence alignment, do you think your putative P450 is a complete gene? Do you think you captured all the exons and protein sequence in your gene model?**
