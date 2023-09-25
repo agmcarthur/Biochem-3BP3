@@ -25,6 +25,7 @@ In the last lab you worked to identify and develop a gene model for a putative P
 * [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
 * [Collecting Related Sequences using BLASTP](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EWbm_BPHrepDsvfrZeQDb9gBnaroTPvNJYkdC8aSPM7hRQ) ~16 minutes
 * [Generating and Editing a Multiple Sequence Alignment](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EfZQsWjTVbVLlG5b5udQrrwBilGwHueBtDRnv7B0u-kyUg) ~17 minutes
+* [Generating a Phylogenetic Tree](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EQunw6tARClOqFv-UaXkXecBHDQxHydbJ5t4_VBmtbWHaw) ~5 minutes
 
 **Background Reading** (optional)
 * Dejong & Wilson. 2014. The Cytochrome P450 superfamily complement (CYPome) in the annelid *Capitella teleta*. [PLoS One 9:e107728](https://www.ncbi.nlm.nih.gov/pubmed/?term=25390889)
