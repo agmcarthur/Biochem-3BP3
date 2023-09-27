@@ -58,7 +58,7 @@ In the last lab you worked to identify and develop a gene model for a putative P
 
 We are first going to compare our predicted sequences to related sequences in other organisms, to see if we found an overall similar protein or perhaps our protein has missing or extra amino acids due to incorrect exon predictions. 
 
-To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr), for 1000 targets, hits restricted to vertebrates and expectation value e-10 or better**: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
+To perform this analysis, go to the NCBI BLASTP page and submit your sequence as a query against the **non-redundant protein sequences (nr), for 1000 targets, hits restricted to vertebrates and expectation value 1e-10 or better**: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
 ![Restrict BLASTP to Vertebrates](vertebrates.jpg)
 
