@@ -104,7 +104,9 @@ Perform multiple sequence alignment on these data via the menu, *Matrix -> Align
 * For the question about threading (i.e. use of multiple processors) select *No*
 * When prompted for the Path to ClustalW, browse to *This PC -> Windows (C:) -> Program Files (x86) -> ClustalW2 -> clustalw2.exe*
 * Please click on the *include gaps* button
-	
+
+If you get an error when you try to run your multiple sequence alignment, [Watch this video:](https://www.macvideo.ca/media/Kaltura+Capture+recording+-+September+28th+2023%2C+12A12A40+pm/1_pvqcezu6).
+
 **Question #2. Based on the multiple sequence alignment, do you think your putative P450 is a complete gene? Do you think you captured all the exons and protein sequence in your gene model?**
 
 <a name="edit"></a>
