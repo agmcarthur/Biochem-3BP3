@@ -27,6 +27,7 @@ In the last lab you worked to identify and develop a gene model for a putative P
 * [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
 * [Collecting Related Sequences using BLASTP](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EWbm_BPHrepDsvfrZeQDb9gBnaroTPvNJYkdC8aSPM7hRQ) ~16 minutes
 * [Generating and Editing a Multiple Sequence Alignment](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EfZQsWjTVbVLlG5b5udQrrwBilGwHueBtDRnv7B0u-kyUg) ~17 minutes
+  * If you get an error when you try to run your multiple sequence alignment, [watch this video](https://www.macvideo.ca/media/Kaltura+Capture+recording+-+September+28th+2023%2C+12A12A40+pm/1_pvqcezu6)
 * [Generating a Phylogenetic Tree](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EQunw6tARClOqFv-UaXkXecBHDQxHydbJ5t4_VBmtbWHaw) ~5 minutes
 * [Interpreting a Phylogenetic Tree](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EfmjoRC_mBdDv92D9FkJhuEBWjDEcBXs_z8V5UvsOKjQ1A) ~7 minutes
 
@@ -105,7 +106,7 @@ Perform multiple sequence alignment on these data via the menu, *Matrix -> Align
 * When prompted for the Path to ClustalW, browse to *This PC -> Windows (C:) -> Program Files (x86) -> ClustalW2 -> clustalw2.exe*
 * Please click on the *include gaps* button
 
-If you get an error when you try to run your multiple sequence alignment, [watch this video](https://www.macvideo.ca/media/Kaltura+Capture+recording+-+September+28th+2023%2C+12A12A40+pm/1_pvqcezu6).
+**If you get an error when you try to run your multiple sequence alignment, [watch this video](https://www.macvideo.ca/media/Kaltura+Capture+recording+-+September+28th+2023%2C+12A12A40+pm/1_pvqcezu6).**
 
 **Question #2. Based on the multiple sequence alignment, do you think your putative P450 is a complete gene? Do you think you captured all the exons and protein sequence in your gene model?**
 
