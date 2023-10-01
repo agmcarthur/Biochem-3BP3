@@ -58,18 +58,18 @@ You will be studying the results of this experiment using the Gene Ontology and 
 
 > Figure 3. Heat map illustrating changes in gene expression in zebrafish eleutheroembryos following exposure to DMSO (0.1%), tBHQ (10 mM), or TCDD (2 nM). Eleutheroembryos at 4-dpf were exposed to each chemical for 6 hours, after which RNA was isolated, cRNA prepared and hybridized against a universal reference cRNA on Agilent 22k zebrafish arrays. There were 4 biological replicates, each a pool of 30 eleutheroembryos. The probes shown exhibited statistically significant differences among groups and at least 2-fold change (tBHQ vs. DMSO or TCDD vs. DMSO).
 
-From this GitHub repo you can download an EXCEL sheet corresponding to Figure 3, giving the lists of Agilent microarray probes underlying the Figure [Biochem 3BP3 Lab 4 - Probe List.xls](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lab_4_Ontologies/Biochem%203BP3%20Lab%204%20-%20Probe%20List.xls). Microarray probes are used to measure mRNA transcript abundance and each probe measures a different zebrafish gene. Looking at the spreadsheet, you can see the quality of annotation of each probe varies.
+From this GitHub repo you can download an EXCEL sheet corresponding to Figure 3, giving the lists of Agilent microarray probes underlying the figure: [Biochem 3BP3 Lab 4 - Probe List.xls](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lab_4_Ontologies/Biochem%203BP3%20Lab%204%20-%20Probe%20List.xls). Microarray probes are used to measure mRNA transcript abundance and each probe measures a different zebrafish gene. Looking at the spreadsheet, you can see the quality of annotation of each probe varies.
 
 **Question #1. Which probe(s) measure CYP1A transcript abundance? How do TCDD and tBHQ effect CYP1A abundance?**
 
 > Flash Update - Gene Ontology
 
-Some of the clusters of probes with correlated transcriptional patterns are quite large, making manual interpretation difficult. In this lab, you are going to use the DAVID (Database for Annotation, Visualization and Integrated Discovery) tool to provide an automated interpretation:
+Some of the clusters of probes in Figure 3 with correlated transcriptional patterns are quite large, making manual interpretation difficult. In this lab, you are going to use the DAVID tool (Database for Annotation, Visualization and Integrated Discovery) to provide an automated interpretation:
 
 * Load the following site in your browser: https://david.ncifcrf.gov
 * From the menu, select “Start Analysis”
 
-Using the list of Agilent probes in the EXCEL sheet, you will compare these lists against the rest of the zebrafish (*Danio rerio*) genome.  You will receive a demonstration, with the following important notes:
+Using the list of Agilent probes in the EXCEL sheet, you will compare these lists against the rest of the zebrafish (*Danio rerio*) genome. The demo video provides a demonstration, with the following important notes:
 
 * Your *gene list* is a list of Agilent microarray probe identifiers from the EXCEL file
 * The identifier you are using is *Agilent_ID*
