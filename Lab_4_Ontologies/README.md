@@ -18,6 +18,7 @@ In this lab we are going to examine the use of ontologies to provide functional 
 * *CARD* 
 
 **Demo Videos**
+* [DAVID Enrichment Tool Walkthrough](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EXIMNyALxGZBk7MPRROe9ugB6lKM-XWiCOQa4_NN3fgsCA) ~20 minutes
 
 **Background Reading** (optional)
 * Howe et al. 2008. Big data: the future of biocuration. [Nature 455:47-50](https://www.ncbi.nlm.nih.gov/pubmed/?term=18769432)
