@@ -17,6 +17,8 @@ In this lab we are going to examine the use of ontologies to provide functional 
 * *KEGG* 
 * *CARD* 
 
+**Demo Videos**
+
 **Background Reading** (optional)
 * Howe et al. 2008. Big data: the future of biocuration. [Nature 455:47-50](https://www.ncbi.nlm.nih.gov/pubmed/?term=18769432)
 * Goble & Wroe. 2004. The Montagues and the Capulets. [Comp Funct Genomics 5: 623-32](https://www.ncbi.nlm.nih.gov/pubmed/?term=18629186)
