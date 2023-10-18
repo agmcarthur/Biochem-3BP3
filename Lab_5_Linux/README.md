@@ -14,17 +14,21 @@
 
 The goal of this lab is to introduce the Linux operating system and the *command line*, in the context of file manipulation and Sanger DNA sequencing informatics.
 
-**Lectures** - [DNA Sequencing & Genome Assembly](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx)
+**Lectures** - [Lecture 6](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx) DNA Sequencing & Genome Assembly [video -x minutes]()
 
 **Flash Updates**
 * *Sanger Sequencing* 
 * *FASTA* 
 * *Linux* 
 
+**Demo Videos**
+* [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
+* [Linux Lab Walkthrough]() ~x minutes
+
 **Computer Resources**
-* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID.
-* You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
-* All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
+* This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer
+* See the demo video on how to login using Microsoft Remote Desktop and your MacID. 
+* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g., email yourself a copy)
 
 **Grading**
 * This is a participation lab, not graded.
