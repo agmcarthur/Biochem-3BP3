@@ -14,7 +14,6 @@
 
 The goal of this lab is to introduce the Linux operating system and the *command line*, in the context of file manipulation and Sanger DNA sequencing informatics.
 
-**Lectures** - [Lecture 6](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx) DNA Sequencing & Genome Assembly *video pending*
 **Flash Updates**
 * *Sanger Sequencing* 
 * *FASTA* 
