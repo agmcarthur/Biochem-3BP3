@@ -56,7 +56,7 @@ To login into the course server, we are going to use secure shell (ssh), which i
 ssh -l biochem3bp3 uppsala.mcmaster.ca
 ```
 
-> Note: uppsala.mcmaster.ca is behind the McMaster firewall and requires VPN to connect from off campus or from the MacSecure wireless network , https://www.mcmaster.ca/uts/network/vpn/
+> Note: uppsala.mcmaster.ca is behind the McMaster firewall and requires VPN to connect from off campus or from the MacSecure wireless network , https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/
 
 To logout of the course server:
 
