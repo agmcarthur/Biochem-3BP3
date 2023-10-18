@@ -128,7 +128,7 @@ Since we are all sharing the same account on the same machine (which is not norm
 mkdir yourname
 ```
 
-Once everyone is done, let’s see the results:
+Let’s see the results:
 
 ```bash
 ls
@@ -247,7 +247,9 @@ cp test.fa ./mydata/.
 cp test.fa /home/biochem3bp3/yourname/mydata/.
 ```
 
-A single dot means *same* or *current*, so the second example means to copy using the same name. The third example explicitly tells linux that the directory *mydata* is in my current location and then to copy using the same name.  *./* is an example of relative paths and is usually implied in most commands (such as the first two examples), but sometimes you need to explicitly use it. The last example performs the command using the absolute path.
+A single dot means *same* or *current*, so the second example means to copy using the same name. The third example explicitly tells linux that the directory *mydata* is in my current location and then to copy using the same name.  
+
+*./* is an example of relative paths and is usually implied in most commands (such as the first two examples), but sometimes you need to explicitly use it. The last example performs the command using the absolute path.
 
 Note that you could have copied and renamed at the same time. Try the example below:
 
@@ -342,8 +344,6 @@ In LINUX, you can run as many jobs as you like simultaneously, but at some point
 
 **Question #2. What is swap space?**
 
-Please stop your *yes* jobs so you get your command line prompt back by using *ctrl-c*.
-
 <a name="seq"></a>
 ## Introductory Sequence Informatics
 
@@ -393,7 +393,7 @@ The following file on the server is the draft genome sequence of the diplomonad 
 
 > ~/data/giardiacontigs.fa
 
-You are going to analyze this file. You may read it or copy it, but please do not move it.
+You are going to analyze this file. You may read it or copy it, but please do not move or rename it.
 
 A contig is a consensus sequence of part of the genome produced by genome assembly algorithms (next week’s lab). Assemblies have gaps, some genome assemblies end up being a collection of contigs. Each contig from the genome assembly is a single FASTA entry in the file. 
 
@@ -408,8 +408,6 @@ A contig is a consensus sequence of part of the genome produced by genome assemb
 ## Assignment #2
 
 Starting with GenBank accession DQ667685, answer the following questions.
-
-**What command line(s) would you use to look at this accession in GenBank format?**
 
 **What command line(s) would you use to get a copy of this sequence on the server?**
 
