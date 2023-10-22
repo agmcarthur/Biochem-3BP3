@@ -11,7 +11,7 @@
 
 The goal of this lab is to improve student usage of the Linux operating system and the *command line*, in the context Illumina FASTQ DNA sequencing data and microbial genome assembly. Students will additionally be introduced to cloud computing and the Galaxy framework for bioinformatics analyses.
 
-**Lectures** - [Lecture 6 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx) DNA Sequencing & Genome Assembly [video ~x minutes]()
+**Lectures** - [Lecture 6 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%206%20-%20Genome%20Assembly.pptx) DNA Sequencing & Genome Assembly [video ~x minutes]()
 
 **Flash Updates**
 * *Illumina Sequencing* 
