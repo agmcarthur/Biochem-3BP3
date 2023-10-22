@@ -156,7 +156,7 @@ Record some statistics for later comparison:
 <a name="visual"></a>
 ## Visualization
 
-We now want to visualize our assembly instead of just looking at statistics. Some of these results are pre-computed since they are not quick and we are going to learn the details of Burrow's Wheeler Transform next week. 
+We now want to visualize our assembly instead of just looking at statistics. Some of these results are pre-computed since they are not quick and we are going to learn the details of Burrow's Wheeler Transform next week.
 
 > Visualizing BWT read mapping was performed using Tablet, https://ics.hutton.ac.uk/tablet/
 
