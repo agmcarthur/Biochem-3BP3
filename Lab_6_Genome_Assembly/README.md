@@ -11,12 +11,14 @@
 
 The goal of this lab is to improve student usage of the Linux operating system and the *command line*, in the context Illumina FASTQ DNA sequencing data and microbial genome assembly. Students will additionally be introduced to cloud computing and the Galaxy framework for bioinformatics analyses.
 
-**Lectures** - [DNA Sequencing & Genome Assembly](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx)
+**Lectures** - [Lecture 6 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%205%20-%20Genome%20Assembly.pptx) DNA Sequencing & Genome Assembly [video ~x minutes]()
 
 **Flash Updates**
 * *Illumina Sequencing* 
 * *FASTQ* 
 * *Galaxy* 
+
+**Demo Videos**
 
 **Background Reading** (optional)
 * Myers et al. 2000. A whole-genome assembly of *Drosophila*. [Science 287:2196-2204](https://www.ncbi.nlm.nih.gov/pubmed/?term=10731133)
@@ -24,19 +26,17 @@ The goal of this lab is to improve student usage of the Linux operating system a
 * Tritt et al. 2012. An integrated pipeline for *de novo* assembly of microbial genomes. [PLoS One. 7:e42304](https://www.ncbi.nlm.nih.gov/pubmed/?term=23028432)
 
 **Computer Resources**
-* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID.
-* You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
-* All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
+* This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer
+* See the demo video on how to login using Microsoft Remote Desktop and your MacID. 
+* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g., email yourself a copy)
+* Part of today’s lab will be performed at the command line and is meant to expand your linux skills. You may need your notes from the last lab as a cheat sheet. Remember, case matters for linux computers. Unless otherwise indicated, use lowercase.
+* uppsala.mcmaster.ca is behind the McMaster firewall and requires VPN to connect from off campus or from the MacSecure wireless network.
 
 **Grading**
 * Questions are for your learning and are not graded
 * Problems are worth 5 points each (-1 for each error)
 * Submit your answers to the Problems, plus any supplmental multiple choice questions, on **A2L Quizzes** before the deadline
 * An answer key to Questions and Problems will be provided on A2L after the deadline
-
-**Terminal**
-* Part of today’s lab will be performed at the command line and is meant to expand your linux skills. You may need your notes from the last lab as a cheat sheet. Remember, case matters for linux computers. Unless otherwise indicated, use lowercase.
-* uppsala.mcmaster.ca is behind the McMaster firewall and requires VPN to connect from off campus or from the MacSecure wireless network.
 
 <a name="velvet"></a>
 ## PART 1 - Command line Genome Assembly
