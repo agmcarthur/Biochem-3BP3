@@ -24,9 +24,8 @@ The goal of this lab is to introduce the Linux operating system and the *command
 * [Linux Lab Walkthrough](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/ESLt0wgc_IlBmHvLBB7sKKEBfpWMccxRNd1eM31Jik8m5w) ~28 minutes
 
 **Computer Resources**
-* This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer
-* See the demo video on how to login using Microsoft Remote Desktop and your MacID. 
-* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g., email yourself a copy)
+* This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer. See the demo video on how to login using Microsoft Remote Desktop and your MacID. 
+* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g., email yourself a copy).
 
 **Grading**
 * This is a participation lab, not graded.
