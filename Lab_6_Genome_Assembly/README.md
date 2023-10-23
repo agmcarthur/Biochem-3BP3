@@ -185,11 +185,11 @@ Lastly, using the lab computers, visualize the quality of the assembly graph, wi
 
 Today’s lab will use the public server of the Galaxy project, http://usegalaxy.org. It is used by thousands of researchers, so you will be sharing computational resources – not all steps will perform quickly. Use the following steps to set up your account:
 
-* From the top menu of the site, select *User* and register for an account. This is your free account on the most complete and most maintained Galaxy server – use it whenever you have genomics data!
+* From the top menu of the site, select *Log in or Register* and register for an account. This is your free account on the most complete and most maintained Galaxy server – use it whenever you have genomics data!
 * Check your email account for a message from the server and confirm you registration.  This must be completed before the server will analyze your data.
 * Return to the Galaxy home page.
 
-You will receive a demonstration of the Galaxy workflow environment and will assemble a *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
+The walkthrough video provides a demonstration of the Galaxy workflow environment and will assemble a *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
 
 Create a New History using the history tool and give it a name:
 
