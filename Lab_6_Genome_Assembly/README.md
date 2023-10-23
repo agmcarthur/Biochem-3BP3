@@ -273,7 +273,7 @@ At the command line we used the older assembler VELVET and in the lecture we lea
 
 **VISUALIZATION AND STATISTCS**
 
-Unicycler will create two output boxes, one containing the assembly graph and they other the contig FASTA sequences. Download the Unicycler assembly graph file and use BANDAGE (https://rrwick.github.io/Bandage) to visualize the assembly. 
+Unicycler will create two output boxes, one containing the assembly graph and they other the contig FASTA sequences. Download the Unicycler assembly graph file and use BANDAGE (https://rrwick.github.io/Bandage) to visualize the assembly.  
 
 ![AssemblyGraph](./images/unicyclergraph.jpg)
 
