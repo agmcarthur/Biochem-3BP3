@@ -232,7 +232,7 @@ For each sequenced nucleotide (start of read to end of read) a BoxWhisker type p
 
 The y-axis on the graph shows the quality scores. The higher the score the better the base call. The background of the graph divides the y axis into very good quality calls (green), calls of reasonable quality (orange), and calls of poor quality (red). The quality of calls on most platforms will degrade as the run progresses, so it is common to see base calls falling into the orange area towards the end of a read.
 
-**Question #11. In your Salmonella data, at what position along the reads does the mean quality fall below Q20? Is it the same for both the forward and reverse reads?**
+**Question #11. In your *Salmonella* data, at what position along the reads does the mean quality fall below Q20? Is it the same for both the forward and reverse reads?**
 
 **Question #12. After reading the documentation on the FASTQC plots, do you think there is any evidence that the sequence library is biased (i.e. non-random)? Explain your reasoning.**
 
@@ -248,7 +248,7 @@ You will be shown how to use the TRIMMOMATIC tool to perform quality trimming on
 
 ![Trimmomatic](./images/trimmomatic.jpg)
 
-Take a look at the new FASTQ files and then analyze the results using FASTQC. 
+Trimmomatic will separate the data into paired and unpaired reads, just like our steps in the linux assembly above. **Ignore the unpaired reads and only used the paired read going forward.** Take a look at the new FASTQ files and then analyze the groomed and trimmed paired reads using FASTQC. 
 
 **Question #13. How does the trimmed FASTQ data differ from the original FASTQ data? How will the trimming improve your assembly?**
 
