@@ -22,6 +22,7 @@ The goal of this lab is to improve student usage of the Linux operating system a
 * [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
 * [Command Line Genome Assembly walkthrough](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EbLIyE4ES29ArXkBhoSOLJAB_MX-x3gojUGq1kq7KJm0RQ) ~27 minutes
 * [Galaxy Genome Assembly - Queuing each step](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/ETtEvvq-3zJDtPkL8Ex5kMYB0qZvrmWIlpEKUlQBAK4k_Q) ~21 minutes
+* [Galaxy Genome Assembly - Results](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/Ef0c-CyvQFlDrJLXmR62yGUBow6Qbs0ie_X4h-Ga8X3ckg) ~9 minutes
 
 **Background Reading** (optional)
 * Myers et al. 2000. A whole-genome assembly of *Drosophila*. [Science 287:2196-2204](https://www.ncbi.nlm.nih.gov/pubmed/?term=10731133)
