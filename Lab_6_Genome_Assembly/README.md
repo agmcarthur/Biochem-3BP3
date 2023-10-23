@@ -191,7 +191,7 @@ Today’s lab will use the public server of the Galaxy project, http://usegalaxy
 
 The walkthrough video provides a demonstration of the Galaxy workflow environment and will assemble a *Salmonella* genome sequencing project which will be used in next week’s molecular epidemiology laboratory.
 
-Create a New History using the history tool and give it a name:
+If you are new to Galaxy, you will have an empty Unnamed History. Otherwise, use the plus sign to create a new History. Either way, give your History a name:
 
 ![History](./images/history.jpg)
 
