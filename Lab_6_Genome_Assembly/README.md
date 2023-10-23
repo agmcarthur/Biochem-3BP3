@@ -248,13 +248,13 @@ You will be shown how to use the TRIMMOMATIC tool to perform quality trimming on
 
 ![Trimmomatic](./images/trimmomatic.jpg)
 
-Trimmomatic will separate the data into paired and unpaired reads, just like our steps in the linux assembly above. **Ignore the unpaired reads and only used the paired read going forward.** Take a look at the new FASTQ files and then analyze the groomed and trimmed paired reads using FASTQC. 
+Trimmomatic will separate the data into paired and unpaired reads, just like our steps in the linux assembly above. **Ignore the unpaired reads and only used the paired reads going forward.** Take a look at the new FASTQ files and then analyze the groomed and trimmed paired reads using FASTQC. 
 
 **Question #13. How does the trimmed FASTQ data differ from the original FASTQ data? How will the trimming improve your assembly?**
 
 **PREPARING FOR ASSEMBLY**
 
-Just like the *fastx_trimmer* tool we used at the command line, TRIMMOMATIC may have removed some poor quality sequences, put the forward and reverse FASTQ files out of sync. First use the *FASTQ Interlacer* to merge all of the **paired** data into one file
+Just like the *fastx_trimmer* tool we used at the command line, TRIMMOMATIC may have removed some poor quality sequences, putting the forward and reverse FASTQ files out of sync. First use the *FASTQ Interlacer* to merge all of the **paired** data into one file
 
 ![Interlacer](./images/interlacer.jpg)
 
