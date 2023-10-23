@@ -277,7 +277,7 @@ Unicycler will create two output boxes, one containing the assembly graph and th
 
 ![AssemblyGraph](./images/unicyclergraph.jpg)
 
-Also use the **Quast** tool to generate assembly statistics, reading the PDF report to view the assembly statistics:
+We can also use the **Quast** tool to generate assembly statistics, reading the PDF report to view the assembly statistics:
 
 * Set mode to **Individual Assembly**
 
