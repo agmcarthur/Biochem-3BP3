@@ -197,7 +197,7 @@ If you are new to Galaxy, you will have an empty Unnamed History. Otherwise, use
 
 Upload the lab data below via the **Upload Data** tool's *Paste/Fetch* option. There are two ways you can do this:
 * Download the two files below and then upload them to Galaxy (very slow)
-* Use the URLs from the files below (recommended, fast) 
+* Use the URLs from the files below (recommended, fast, see screenshot below) 
 
 [Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz](https://dl.dropboxusercontent.com/s/30cagee5w63dvwq/Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz)
 
