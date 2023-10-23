@@ -156,23 +156,23 @@ Record some statistics for later comparison:
 <a name="visual"></a>
 ## Visualization
 
-We now want to visualize our assembly instead of just looking at statistics. Some of these results are pre-computed since they are not quick and we are going to learn the details of Burrow's Wheeler Transform next week.
+We now want to visualize our assembly instead of just looking at statistics. Some of these results are pre-computed screenshots since they are not quick and we are going to learn the details of Burrow's Wheeler Transform next week.
 
 > Visualizing BWT read mapping was performed using Tablet, https://ics.hutton.ac.uk/tablet/
 
+_We use the Burrows-Wheeler algorithm (BWA) to align our raw sequencing reads to the assembled contigs so we can see where each read contributed to the final assembly. Usually, BWA is used to align NGS sequences to a reference genome, such as the published human genome. In this case, we are using the contigs as the reference genome. Visualizing reads that aligned to the contig *Node 1*:_
+
 ![Reads mapped against Node 1](./images/Tablet-Screenshot1.jpg)
 
-_We use the Burrows-Wheeler algorithm (BWA) to align our raw sequencing reads to the assembled contigs so we can see where each read contributed to the final assembly. Usually, BWA is used to align NGS sequences to a reference genome, such as the published human genome. In this case, we are using the contigs as the reference genome. Visualizing reads that aligned to the contig *Node 1*._
+_Zoom of above image to show agreement (and rare disagreement) among sequencing reads. The disagreement could be true polymorphism or sequencing errors:_
 
 ![Zoomed: Reads mapped against Node 1, note sequencing error](./images/Tablet-Screenshot2.jpg)
 
-_Zoom of above image to show agreement (and rare disagreement) among sequencing reads. The disagreement could be true polymorphism or sequencing errors._
-
 > Visualizing similarity between assembly and a reference *Salmonella* genome was performed using MAUVE, http://darlinglab.org/mauve/mauve.html
 
-![Mapping contigs to a reference genome](./images/Mauve-Screenshot.jpg)
+_Comparison of the assembly contigs (bottom) to the complete genome sequence of a reference *Salmonella* strain (top). Blocks reflect regions of shared sequence, red lines gaps:_
 
-_Comparison of the assembly contigs (bottom) to the complete genome sequence of a reference *Salmonella* strain (top). Blocks reflect regions of shared sequence, red lines gaps._
+![Mapping contigs to a reference genome](./images/Mauve-Screenshot.jpg)
 
 Using the lab computers, visualize the quality of the assembly graph, with an emphasis upon repeated sequences, using BANDAGE (https://rrwick.github.io/Bandage) and the *LastGraph.txt* file available on A2L/GitHub.
 
