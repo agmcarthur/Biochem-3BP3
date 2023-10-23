@@ -219,11 +219,11 @@ You will be shown how to use the FASTQC tool. Run FASTQC on both data files usin
 
 See the [FASTQC Documentation](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/) and [video tutorial](http://www.youtube.com/watch?v=bz93ReOv87Y).
 
-Here is an example of the **Per base sequence quality**:
+Here is an example of the **Per base sequence quality** from another data set:
 
 ![FASTQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/per_base_quality.png)
 
-For each position a BoxWhisker type plot is drawn. The elements of the plot are as follows:
+For each sequenced nucleotide (start of read to end of read) a BoxWhisker type plot is drawn. The elements of the plot are as follows:
 
 * The central red line is the median value
 * The yellow box represents the inter-quartile range (25-75%)
@@ -232,7 +232,7 @@ For each position a BoxWhisker type plot is drawn. The elements of the plot are 
 
 The y-axis on the graph shows the quality scores. The higher the score the better the base call. The background of the graph divides the y axis into very good quality calls (green), calls of reasonable quality (orange), and calls of poor quality (red). The quality of calls on most platforms will degrade as the run progresses, so it is common to see base calls falling into the orange area towards the end of a read.
 
-**Question #11. At what position along the reads does the mean quality fall below Q20? Is it the same for both the forward and reverse reads?**
+**Question #11. In your Salmonella data, at what position along the reads does the mean quality fall below Q20? Is it the same for both the forward and reverse reads?**
 
 **Question #12. After reading the documentation on the FASTQC plots, do you think there is any evidence that the sequence library is biased (i.e. non-random)? Explain your reasoning.**
 
