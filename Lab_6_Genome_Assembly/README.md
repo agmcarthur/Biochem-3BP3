@@ -195,13 +195,13 @@ If you are new to Galaxy, you will have an empty Unnamed History. Otherwise, use
 
 ![History](./images/history.jpg)
 
-Once everyone has their own History, you will be shown how to upload the lab data **via the Paste/Fetch tool**, but first grab a copy of the data: 
+Upload the lab data below via the **Upload Data** tool's *Paste/Fetch* option:. You have two options:
+* Download the two files below and then upload them to Galaxy (very slow)
+* Use the URLs from the files below (recommended, fast) 
 
 [Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz](https://dl.dropboxusercontent.com/s/30cagee5w63dvwq/Salmonella_3185_TACGAATC_L003_R1_001.fastq.gz)
 
 [Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz](https://dl.dropboxusercontent.com/s/pm622bu70er1l71/Salmonella_3185_TACGAATC_L003_R2_001.fastq.gz)
-
-And the use the **Upload File** tool's *Paste/Fetch* option:
 
 ![Upload](./images/upload.jpg)
 
