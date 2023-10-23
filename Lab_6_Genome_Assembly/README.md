@@ -217,7 +217,7 @@ You will be shown how to use the FASTQC tool. Run FASTQC on both data files usin
 
 ![RunFASTQC](./images/runfastqc.jpg)
 
-Full details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/ 
+See the [FASTQC Documentation](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/) and [video tutorial](http://www.youtube.com/watch?v=bz93ReOv87Y)
 
 Here is an example of the **Per base sequence quality**:
 
