@@ -11,12 +11,15 @@
 
 The goal of this lab is to develop molecular epidemiology skills by examining a *Salmonella* outbreak.
 
-**Lectures** - [Molecular Epidemiology](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%206%20-%20Molecular%20Epidemiology.pptx)
+**Lectures** - [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%206%20-%20Molecular%20Epidemiology.pptx) Molecular Epidemiology [video ~x minutes]()
 
 **Flash Updates**
 * *SNPs* 
 * *Horizontal Gene Transfer* 
 * *Metagenomics* 
+
+**Demo Videos**
+* [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
 
 **Background Reading** (optional)
 * Mutreja et al .2011. Evidence for several waves of global transmission in the seventh cholera pandemic. [Nature 477: 462-5](https://www.ncbi.nlm.nih.gov/pubmed/?term=21866102)
@@ -30,9 +33,8 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 * Archaeopteryx, https://sites.google.com/site/cmzmasek/home/software/archaeopteryx
 
 **Computer Resources**
-* This lab will use McMaster's Virtual Machines for Archaeopteryx, see the demo on how to login using your MacID, otherwise all other steps are performed using any web browser.
-* You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
-* All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
+* This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer. See the demo video on how to login using Microsoft Remote Desktop and your MacID.
+* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g., email yourself a copy).
 
 **Grading**
 * Questions are for your learning and are not graded
