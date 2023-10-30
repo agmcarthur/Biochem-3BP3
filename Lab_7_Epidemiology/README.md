@@ -20,6 +20,7 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 
 **Demo Videos**
 * [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
+* [Lab Walkthrough](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EZ8orGuU_t9Gh5a16tDJhC8BKOS8c4ntb_VIN8K4d3htRA) ~15 minutes
 
 **Background Reading** (optional)
 * Mutreja et al .2011. Evidence for several waves of global transmission in the seventh cholera pandemic. [Nature 477: 462-5](https://www.ncbi.nlm.nih.gov/pubmed/?term=21866102)
