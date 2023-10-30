@@ -47,6 +47,10 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 
 In the previous lab you assembled a *Salmonella enterica* genome sequence, learning the steps of how to filter and assemble raw Illumina sequencing reads to form genome contigs and scaffolds. Now you are going to analyze 45 *Salmonella enterica* genomes from an outbreak. These samples are from 2012, when Public Health Ontario encountered a spike in food poisoning from a number of locations in Ontario, later determined to be *Salmonella* by traditional culture methods. Each isolate had DNA extracted, sequenced, and genome assembled. There is also one metagenomic sequencing data set from a single patient, for reasons explained below.
 
+* [FASTA genome sequences](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/FASTA)
+* [PARSNP whole-genome SNP alignment](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/PARSNP)
+* [Gut metagenomics assembly](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/metagenomics)
+
 <a name="tasks"></a>
 ## Tasks
 
@@ -54,17 +58,17 @@ Your instructor will demonstrate the software needed to complete the following t
 
 > Flash Update - SNPs 
 
-1. https://pathogen.watch provides molecular typing tools for a number of pathogens. While it does not have a core genome MLST (cgMLST) framework for *Salmonella enterica*, it can perform traditional MLST profiling. Upload your sequences to Pathogen Watch to examine the MLST typing.
+1. https://pathogen.watch provides molecular typing tools for a number of pathogens. While it does not have a core genome MLST (cgMLST) framework for *Salmonella enterica*, it can perform traditional MLST profiling. Upload the [FASTA genome sequences](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/FASTA) to Pathogen Watch to examine the MLST typing.
 
 > Flash Update - Horizontal Gene Transfer 
 
-2. In addition to Pathogen Watch, these genomes have been run through the PARSNP algorithm to catalog whole-genome SNPs (less SNP dense regions indicative of horizontal gene transfer). The result is a PHYLIP format file that also includes a reference sequence from the same MLST as well as the strain labels from a k-mer analysis. Perform a RAxML analysis (http://www.phylo.org/index.php/) to determine fine-resolution relationships of these strains. **Note**: this is a nucleotide alignment, not a protein alignment, but as before include a gamma model of rate heterogeneity, a maximum likelihood search, and estimated proportion of invariable sites. See [Lab 3 Phylogenetics](../Lab_3_Phylogenetics) for a reminder. The results file to look at is *RAxML_bipartitions.result* and the results are easier to look as a cladogram (i.e. no branch lengths).
+2. In addition to Pathogen Watch, these genomes have been run through the PARSNP algorithm to catalog whole-genome SNPs (less SNP dense regions indicative of horizontal gene transfer). The result is a PHYLIP format [PARSNP whole-genome SNP alignment](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/PARSNP) file that also includes a reference sequence from the same MLST as well as the strain labels from a k-mer analysis. Perform a RAxML analysis (http://www.phylo.org/index.php/) to determine fine-resolution relationships of these strains. **Note**: this is a nucleotide alignment, not a protein alignment, but as before include a gamma model of rate heterogeneity, a maximum likelihood search, and estimated proportion of invariable sites. See [Lab 3 Phylogenetics](../Lab_3_Phylogenetics) for a reminder. The results file to look at is *RAxML_bipartitions.result* and the results are easier to look as a cladogram (i.e. no branch lengths).
 
-3. *Salmonella* infections are often treated without antibiotics, except for severe cases in which trimethoprim (pediatric) or fluoroquinolones (adult) are used. If you find evidence of clonal outbreaks in your data, sample a genome from each subset for Resistance Gene Identifier analysis (part of http://card.mcmaster.ca). 
+3. *Salmonella* infections are often treated without antibiotics, except for severe cases in which trimethoprim (pediatric) or fluoroquinolones (adult) are used. If you find evidence of clonal outbreaks in your data, sample a [FASTA genome sequence](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/FASTA) from each major clade for Resistance Gene Identifier analysis (part of http://card.mcmaster.ca). 
 
 > Flash Update - Metagenomics
 
-4. Unexpectedly, a single patient has proven abnormally resistant to antibiotics, suggesting the *Salmonella* is not the only pathogen involved, even though it is the only pathogen successfully isolated by culture. This patient has had their fecal metagenome sequenced and assembled by the McArthur lab (file *metagenomics.fasta*). Use the Resistance Gene Identifier (part of http://card.mcmaster.ca) to screen these putative AMR alleles for antimicrobial resistance genes. **Note**: the predicted alleles may only be fragments, so use RGI's Low Quality/Coverage setting but still only look for Perfect/Strict hits.
+4. Unexpectedly, a single patient has proven abnormally resistant to antibiotics, suggesting the *Salmonella* is not the only pathogen involved, even though it is the only pathogen successfully isolated by culture. This patient has had their fecal metagenome sequenced and assembled by the McArthur lab: [Gut metagenomics assembly](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/metagenomics). Use the Resistance Gene Identifier (part of http://card.mcmaster.ca) to screen these putative AMR alleles for antimicrobial resistance genes. **Note**: the predicted alleles may only be fragments, so use RGI's Low Quality/Coverage setting but still only look for Perfect/Strict hits.
 
 <a name="questions"></a>
 ## Questions
