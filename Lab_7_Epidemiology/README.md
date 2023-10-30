@@ -9,7 +9,7 @@
 <a name="intro"></a>
 ## Introduction
 
-The goal of this lab is to develop molecular epidemiology skills by examining a *Salmonella* outbreak.
+The goal of this lab is to develop molecular epidemiology skills by examining a *Salmonella* outbreak using genomic data.
 
 **Lectures** - [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%206%20-%20Molecular%20Epidemiology.pptx) Molecular Epidemiology [video ~x minutes]()
 
@@ -29,8 +29,8 @@ The goal of this lab is to develop molecular epidemiology skills by examining a 
 **Links**
 * https://pathogen.watch - Pathogen Watch, a Global Platform for Genomic Surveillance
 * CARD: Comprehensive Antibiotic Resistance Database, http://card.mcmaster.ca
-* RAxML Blackbox at CIPRES, http://www.phylo.org
-* Archaeopteryx, https://sites.google.com/site/cmzmasek/home/software/archaeopteryx
+* RAxML Blackbox at CIPRES, http://www.phylo.org/index.php/
+* Archaeopteryx, https://www.phylosoft.org/archaeopteryx/
 
 **Computer Resources**
 * This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer. See the demo video on how to login using Microsoft Remote Desktop and your MacID.
