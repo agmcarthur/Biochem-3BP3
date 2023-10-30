@@ -68,7 +68,7 @@ Your instructor will demonstrate the software needed to complete the following t
 
 > Flash Update - Metagenomics
 
-4. Unexpectedly, a single patient has proven abnormally resistant to antibiotics, suggesting the *Salmonella* is not the only pathogen involved, even though it is the only pathogen successfully isolated by culture. This patient has had their fecal metagenome sequenced and assembled by the McArthur lab: [Gut metagenomics assembly](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/metagenomics). Use the Resistance Gene Identifier (part of http://card.mcmaster.ca) to screen these putative AMR alleles for antimicrobial resistance genes. **Note**: the predicted alleles may only be fragments, so use RGI's Low Quality/Coverage setting but still only look for Perfect/Strict hits.
+4. Unexpectedly, a single patient has proven abnormally resistant to antibiotics, suggesting the *Salmonella* is not the only pathogen involved, even though it is the only pathogen successfully isolated by culture. This patient has had their fecal metagenome sequenced and assembled by the McArthur lab: [gut metagenomics assembly](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/metagenomics). Use the Resistance Gene Identifier (part of http://card.mcmaster.ca) to screen these putative AMR alleles for antimicrobial resistance genes. **Note**: the predicted alleles may only be fragments, so use RGI's Low Quality/Coverage setting but still only look for Perfect/Strict hits.
 
 <a name="questions"></a>
 ## Questions
