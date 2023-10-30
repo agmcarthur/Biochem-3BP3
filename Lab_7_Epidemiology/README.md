@@ -1,4 +1,4 @@
-## Lab # 7 - Epidemiology
+## Lab # 7 - Molecular Epidemiology
 
 ## Table of Contents
 1. [Introduction](#intro)
