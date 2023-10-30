@@ -64,6 +64,8 @@ Your instructor will demonstrate the software needed to complete the following t
 
 2. In addition to Pathogen Watch, these genomes have been run through the PARSNP algorithm to catalog whole-genome SNPs (less SNP dense regions indicative of horizontal gene transfer). The result is a PHYLIP format [PARSNP whole-genome SNP alignment](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/PARSNP) file that also includes a reference sequence from the same MLST as well as the strain labels from a k-mer analysis. Perform a RAxML analysis (http://www.phylo.org/index.php/) to determine fine-resolution relationships of these strains. **Note**: this is a nucleotide alignment, not a protein alignment, but as before include a gamma model of rate heterogeneity, a maximum likelihood search, and estimated proportion of invariable sites. See [Lab 3 Phylogenetics](../Lab_3_Phylogenetics) for a reminder. The results file to look at is *RAxML_bipartitions.result* and the results are easier to look as a cladogram (i.e. no branch lengths).
 
+![RAxML](RAxML.jpg)
+
 3. *Salmonella* infections are often treated without antibiotics, except for severe cases in which trimethoprim (pediatric) or fluoroquinolones (adult) are used. If you find evidence of clonal outbreaks in your data, sample a [FASTA genome sequence](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology/FASTA) from each major clade for Resistance Gene Identifier analysis (part of http://card.mcmaster.ca). 
 
 > Flash Update - Metagenomics
