@@ -59,7 +59,7 @@ After cDNA synthesis, labelling, hybridization, and scanning you will also be sh
 
 | page 1 | page 2 | page 3 |
 |-----|-----|-----|
-| ![page 1](img/aglient1.jpg) | ![page 2](img/aglient2.jpg) | ![page 3](img/aglient3.jpg) | 
+| ![page 1](img/agilent1.jpg) | ![page 2](img/agilent2.jpg) | ![page 3](img/agilent3.jpg) | 
 
 **Question #1 – Which molecules can be used as indicators of RNA sample quality? How are they assessed?**
 
