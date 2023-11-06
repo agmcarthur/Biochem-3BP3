@@ -70,7 +70,11 @@ After cDNA synthesis, labelling, hybridization, and scanning you will also be sh
 
 > Flash Update - Normalization 
 
-**Example #1** illustrates Rank Invariant Probe normalization of the microarray data, needed since each microarray has received slightly differ amounts of labelled cRNA.  You will need the following:
+**Example #1** illustrates Rank Invariant Probe normalization of the microarray data, needed since each microarray has received slightly differ amounts of labelled cRNA.  
+
+![Normalization](img/normalization.jpg)
+
+You will need the following:
 
 * File *normalization.xlsx* from Avenue 2 Learn
 * A web browser open to http://mcarthurbioinformatics.ca/microarrays
