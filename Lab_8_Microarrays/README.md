@@ -76,8 +76,8 @@ After cDNA synthesis, labelling, hybridization, and scanning you will also be sh
 
 You will need the following:
 
-* File *normalization.xlsx* from Avenue 2 Learn
-* A web browser open to http://mcarthurbioinformatics.ca/microarrays
+* File [normalization.xlsx](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lab_8_Microarrays/normalization.xlsx)
+* A web browser open to [mcarthurbioinformatics.ca/microarrays](http://mcarthurbioinformatics.ca/microarrays)
 
 Normalization by Rank Invariant Probes is a four step process:
 
@@ -85,9 +85,9 @@ Normalization by Rank Invariant Probes is a four step process:
 * Determine the microarray with the median of all median signals – this is the *baseline* microarray
 * For each microarray, rank the probes from highest signal to lowest
 * Normalize each microarray relative to the baseline microarray:
-	* Find all probes with the same rank among the two microarrays
-	* Use these rank invariant probes to create a normalization curve using a piecewise linear running median
-	* Normalize the microarray
+  * Find all probes with the same rank among the two microarrays
+  * Use these rank invariant probes to create a normalization curve using a piecewise linear running median
+  * Normalize the microarray
 
 **Question #3 - Which microarrays had the highest and lowest Cy3 loadings?**
 
