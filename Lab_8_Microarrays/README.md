@@ -44,14 +44,22 @@ The goal of this lab is to review the analysis of microarray data.
 
 This lab walks through a series of data and steps in microarray analyses, with a focus on signal processing, filtering, and normalization. Experimental design and results slides are available in the file [Biochem 3BP3 Lab 8 Microarray.pptx](Biochem_3BP3_Lab8_Microarray.pptx) as well as shown in the walkthrough video, all referring to the Microarray Flow Chart presented in the lecture:
 
-![Microarray Flow Chart](flowchart.jpg)
+![Microarray Flow Chart](img/flowchart.jpg)
 
 <a name="qc"></a>
 ## Sample Quality Control
 
 > Flash Update - Microarrays 
 
-You will be shown both BioAnalyzer results for assessment of RNA quality but also Feature Extraction results for assessment of hybridization and scanning quality. 
+You will be shown BioAnalyzer results for assessment of RNA quality:
+
+![BioAnalyzer Results](img/bioanalyzer.jpg)
+
+After cDNA synthesis, labelling, hybridization, and scanning you will also be shown Feature Extraction results:
+
+| page 1 | page 2 | page 3 |
+|-----|-----|-----|
+| ![page 1](img/aglient1.jpg) | ![page 2](img/aglient2.jpg) | ![page 3](img/aglient3.jpg) | 
 
 **Question #1 – Which molecules can be used as indicators of RNA sample quality? How are they assessed?**
 
