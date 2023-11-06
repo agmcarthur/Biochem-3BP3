@@ -121,6 +121,8 @@ You will need:
 
 In **Example #3**, you will take the normalized data from the zebrafish oxidative stress experiment examined above and perform a statistical analysis. 
 
+![MeV](img/mev.jpg)
+
 You will need:
 
 * files *oxidative-stress.txt* and *oxidative-stress-design.txt*, available in [oxidative-stress.zip](oxidative-stress.zip)
