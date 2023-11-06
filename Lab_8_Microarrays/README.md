@@ -96,9 +96,13 @@ Normalization by Rank Invariant Probes is a four step process:
 <a name="filtering"></a>
 ## Data Filtering
 
-From **Example 2**, you will next look at some normalized data from an experiment that performs a two-dye hybridization, where for each microarray the Cy3 (green) RNA is from a universal mRNA reference. You will need:
+From **Example 2**, you will next look at some normalized data from an experiment that performs a two-dye hybridization, where for each microarray the Cy3 (green) RNA is from a universal mRNA reference. 
 
-* File *filtering.xlsx* from Avenue 2 Learn
+![Two Dye Microarray](img/twodye.jpg)
+
+You will need:
+
+* File [filtering.xlsx](filtering.xlsx)
 
 **Question #5 - What is the most highly expressed gene for the tBHQ, TCDD, and DMSO samples?**
 
