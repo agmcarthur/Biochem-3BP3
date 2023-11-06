@@ -12,12 +12,15 @@
 
 The goal of this lab is to review the analysis of microarray data.
 
-**Lectures** - [Gene Expression Analysis](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%207%20-%20Gene%20Expression.pptx)
+**Lectures** - [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%207%20-%20Gene%20Expression.pptx) Gene Expression Analysis [video ~x minutes]()
 
 **Flash Updates**
 * *Microarrays* 
 * *Normalization* 
 * *False Discovery* 
+
+**Demo Videos**
+* [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
 
 **Background Reading** (optional)
 * Hahn et al. 2014. The transcriptional response to oxidative stress during vertebrate development: effects of tert-butylhydroquinone and 2,3,7,8-tetrachlorodibenzo-p-dioxin. [PLoS One 9:e113158](https://www.ncbi.nlm.nih.gov/pubmed/?term=25402455)
@@ -27,15 +30,12 @@ The goal of this lab is to review the analysis of microarray data.
 * http://mev.tm4.org - Microarray Software Suite TM4’s Multi-Experiment Viewer
 
 **Computer Resources**
-* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID.
-* You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
-* All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
+* This lab will use McMaster's virtual Windows servers, so you need to install and set-up [Microsoft Remote Desktop](https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/#tab-content-how-to-connect) on your personal computer. See the demo video on how to login using Microsoft Remote Desktop and your MacID.
+* All files and work on the virtual servers will be lost when you log out. Be sure to save your work elsewhere (e.g., email yourself a copy).
 
-**Data and A2L Files**
+**Grading**
 * This is a participation lab, not graded.
-* An answer key will be provided on A2L after the lab.
-* Remember to refer to the microarray flow chart as we work through the lab.
-* Experimental design and results are available in the A2L file *Biochem 3BP3 Lab 8 Microarray.pptx*.
+* An answer key will be provided on A2L after the deadline.
 
 <a name="qc"></a>
 ## Sample Quality Control
