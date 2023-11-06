@@ -2,10 +2,11 @@
 
 ## Table of Contents
 1. [Introduction](#intro)
-2. [Sample Quality Control](#qc)
-3. [Normalization of Single Channel Data](#normalization)
-4. [Data Filtering](#filtering)
-5. [Statistical Analysis](#statistics)
+2. [Flow Chart](#flowcart)
+3. [Sample Quality Control](#qc)
+4. [Normalization of Single Channel Data](#normalization)
+5. [Data Filtering](#filtering)
+6. [Statistical Analysis](#statistics)
 
 <a name="intro"></a>
 ## Introduction
@@ -21,6 +22,7 @@ The goal of this lab is to review the analysis of microarray data.
 
 **Demo Videos**
 * [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
+* [Lab Walkthrough video]() ~x minutes
 
 **Background Reading** (optional)
 * Hahn et al. 2014. The transcriptional response to oxidative stress during vertebrate development: effects of tert-butylhydroquinone and 2,3,7,8-tetrachlorodibenzo-p-dioxin. [PLoS One 9:e113158](https://www.ncbi.nlm.nih.gov/pubmed/?term=25402455)
@@ -36,6 +38,13 @@ The goal of this lab is to review the analysis of microarray data.
 **Grading**
 * This is a participation lab, not graded.
 * An answer key will be provided on A2L after the deadline.
+
+<a name="flowcart"></a>
+## Flow Chart and Exercises
+
+This lab walks through a series of data and steps in microarray analyses, with a focus on signal processing, filtering, and normalization. Experimental design and results slides are available in the file [Biochem 3BP3 Lab 8 Microarray.pptx](Biochem_3BP3_Lab8_Microarray.pptx) as well as shown in the walkthrough video, all referring to the Microarray Flow Chart presented in the lecture:
+
+![Microarray Flow Chart](flowchart.jpg)
 
 <a name="qc"></a>
 ## Sample Quality Control
