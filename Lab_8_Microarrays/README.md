@@ -119,12 +119,13 @@ You will need:
 
 > Flash Update - False Discovery 
 
-In **Example #3**, you will take the normalized data from the zebrafish oxidative stress experiment examined above and perform a statistical analysis. You will need from A2L:
+In **Example #3**, you will take the normalized data from the zebrafish oxidative stress experiment examined above and perform a statistical analysis. 
 
-* file *oxidative-stress.txt*
-* file *oxidative-stress-design.txt*
+You will need:
 
-Initial steps:
+* files *oxidative-stress.txt* and *oxidative-stress-design.txt*, available in [oxidative-stress.zip](oxidative-stress.zip)
+
+We will use [MeV](http://mev.tm4.org) to analyse these data. Initial steps:
 
 * Log transform the data to reduce Power Relationships in the data
 * Median centre the probes to down-play abundance and focus on variation
