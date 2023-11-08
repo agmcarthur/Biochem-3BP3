@@ -23,7 +23,7 @@ The goal of this lab is to review the analysis of microarray data.
 **Demo Videos**
 * [Using Microsoft Remote Desktop](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EW0MD7r2VKNLiF9NcTSWalIBjrQKxeVJVoo6DCF06gFWUQ) ~2 minutes
 * [Lab Walkthrough - Intro through Data Filtering](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EahJFGawelRBqGBXyC-4MqwB4XsToxSZcqtDt7WEOh0rIw) ~35 minutes
-* [Lab Walkthrough - MeV]() ~x minutes
+* [Lab Walkthrough - MeV](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EUTzD-qHF2dOp-9Q2GZ1pFMBdZdccqruQhl6qtuqmHqjqw) ~18 minutes
 
 **Background Reading** (optional)
 * Hahn et al. 2014. The transcriptional response to oxidative stress during vertebrate development: effects of tert-butylhydroquinone and 2,3,7,8-tetrachlorodibenzo-p-dioxin. [PLoS One 9:e113158](https://www.ncbi.nlm.nih.gov/pubmed/?term=25402455)
