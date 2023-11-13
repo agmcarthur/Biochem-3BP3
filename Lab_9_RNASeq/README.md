@@ -138,7 +138,7 @@ We are going to use *DESeq2* to both normalize and perform significance tests on
 
 ![factors](./deseq2.jpg)
 
-Make sure *Files have header?*, *Generate plots for visualizing the analysis results,* and *Output normalized counts table* are set to **Yes** and then run the analysis. 
+Make sure *Files have header?*, *Generate plots for visualizing the analysis results,* and *Output normalized counts table* are set to **Yes** and then run the analysis: 
 
 ![factors](./deseq2b.jpg)
 
