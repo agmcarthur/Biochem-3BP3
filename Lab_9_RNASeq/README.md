@@ -23,7 +23,10 @@ The goal of this lab is to review the analysis of RNA-Seq data using the public 
 * *Tn-Seq* 
 
 **Demo Videos**
-* [Lab Walkthrough]() ~x minutes
+* [Set-Up & Data Cleaning]() ~x minutes
+* [Read Mapping]() ~x minutes
+* [Transcript Assembly]() ~x minutes
+* [Differential Gene Analysis & Interpretation]() ~x minutes
 
 **Background Reading** (optional)
 * Bock. 2012. Analysing and interpreting DNA methylation data. [Nat Rev Genet. 13:705-19](https://www.ncbi.nlm.nih.gov/pubmed/?term=22986265)
