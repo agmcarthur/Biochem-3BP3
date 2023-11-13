@@ -15,19 +15,22 @@
 
 The goal of this lab is to review the analysis of RNA-Seq data using the public Galaxy platform.
 
-**Lectures** - [RNA-Seq, ChIP-Seq, Bisulfite-Seq](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%208%20-%20RNA-Seq.pptx)
+**Lectures** - [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%208%20-%20RNA-Seq.pptx) RNA-Seq, ChIP-Seq, Bisulfite-Seq [video ~x minutes]()
 
 **Flash Updates**
 * *RNA-Seq* 
 * *Illumina Bead Microarrays* 
 * *Tn-Seq* 
 
+**Demo Videos**
+[Lab Walkthrough]() ~x minutes
+
 **Background Reading** (optional)
 * Bock. 2012. Analysing and interpreting DNA methylation data. [Nat Rev Genet. 13:705-19](https://www.ncbi.nlm.nih.gov/pubmed/?term=22986265)
 * Liu et al. 2010. Q&A: ChIP-seq technologies and the study of gene regulation. [BMC Biol. 8:56](https://www.ncbi.nlm.nih.gov/pubmed/?term=20529237)
 
 **Links**
-* http://usegalaxy.org - Today’s lab will be performed using the public Galaxy website
+* http://usegalaxy.org - this lab will be performed using the public Galaxy website, which was introduced in [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly)
 
 **Computer Resources**
 * You can complete this entire lab by using your web browser
