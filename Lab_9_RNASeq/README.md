@@ -26,7 +26,7 @@ The goal of this lab is to review the analysis of RNA-Seq data using the public 
 * [Set-Up & Data Cleaning](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EaUn4n_JRlhFrcSJiVhg9cYBWzv_sJPX6pBDC2ENcfh3eg) ~11 minutes
 * [Read Mapping](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/ESvw9oUNBwtIg7dO_PMATlMBmbZ6aPhZ4SBuiKqQXbxIig) ~4 minutes
 * [Transcript Assembly](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EcbU-9ZwW2BKhMKQanVXkEgBxt4BZxP0My4mj3SzReYCtw) ~6 minutes
-* [Differential Gene Analysis & Interpretation]() ~x minutes
+* [Differential Gene Analysis & Interpretation](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/Ee8IQz_I8c9BiFfZ-98JSksBY30ATte94sccEwi2aoX6Wg) ~13 minutes
 
 **Background Reading** (optional)
 * Bock. 2012. Analysing and interpreting DNA methylation data. [Nat Rev Genet. 13:705-19](https://www.ncbi.nlm.nih.gov/pubmed/?term=22986265)
@@ -34,6 +34,7 @@ The goal of this lab is to review the analysis of RNA-Seq data using the public 
 
 **Links**
 * http://usegalaxy.org - this lab will be performed using the public Galaxy website, which was introduced in [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly)
+* https://david.ncifcrf.gov - we will also use DAVID, which was introduced in [Lab 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_4_Ontologies)
 
 **Computer Resources**
 * You can complete this entire lab by using your web browser
