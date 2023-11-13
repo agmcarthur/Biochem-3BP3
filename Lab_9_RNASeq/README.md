@@ -88,7 +88,7 @@ Use the FastQC tool to examine the quality of some of the RNA-Seq data. As befor
 <a name="clean"></a>
 ## Data Cleaning
 
-Even if the data as a whole passed FASTQC, quality trimming and filtering is still highly recommended to remove or trim individual sequences of poor quality. Convert the data to Galaxy's preferred FASTQ format using *FASTQ Groomer* (default settings) and then run *Trimmomatic* (paired-end with separate input files, plus ILLUMINACLIP with TruSeq3 for paired-end MiSeq or HiSeq) on all the samples, using the [Sample Tracking.xlsx](Sample_Tracking.xlsx) spreadsheet to keep track of your results. For example:
+Even if the data as a whole passed FASTQC, quality trimming and filtering is still highly recommended to remove or trim individual sequences of poor quality. First, convert the data to Galaxy's preferred FASTQ format using *FASTQ Groomer* (default settings) and then run *Trimmomatic* (paired-end with separate input files, plus ILLUMINACLIP with TruSeq3 for paired-end MiSeq or HiSeq) on all the samples, using the [Sample Tracking.xlsx](Sample_Tracking.xlsx) spreadsheet to keep track of your results. For example:
 
 ![trimmomatic](./trimmomatic.jpg)
 
