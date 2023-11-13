@@ -138,7 +138,11 @@ We are going to use *DESeq2* to both normalize and perform significance tests on
 
 ![factors](./deseq2.jpg)
 
-Make sure *Files have header?* and *Output normalized counts table* are both set to **Yes** and then run the analysis. *DESeq2* will normalize the data and perform the statistical testing as outlined in the lecture, but it will also create a table of normalized transcript counts that you could export for traditional ANOVA using MeV4 like you performed in the microarray lab.
+Make sure *Files have header?*, *Generate plots for visualizing the analysis results,* and *Output normalized counts table* are set to **Yes** and then run the analysis. 
+
+![factors](./deseq2b.jpg)
+
+*DESeq2* will normalize the data and perform the statistical testing as outlined in the lecture, but it will also create a table of normalized transcript counts that you could export for traditional ANOVA using MeV4 like you performed in the microarray lab.
 
 *DESeq2* will create a results file that included significance testing (using the P-adj to reflect correction for false discovery), a principal components plot to visualize differences in overall transcriptome among the replicates, and a table of normalized counts.
 
