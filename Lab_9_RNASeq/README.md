@@ -92,9 +92,10 @@ Even if the data as a whole passed FASTQC, quality trimming and filtering is sti
 
 ![trimmomatic](./trimmomatic.jpg)
 
+**Note**, Trimmomatic under these settings creates both **paired** and **unpaired** output. We only want to use paired reads in our data, so will ignore the unpaired files.
+
 **Question #2. Run *FASTQC* on a couple of your samples to see if the data has changed in quality. Has anything improved?**
 
-Note, Trimmomatic under these settings creates both **paired** and **unpaired** output. We only want to use paired reads in our data, so will ignore the unpaired files.
 
 > Flash Update - Illumina HT-12
 
