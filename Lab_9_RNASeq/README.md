@@ -148,7 +148,11 @@ Make sure *Files have header?*, *Generate plots for visualizing the analysis res
 
 **Question #4. Look at transcript differential expression testing and then try *Filter* for significant differences in transcript abundance (P-adj < 0.05). How many genes are differentially expressed in this experiment at this corrected alpha value?**
 
+![filter](./filter2.jpg)
+
 **Question #5. Look at the normalized counts and then try *Sort* to determine the most highly expressed gene in Cadmium exposed cells. Is it the same for each replicate?**
+
+![sort](./sort.jpg)
 
 <a name="interpretation"></a>
 ## Interpretation
