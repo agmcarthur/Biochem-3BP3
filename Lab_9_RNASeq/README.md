@@ -127,6 +127,8 @@ Perform *htseq-count* on each replicate's *HiSAT2* BAM file, using the *gencode.
 
 **Question #3. Examine the results of htseq-count and then using *Filter*, determine how many assembled transcripts were found in the Cadmium and Control collections (give the range covered by the three replicates).**
 
+![filter](./filter.jpg)
+
 <a name="dge"></a>
 ## Differential Gene Expression Analysis
 
