@@ -157,9 +157,9 @@ Make sure *Files have header?*, *Generate plots for visualizing the analysis res
 <a name="interpretation"></a>
 ## Interpretation
 
-At this point, we have a robust statistical analysis of these RNA-Seq data, with a resulting list of significantly differentially expressed genes, that are labeled using *ENSEMBL_GENE_ID* identifiers. Using the techniques of [Lab 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_4_Ontologies), use the DAVID tool (http://david.ncifcrf.gov) to interpret these results. 
+At this point, we have a robust statistical analysis of these RNA-Seq data, with a resulting list of significantly differentially expressed genes, that are labeled using *ENSEMBL_GENE_ID* identifiers. Using the techniques of [Lab 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_4_Ontologies), use the [DAVID tool](https://david.ncifcrf.gov) to interpret these results. 
 
-> Note - DAVID gets confused with the version identifiers in these Ensembl gene identifiers. The file *Ensembl_list.txt* contains the list of significant hits with the versioning removed.
+> Note - DAVID gets confused with the version identifiers in these Ensembl gene identifiers. The file [Ensembl_list.txt](Ensembl_list.txt) contains the list of significant hits with the versioning removed.
 
 **Problem #3. What is your overall interpretation of the impact of Cadmium on human lens epithelial cells?**
 
