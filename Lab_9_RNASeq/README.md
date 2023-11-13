@@ -23,9 +23,9 @@ The goal of this lab is to review the analysis of RNA-Seq data using the public 
 * *Tn-Seq* 
 
 **Demo Videos**
-* [Set-Up & Data Cleaning]() ~x minutes
-* [Read Mapping]() ~x minutes
-* [Transcript Assembly]() ~x minutes
+* [Set-Up & Data Cleaning](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EaUn4n_JRlhFrcSJiVhg9cYBWzv_sJPX6pBDC2ENcfh3eg) ~11 minutes
+* [Read Mapping](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/ESvw9oUNBwtIg7dO_PMATlMBmbZ6aPhZ4SBuiKqQXbxIig) ~4 minutes
+* [Transcript Assembly](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EcbU-9ZwW2BKhMKQanVXkEgBxt4BZxP0My4mj3SzReYCtw) ~6 minutes
 * [Differential Gene Analysis & Interpretation]() ~x minutes
 
 **Background Reading** (optional)
