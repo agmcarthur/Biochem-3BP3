@@ -132,11 +132,11 @@ Perform *htseq-count* on each replicate's *HiSAT2* BAM file, using the *gencode.
 <a name="dge"></a>
 ## Differential Gene Expression Analysis
 
-> Note - The DESeq2 tool will not que properly, only use it once all previous steps are complete.
+> Note - The DESeq2 tool may not que properly, only use it once all previous steps are complete.
 
 We are going to use *DESeq2* to both normalize and perform significance tests on these data. To do this we have to define the factors in the experiment and assign the *htseq-count* data to these factors. The controls should be in the first factor. For example:
 
-![factors](./deseq2-a.jpg)
+![factors](./deseq2.jpg)
 
 Make sure *Files have header?* and *Output normalized counts table* are both set to **Yes** and then run the analysis. *DESeq2* will normalize the data and perform the statistical testing as outlined in the lecture, but it will also create a table of normalized transcript counts that you could export for traditional ANOVA using MeV4 like you performed in the microarray lab.
 
