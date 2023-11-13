@@ -79,7 +79,7 @@ We are going to examine the response of the human transcriptome in a human lens 
 
 We are going to manipulate these data files multiple times, so download the [Sample Tracking.xlsx](Sample_Tracking.xlsx) spreadsheet to keep track of each step. Start by recording the identifiers of the upload boxes.
 
-Use the FastQC tool to examine the quality of some of the RNA-Seq data. As before, details on all the plots can be found here: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/ or you can review [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly).
+Use the FastQC tool to examine the quality of some of the RNA-Seq data. As before, details on all the plots can be found here: [FASTQC Documentation](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/) and [video tutorial](http://www.youtube.com/watch?v=bz93ReOv87Y), or you can review [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly).
 
 **Question #1. How many mRNA were sequenced from each replicate and does this data need any adaptor removal or quality trimming?**
 
