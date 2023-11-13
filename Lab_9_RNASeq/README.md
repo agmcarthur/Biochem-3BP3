@@ -123,7 +123,7 @@ Perform *htseq-count* on each replicate's *HiSAT2* BAM file, using the *gencode.
 
 ![htseq-count](./htseq-count.jpg)
 
-**Ignore the *(no feature)* results, as these are not mapped to genes**. Record the results identifiers in the the [Sample Tracking.xlsx](Sample_Tracking.xlsx) spreadsheet.
+**Ignore the *(no feature)* results, as these are not mapped to genes**. Record the results identifiers in the the [Sample Tracking.xlsx](Sample_Tracking.xlsx) spreadsheet. 
 
 **Question #3. Examine the results of htseq-count and then using *Filter*, determine how many assembled transcripts were found in the Cadmium and Control collections (give the range covered by the three replicates).**
 
