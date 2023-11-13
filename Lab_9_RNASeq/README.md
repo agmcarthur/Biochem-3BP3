@@ -140,7 +140,7 @@ We are going to use *DESeq2* to both normalize and perform significance tests on
 
 Make sure *Files have header?*, *Generate plots for visualizing the analysis results,* and *Output normalized counts table* are set to **Yes** and then run the analysis: 
 
-![factors](./deseq2b.jpg)
+![factors](./deseq2options.jpg)
 
 *DESeq2* will normalize the data and perform the statistical testing as outlined in the lecture, but it will also create a table of normalized transcript counts that you could export for traditional ANOVA using MeV4 like you performed in the microarray lab.
 
