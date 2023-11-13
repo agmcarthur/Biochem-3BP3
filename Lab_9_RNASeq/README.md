@@ -88,7 +88,7 @@ Use the FastQC tool to examine the quality of some of the RNA-Seq data. As befor
 <a name="clean"></a>
 ## Data Cleaning
 
-Even if the data as a whole passed FASTQC, quality trimming and filtering is still highly recommended to remove or trim individual sequences of poor quality. Convert the data to Galaxy's preferred FASTQ format using *FASTQ Groomer* (default settings) and then run *Trimmomatic* (paired-end with separate input files, plus ILLUMINACLIP with TruSeq3 for paired-end MiSeq or HiSeq) on all the samples, using the *Sample Tracking.xlsx* spreadsheet to keep track of your results. For example:
+Even if the data as a whole passed FASTQC, quality trimming and filtering is still highly recommended to remove or trim individual sequences of poor quality. Convert the data to Galaxy's preferred FASTQ format using *FASTQ Groomer* (default settings) and then run *Trimmomatic* (paired-end with separate input files, plus ILLUMINACLIP with TruSeq3 for paired-end MiSeq or HiSeq) on all the samples, using the [Sample Tracking.xlsx](Sample_Tracking.xlsx) spreadsheet to keep track of your results. For example:
 
 ![trimmomatic](./trimmomatic.jpg)
 
@@ -109,7 +109,7 @@ Perform *HiSAT2* read mapping for each sample, using the hg38 built in reference
 
 > Flash Update - Tn-Seq
 
-Record the results identifiers in the the *Sample Tracking.xlsx* spreadsheet.
+Record the results identifiers in the the [Sample Tracking.xlsx](Sample_Tracking.xlsx) spreadsheet.
 
 **Problem #2. HiSAT2 creates a BAM file that contains the alignment information. Click on the HiSAT2 results for HLE Ctrl 1 replicate and then the *i* icon to access the STDERR. What percentage of read pairs aligned uniquely to one location in the genome and what percentage may represent multiple copy genes? What was the overall alignment rate? Would you say this is a good RNA-Seq data set? Why?**
 
@@ -122,7 +122,7 @@ Perform *htseq-count* on each replicate's *HiSAT2* BAM file, using the *gencode.
 
 ![htseq-count](./htseq-count.jpg)
 
-**Ignore the *(no feature)* results, as these are not mapped to genes**. Record the results identifiers in the the *Sample Tracking.xlsx* spreadsheet.
+**Ignore the *(no feature)* results, as these are not mapped to genes**. Record the results identifiers in the the [Sample Tracking.xlsx](Sample_Tracking.xlsx) spreadsheet.
 
 **Question #3. Examine the results of htseq-count and then using *Filter*, determine how many assembled transcripts were found in the Cadmium and Control collections (give the range covered by the three replicates).**
 
