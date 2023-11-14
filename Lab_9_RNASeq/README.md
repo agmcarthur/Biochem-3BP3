@@ -15,7 +15,7 @@
 
 The goal of this lab is to review the analysis of RNA-Seq data using the public Galaxy platform.
 
-**Lectures** - [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%208%20-%20RNA-Seq.pptx) RNA-Seq, ChIP-Seq, Bisulfite-Seq [video ~x minutes]()
+**Lectures** - [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%208%20-%20RNA-Seq.pptx) RNA-Seq, ChIP-Seq, Bisulfite-Seq [video ~33 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EYLptOl_OmhHs6UHl8lp9ukB8cng0FY6xDau-fzjQg0EGg)
 
 **Flash Updates**
 * *RNA-Seq* 
