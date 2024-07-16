@@ -37,7 +37,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 
 ## Supplementary Videos
 
-*Not official course content for Fall 2023, recorded during Fall 2020, requires McMaster authorized access. Please note, Stream (Classic) is being decommissioned and all videos will be migrated to Stream (on OneDrive and SharePoint) in August, 2023.*
+*Not official course content, recorded during Fall 2020, requires McMaster authorized access. Please note, Stream (Classic) is being decommissioned and all videos will be migrated to Stream (on OneDrive and SharePoint) in August, 2023.*
 
 * Dr. Joanna Wilson, Department of Biology, McMaster University discusses their research program in aquatic toxicology and the role of genomics and bioinformatic in their research, [video ~10 minutes](https://web.microsoftstream.com/video/d8efccec-57d6-4439-ba13-2d5bff4f365b)
 * Dr. Christine Mader, Farncombe Metagenomics DNA Sequencing Core, McMaster University provides an overview of McMaster high-throughput DNA sequencing facility, [video ~72 minutes](https://web.microsoftstream.com/video/8c74bee8-8f96-4bb6-b58a-1e768d7e1e85)
