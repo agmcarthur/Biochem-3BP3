@@ -11,7 +11,7 @@
 
 The goal of this lab is to develop molecular epidemiology skills by examining a *Salmonella* outbreak using genomic data.
 
-**Lectures** - [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%206%20-%20Molecular%20Epidemiology.pptx) Molecular Epidemiology [video ~36 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/ESGGjvDgF-tKl-NbeiL_QIcB0bq71mvEl9_7cEadC0p3bQ)
+**Lectures** - [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%206%20-%20Molecular%20Epidemiology.pptx) Molecular Epidemiology 
 
 **Flash Updates**
 * *SNPs* 
