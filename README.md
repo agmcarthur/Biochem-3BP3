@@ -14,7 +14,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 
 ## Course Schedule 2024
 
-| Week | Dates | Lecture | Tutorial | Flash Updates | Assessments |
+| Week | Dates | Lecture | Tutorial | Flash Updates | Assessment |
 |-----|-----|-----|-----|-----|-----|
 | 1 | September 3, 5, 6 | [Lecture 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Bioinformatics & the Course | **Tours of FHS SeqCore & SHARCNET** | |
 | 2 | September 10, 12, 13 | **Tours of FHS SeqCore & SHARCNET** | [Lab 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_1_Genome_Databases): Introduction to Lab & Genome Databases | GenBank, Ensembl, Growth of Sequencing Data | tutorial |
