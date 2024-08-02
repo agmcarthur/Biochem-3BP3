@@ -28,8 +28,8 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 10 | November 5, 7, 8 | [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Gene Expression Analysis | [Lab 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_8_Microarrays): Microarray Lab (demo) | Microarrays, Normalization, False Discovery |
 | 11 | November 12, 14, 15 | [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): RNA-Seq, ChIP-Seq, Bisulfite-Seq | [Lab 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_9_RNASeq): RNA-Seq | RNA-Seq, Illumina HT-12, Tn-Seq |
 | 12 | November 19, 21, 22 | Guest Lecture: [Dr. Kathleen Houlahan](https://houlahanlab.github.io) | Houlahan Lab | Random Forest, Logistic Regression, Natural Language Processing |
-| 13 | November 26, 28, 29 | [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Advances in DNA Sequencing | | 
-| 14 | December 3 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Genomics of Pandemics | | 
+| 13 | November 26, 28, 29 | [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Advances in DNA Sequencing | | |
+| 14 | December 3 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Genomics of Pandemics | | |
 
 **BONUS LECTURE** (not official course content in 2024): [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data [video ~44 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EQAJiNZwUz5MtWFWj1P7eJABIYYMB86koLiat51DL8Ycew)
 
