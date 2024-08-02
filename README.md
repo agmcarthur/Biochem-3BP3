@@ -22,7 +22,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 4 | September 24, 26, 27 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology, Bonus: [Bayesian Phylogenetics](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EYCAZ2CJGghMoXEFU7YEMTcBDDwCaNTTV6fh8A7UH_CKQQ) | [Lab 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_3_Phylogenetics): Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees |
 | 5 | October 1, 3, 4 | [Lecture 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Beyond the Gene - Networks, Ontologies | [Lab 4](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_4_Ontologies): Ontology and Antimicrobial Resistance | Gene Ontology, KEGG, CARD |
 | 6 | October 8, 10, 11 | TA Research Talk | [Lab 5](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_5_Linux): Linux & Sequencing Informatics (demo) | Sanger Sequencing, FASTA, Linux |
-| 7 | October 15, 17, 18 (mid-term recess) | | | |
+| 7 | October 15, 17, 18 | *mid-term recess* | | |
 | 8 | October 22, 24, 25 | [Lecture 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): DNA Sequencing & Genome Assembly,  Bonus: [De Bruijn graph walkthrough](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/Efjr1LXuDp9MiqUjpzESEzMBMAPkDonE1UrmdA8Bn9O70A) | [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly): Galaxy, FASTQ, Assembly | Illumina Sequencing, FASTQ, Galaxy |
 | 9 | October 29, 31, & November 1 | [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Molecular Epidemiology | [Lab 7](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology): SNP analysis & Molecular Epidemiology | SNPs, Horizontal Gene Transfer, Metagenomics |
 | 10 | November 5, 7, 8 | [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Gene Expression Analysis | [Lab 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_8_Microarrays): Microarray Lab (demo) | Microarrays, Normalization, False Discovery |
@@ -33,6 +33,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 
 **BONUS LECTURE** (not official course content in 2024): [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data [video ~44 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EQAJiNZwUz5MtWFWj1P7eJABIYYMB86koLiat51DL8Ycew)
 
+## Due Dates
 * All assignments are to be submitted to A2L by 11:59 pm on the date the assignment is due unless otherwise stated.
 * The Critical Review is to be submitted to the assessment drop box on A2L by 11:59 pm on October 27, 2024.
 * Throughout the term, each student will give a single 10-minute Flash Update presentation on an assigned topic and must upload their slides to A2L before the start of their tutorial.
