@@ -14,7 +14,7 @@
 
 The goal of this lab is to introduce two key bioinformatics databases – GenBank & Ensembl – plus a few additional online resources.
 
-**Lecture:** [Lecture 1 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) Introduction to Bioinformatics & the Course
+**Lecture:** [Lecture 1 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%201%20-%20Introduction.pptx) Introduction to Bioinformatics & the Course ([~42 minute video](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EbosmwqNKeBHpcVRQMEI0QsBBxIxgC0PS6ZtKGkbMbX_hQ))
 
 **Flash Updates**
 * *GenBank* 

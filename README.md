@@ -16,7 +16,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 
 | Week | Dates | Lecture | Tutorial | Flash Updates | Assessment |
 |-----|-----|-----|-----|-----|-----|
-| 1 | September 3, 5, 6 | [Lecture 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Bioinformatics & the Course | **Tours of FHS SeqCore & Computer Services Unit** | |
+| 1 | September 3, 5, 6 | [Lecture 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Bioinformatics & the Course ([~42 minute video](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EbosmwqNKeBHpcVRQMEI0QsBBxIxgC0PS6ZtKGkbMbX_hQ)) | **Tours of FHS SeqCore & Computer Services Unit** | |
 | 2 | September 10, 12, 13 | **Tours of FHS SeqCore & Computer Services Unit** | [Lab 1](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_1_Genome_Databases): Introduction to Lab & Genome Databases | GenBank, Ensembl, Growth of Sequencing Data | tutorial |
 | 3 | September 17, 19, 20 | [Lecture 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Sequence Similarity & Searching | [Lab 2](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_2_Gene_Finding): Searches, Protein Annotation | BLAST, Pfam, PROSITE | tutorial |
 | 4 | September 24, 26, 27 | [Lecture 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Evolutionary Biology, Bonus: [Bayesian Phylogenetics](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EYCAZ2CJGghMoXEFU7YEMTcBDDwCaNTTV6fh8A7UH_CKQQ) | [Lab 3](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_3_Phylogenetics): Phylogeny Lab | Terminology, Sequence Alignment, Phylogenetic Trees | tutorial |
