@@ -97,7 +97,7 @@ _Map of Japan. Source: Wikipedia_
 
 **Question #3. If you were accessing the deCODE database in Iceland (http://www.decode.com), name three countries that the data could traverse to get to you here in Canada.**
 
-**Question #4. Undersea cables can be broken by dragging ships anchors or ill-positioned fishing trawlers. If you were doing your PhD on the genomics of the Eua Forest Gecko *Lepidodactylus euaensis* in Tonga, how many undersea cables would need to be damaged for you to lose access to the NCBI?**
+**Question #4. Undersea cables can be broken by dragging ships anchors or ill-positioned fishing trawlers. If you were doing your PhD on the genomics of the Eua Forest Gecko *Lepidodactylus euaensis* in Tonga, how many undersea cables would need to be damaged for you to lose access to the NCBI?** (note: demo video discusses French Polynesia instead)
 
 <a name="pubmed"></a>
 ## PubMed
