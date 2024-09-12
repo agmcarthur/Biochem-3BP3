@@ -34,7 +34,7 @@ The goal of this lab is to introduce two key bioinformatics databases – GenBan
 
 **Links**
 * NCBI & GenBank, http://www.ncbi.nlm.nih.gov
-* Ensembl, http://www.ensembl.org
+* Ensembl, https://www.ensembl.org
 
 **Computer Resources**
 * You can complete this entire lab by using your web browser
@@ -166,7 +166,7 @@ Now please edit your BLAST search to find **5000 targets** but filter for **Vert
 
 > Flash Update - Ensembl
 
-The Ensembl database is a joint effort of the European Bioinformatics Institute and The Welcome Trust Sanger Institute. It has its origins in the sequencing of the human genome and was launched in 1999. Unlike NCBI, it is organized around the genome sequencing of specific organisms and the resulting annotation of those genomes. Outside of very browsable data, Ensembl has two major strengths: (1) extensive data downloads in a variety of formats and (2) powerful genome browser tools. This part of the lab is going to focus on use of Ensembl to better understand the genome of the model organism _Danio rerio_ (aka zebrafish). To start, go to the Ensembl home page (http://www.ensembl.org/) and view the full list of all Ensembl species.
+The Ensembl database is a joint effort of the European Bioinformatics Institute and The Welcome Trust Sanger Institute. It has its origins in the sequencing of the human genome and was launched in 1999. Unlike NCBI, it is organized around the genome sequencing of specific organisms and the resulting annotation of those genomes. Outside of very browsable data, Ensembl has two major strengths: (1) extensive data downloads in a variety of formats and (2) powerful genome browser tools. This part of the lab is going to focus on use of Ensembl to better understand the genome of the model organism _Danio rerio_ (aka zebrafish). To start, go to the Ensembl home page (https://www.ensembl.org) and view the full list of all Ensembl species.
 
 **Question #16. Examining the phylogenetic tree, what is the most closely related genome to the zebrafish in Ensembl? Give both the common and scientific name.**
 
