@@ -57,7 +57,7 @@ _Carcharodon carcharias. Source: IUCN Red List of Threatened Species_
 
 Dr. Joanna Wilson (Department of Biology, McMaster University) will introduce *Carcharodon carcharias* (great white shark) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome (see [Introduction to P450s & The Great White Shark](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVlSruy12RBAq5-3kwudtEMBAqWdUvWDiz-4xExGFOvbtw) video). Using query sequences from the zebrafish genome, it is your job to use the BLAST tools and genome browser at NCBI to collectively find all the putative P450 genes in this genome. 
 
-In the class Teams under *Tutorials -> Files* you will find spreadsheets for Group 1 & Group 2 with individually assigned query P450s and columns for notes as you complete the lab. These zebrafish proteins can be found at Ensembl, http://www.ensembl.org.
+In the class Teams under *Files -> Lab 2* you will find spreadsheets for the T01, T02, and T03 tutorials with individually assigned query P450s and columns for notes as you complete the lab. These zebrafish proteins can be found at Ensembl, http://www.ensembl.org.
 
 > Ensembl giving errors? You can also obtain your protein sequence via ZFIN: [demo video](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EZPApFVb-m5EgVW66B8dHMkBcvhk4_4_1Z7ixFpWIkmRQQ)
 
