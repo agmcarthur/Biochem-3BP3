@@ -10,7 +10,7 @@
 
 In this lab we are going to examine the use of ontologies to provide functional interpretation of experimental results as well as to drive genome analytics. Our focus will be on the Gene Ontology and Antibiotic Resistance Ontology.
 
-**Lectures** - [Lecture 4 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%204%20-%20Beyond%20the%20Gene.pptx) Beyond the Gene - Networks, Ontologies
+**Lectures** - [Lecture 4 slides](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%204%20-%20Beyond%20the%20Gene.pptx) Beyond the Gene - Networks, Ontologies ([~35 minute video](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EXEVZSV_zatAnut9gy9cgV4BRTN3nuMoKyj3WVBwgrspKQ))
 
 **Flash Updates**
 * *Gene Ontology* 
