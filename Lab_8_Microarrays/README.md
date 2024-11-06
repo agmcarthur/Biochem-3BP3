@@ -13,7 +13,7 @@
 
 The goal of this lab is to review the analysis of microarray data.
 
-**Lectures** - [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%207%20-%20Gene%20Expression.pptx) Gene Expression Analysis
+**Lectures** - [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Lecture%207%20-%20Gene%20Expression.pptx) Gene Expression Analysis ([~53 minute video](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EVZILkwDnoRNsN2tNnrK2bABvOLJN8yViC0buLAeQNY5ZQ))
 
 **Flash Updates**
 * *Microarrays* 
