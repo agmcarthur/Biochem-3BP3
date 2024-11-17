@@ -135,8 +135,6 @@ Of course, logistic regression is not the only classification model available. T
 
 **Question #5. Which classification algorithm did you choose and why? How did its performance compare to logistic regression?**
 
-**Question #6. Aside from selecting a new algorithm, what other model tuning could you test to improve prediction performance?**
-
 <a name="prediction"></a>
 ## Predicting on Microarray Data
 
