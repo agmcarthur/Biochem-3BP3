@@ -45,19 +45,19 @@ Today’s lab will use the public server of the Galaxy project, http://usegalaxy
 <a name="problem"></a>
 ## The Problem
 
-Breast cancer is a molecularly heterogeneous disease. Treatment decisions are dependent on the presence of three protein receptors: HER2, ER and PR. The presence or absence of these three receptors categorizes tumours into three subtypes. 
+Breast cancer is a molecularly heterogeneous disease. Treatment decisions are dependent on the presence of three protein receptors: [HER2, ER and PR](https://www.cancer.org/cancer/types/breast-cancer/understanding-a-breast-cancer-diagnosis/breast-cancer-hormone-receptor-status.html). The presence or absence of these three receptors categorizes tumours into three subtypes. 
 
 | Subtype | Receptor | Prevalence | Survival (5 year) | Treatment | 
 |----|:----:|:----:|:----:|----|
 | ER+ | ER+ HER2- | 80% |>90% | Hormone therapy | 
 | HER2+ | HER2+ |15-25% |~85% | Anti-HER2 therapy | 
-| TNBC | ER- PR- HER2- |20% |77% | Chemotherapy 
+| Triple Negative (TNBC) | ER- PR- HER2- |20% |77% | Chemotherapy 
 
-We want to build a machine learning model that can differentiate ER+ vs TNBC tumours from transcriptomic profiling (i.e. RNA-sequencing) in order to ensure patients receive the most effective treatment.
+We want to build a machine learning model that can differentiate ER+ versus TNBC tumours from transcriptomic profiling data (i.e., RNA-sequencing) to ensure patients receive the most effective treatment.
 
-**Data:** We are going to be use transcriptomic profiling of 48 genes in 848 tumours which have been clinically defined as ER+ or TNBC. The data can be found on GitHub in the Lab 10 folder: `breast_cancer_rna.txt`. The data is a tab-delimited file where each row corresponds to a tumour and the columns correspond to either the sample ID (`CLID`), the subtype of the tumour (`subtype`) or the mRNA abundance of a gene (e.g. `EGFR`). Here the subtype is encoded as a binary variable where `1 = TNBC` and `0 = ER+`.
+**Data:** We are going to be use transcriptomic profiling of 48 genes in 848 tumours which have been clinically defined as ER+ or TNBC. The data can be found on GitHub in this Lab 10 folder: [breast_cancer_rna.txt](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lab_10_Machine_Learning/breast_cancer_rna.txt). The data is a tab-delimited file where each row corresponds to a tumour and the columns correspond to either the sample ID (`CLID`), the subtype of the tumour (`subtype`) or the mRNA abundance of a gene (e.g., `EGFR`). Here the subtype is encoded as a binary variable where `1 = TNBC` and `0 = ER+`.
 
-**Problem #1. Is the dataset balanced (ER+ vs TNBC)? What do we need to consider when training a model on this dataset?**
+**Problem #1. Is the dataset balanced (ER+ versus TNBC)? What do we need to consider when training a model on this dataset?**
 
 <a name="define"></a>
 ## Defining Training and Testing Sets
@@ -70,7 +70,7 @@ First, we want to set our training and testing cohorts. Here we are going to use
 
 **Note:** Set a random seed. Some steps in machine learning are random and leverage random number generators. For example, randomly splitting cohort into training and testing sets. To ensure someone else can reproduce your analyses, it is important that this randomness is reproducible. You can set a random seed to ensure random number generators are initialized the same way each time. This will ensure even the randomness is reproducible.
 
-**Question #1. What is the ratio of ER vs TNBC tumours in the training dataset? What is the ratio in the testing dataset? How would this differ if we used the non-stratified shuffle strategy?**
+**Question #1. What is the ratio of ER versus TNBC tumours in the training dataset? What is the ratio in the testing dataset? How would this differ if we used the non-stratified shuffle strategy?**
 
 > Flash Update - Logistic regression
 
