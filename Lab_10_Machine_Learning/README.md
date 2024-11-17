@@ -14,7 +14,7 @@
 
 The goal of this lab is to build a machine learning classifier to predict breast cancer subtypes using the public Galaxy platform.
 
-**Lectures** - [Lecture 10]() Introduction to Machine Learning
+**Lectures** - [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Houlahan_MachineLearning.pptx) Introduction to Machine Learning
 
 **Flash Updates**
 * *Random Forest* 
