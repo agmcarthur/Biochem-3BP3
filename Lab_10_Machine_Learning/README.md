@@ -122,7 +122,7 @@ We are evaluating accuracy, so we need to compare our model's predictions agains
 
 **Question #3. What is the accuracy of your model?**
 
-**Problem #3. Is accuracy is best metric to use to evaluate your model? What other metrics would you calculate?** (hint: try adding the additional scoring metrics using the `Additional scoring used in multi-metric mode` dropdown)
+**Problem #3. Is accuracy is best metric to use to evaluate your model? What other metrics would you calculate? Do you think this is a good model?** (hint: try adding the additional scoring metrics using the `Additional scoring used in multi-metric mode` dropdown)
 
 **Question #4. How do the additional metrics compare to accuracy? If they differ, why?**
 
