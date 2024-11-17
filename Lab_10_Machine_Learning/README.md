@@ -87,15 +87,19 @@ Use the **Split Data** tool to create the train and test partitions:
 <a name="training"></a>
 ## Training a Classification Model
 
-We are going to build a classifier using a logistic regression model. A logistic regression model is a type of generalized linear regression that expects the response variable to be binary (0/1). In this case, 1 indicates the tumour is a TNBC tumour, while 0 indicates it a ER+ tumour. 
+We are going to build a classifier using a logistic regression model. A logistic regression model is a type of generalized linear regression that expects the response variable to be binary (0/1), i.e. ER+ versus TNBC tumour.
 
-Train a logistic regression model on the training dataset using the **Generalized Linear Models** tool. Keep in mind **not** to include the sample IDs (e.g. TCGA-XX-XXXX-XX) as a feature in the dataset. We want to train the model to predict subtype on the mRNA abundance of 48 genes.
+Train a logistic regression model on the training dataset using the **Generalized Linear Models** tool. Keep in mind **not** to include the sample IDs (e.g. TCGA-XX-XXXX-XX) as a feature in the dataset as we want to train the model to predict subtype on the mRNA abundance of the 48 genes only.
 
-**Note:** reminder to set the random seed to ensure reproducibility.
+**Note:** Reminder to set the random seed to ensure reproducibility.
 
 ![upload](./figures/step2_training1.png)
 
+In this section, we select the genes as these are the data powering the model to classify cancers:
+
 ![upload](./figures/step2_training2.png)
+
+In this section, we select *subtype* as the binary value to classifying new data (1 indicates a TNBC tumour, 0 indicates it a ER+ tumour):
 
 ![upload](./figures/step2_training3.png)
 
