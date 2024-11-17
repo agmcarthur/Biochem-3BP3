@@ -65,7 +65,7 @@ Here is a glimpse of the data:
 
 <img src="./figures/rawdata.png" width="700">
 
-**Problem #1. Is the dataset balanced (ER+ versus TNBC)? What do we need to consider when training a model on this dataset?**
+**Problem #1. Is the dataset balanced (ER+ versus TNBC)? What do we need to consider when training a model on this dataset?** (hint: try the *Histogram* or *Count* tools)
 
 <a name="define"></a>
 ## Defining Training and Testing Sets
