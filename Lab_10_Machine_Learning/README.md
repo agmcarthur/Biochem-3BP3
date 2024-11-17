@@ -131,11 +131,9 @@ We are evaluating accuracy, so we need to compare our model's predictions agains
 <a name="tuning"></a>
 ## Tuning Classification Models
 
-Of course, logistic regression is not the only classification model available. Try training and testing another classification algorithm using the same steps outlined above.
+Of course, logistic regression is not the only classification model available. Try training and testing one other classification algorithm using the same steps outlined above.
 
 **Question #5. Which classification algorithm did you choose and why? How did its performance compare to logistic regression?**
-
-> Flash Update - Natural Language Processing
 
 **Problem #4. Aside from selecting a new algorithm, what other model tuning could you test to improve prediction performance?**
 
