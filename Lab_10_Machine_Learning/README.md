@@ -12,7 +12,7 @@
 <a name="intro"></a>
 ## Introduction
 
-The goal of this lab is to build a machine learning classifier to predict breast cancer subtypes using the public Galaxy platform.
+The goal of this lab is to build a machine learning classifier to predict breast cancer subtypes based on RNA-Seq data using the public Galaxy platform.
 
 **Lectures** - [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lectures/Houlahan_MachineLearning.pptx) Introduction to Machine Learning
 
@@ -22,11 +22,11 @@ The goal of this lab is to build a machine learning classifier to predict breast
 * *Natural Language Processing* 
 
 **Background Reading** (optional)
-* Whalen et al. 2022. Navigating the pitfalls of machine learning in genomics. [Nat Rev Genet. 23:169-81](https://www.nature.com/articles/s41576-021-00434-9)
-* Thennavan et al. 2021. Molecular analysis of TCGA breast cancer histologic types. [Cell Genomics. 1:100067](https://doi.org/10.1016/j.xgen.2021.100067) 
+* Whalen et al. 2022. Navigating the pitfalls of machine learning in genomics. [Nat Rev Genet. 23:169-81](https://pubmed.ncbi.nlm.nih.gov/34837041/)
+* Thennavan et al. 2021. Molecular analysis of TCGA breast cancer histologic types. [Cell Genomics. 1:100067](https://pubmed.ncbi.nlm.nih.gov/35465400/) 
 
 **Links**
-* http://usegalaxy.org - this lab will be performed using the public Galaxy website, which was introduced in [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly)
+* http://usegalaxy.org - this lab will be performed using the public Galaxy website, which was introduced in [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly) and used for RNA-Seq analysis in [Lab 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_9_RNASeq)
 
 **Computer Resources**
 * You can complete this entire lab by using your web browser
