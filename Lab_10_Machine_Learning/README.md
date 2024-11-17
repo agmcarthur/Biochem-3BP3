@@ -21,6 +21,11 @@ The goal of this lab is to build a machine learning classifier to predict breast
 * *Logistic Regression* 
 * *Natural Language Processing* 
 
+**Demo Videos**
+* [Introduction & Loading Data](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EagU_xmnFD5Pn6lGSYFL448Bw0lRaD6gSFN5av4yrzgaqQ) ~x minutes
+* [Training the Mode](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EYlh8FEw51pPobfSoMDARGkBt0YDnrvruooE4YDScbcqcQ) ~x minutes
+* [Evaluating the Model](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EcvyDqeNePtIllnRFp9Ym8UBsansz15AbB3UkQ2FpIwdNA) ~x minutes
+
 **Background Reading** (optional)
 * Whalen et al. 2022. Navigating the pitfalls of machine learning in genomics. [Nat Rev Genet. 23:169-81](https://pubmed.ncbi.nlm.nih.gov/34837041/)
 * Thennavan et al. 2021. Molecular analysis of TCGA breast cancer histologic types. [Cell Genomics. 1:100067](https://pubmed.ncbi.nlm.nih.gov/35465400/) 
