@@ -72,7 +72,7 @@ Here is a glimpse of the data:
 
 First, we want to set our training and testing cohorts. Here we are going to use 80% of our cohort for training while holding out 20% for testing. 
 
-**Problem #2. Here we are leaving out 20% of the data as a test set. What is another validation method could we use to evaluate our model?**
+**Question #1. Here we are leaving out 20% of the data as a test set. What is another validation method could we use to evaluate our model?**
 
 Use the **Split Data** tool to create the train and test partitions:
 
@@ -80,7 +80,7 @@ Use the **Split Data** tool to create the train and test partitions:
 
 **Note:** Set a random seed. Some steps in machine learning are random and leverage random number generators. For example, randomly splitting cohort into training and testing sets. To ensure someone else can reproduce your analyses, it is important that this randomness is reproducible. You can set a random seed to ensure random number generators are initialized the same way each time. This will ensure even the randomness is reproducible.
 
-**Question #1. What is the ratio of ER versus TNBC tumours in the training dataset? What is the ratio in the testing dataset? How would this differ if we used the non-stratified shuffle strategy?**
+**Problem #2. What is the ratio of ER versus TNBC tumours in the training dataset? What is the ratio in the testing dataset? How would this differ if we used the non-stratified shuffle strategy?**
 
 > Flash Update - Logistic regression
 
