@@ -59,13 +59,11 @@ We want to build a machine learning model that can differentiate ER+ versus TNBC
 
 We are going to be use transcriptomic profiling of 48 genes in 848 tumours which have been clinically defined as ER+ or TNBC. The data can be found on GitHub in this Lab 10 folder: [breast_cancer_rna.txt](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lab_10_Machine_Learning/breast_cancer_rna.txt). The data is a tab-delimited file where each row corresponds to a tumour and the columns correspond to either the sample ID (`CLID`), the subtype of the tumour (`subtype`) or the mRNA abundance of a gene (e.g., `EGFR`). Here the subtype is encoded as a binary variable where `1 = TNBC` and `0 = ER+`. Use the upload tool to add these data to Galaxy:
 
-<img src="./figures/upload.png" width="700">
-
 ![upload](./figures/upload.png)
 
 Here is a glimpse of the data:
 
-<img src="./figures/rawdata.png" width="700">
+![upload](./figures/rawdata.png)
 
 **Problem #1. Is the dataset balanced (ER+ versus TNBC)? What do we need to consider when training a model on this dataset?** (hint: try the **Histogram** or **Count** tools)
 
@@ -78,7 +76,7 @@ First, we want to set our training and testing cohorts. Here we are going to use
 
 Use the **Split Data** tool to create the train and test partitions:
 
-<img src="./figures/step1_data_split.png" width="700">
+![upload](./figures/step1_data_split.png)
 
 **Note:** Set a random seed. Some steps in machine learning are random and leverage random number generators. For example, randomly splitting cohort into training and testing sets. To ensure someone else can reproduce your analyses, it is important that this randomness is reproducible. You can set a random seed to ensure random number generators are initialized the same way each time. This will ensure even the randomness is reproducible.
 
@@ -95,9 +93,11 @@ Train a logistic regression model on the training dataset. Keep in mind **not** 
 
 **Note:** reminder to set the random seed to ensure reproducibility.
 
-<img src="./figures/step2_training1.png" width="700">
-<img src="./figures/step2_training2.png" width="700">
-<img src="./figures/step2_training3.png" width="700">
+![upload](./figures/step2_training1.png)
+
+![upload](./figures/step2_training2.png)
+
+![upload](./figures/step2_training3.png)
 
 **Question #2. What would happen if we accidentally left the sample ids as a feature in the model training?**
 
@@ -106,9 +106,11 @@ Train a logistic regression model on the training dataset. Keep in mind **not** 
 
 Now that we have trained our model on our training set, we want to test it on the held-out 20% test set. Remember to remove the sample ID and subtype columns when predicting on the test set.
 
-<img src="./figures/step3_testing1.png" width="700">
-<img src="./figures/step3_testing2.png" width="700">
-<img src="./figures/step3_testing3.png" width="700">
+![upload](./figures/step3_testing1.png)
+
+![upload](./figures/step3_testing2.png)
+
+![upload](./figures/step3_testing3.png)
 
 **Question #3. What is the accuracy of your model?**
 
