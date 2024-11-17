@@ -135,7 +135,7 @@ Of course, logistic regression is not the only classification model available. T
 
 **Question #5. Which classification algorithm did you choose and why? How did its performance compare to logistic regression?**
 
-**Problem #4. Aside from selecting a new algorithm, what other model tuning could you test to improve prediction performance?**
+**Question #6. Aside from selecting a new algorithm, what other model tuning could you test to improve prediction performance?**
 
 <a name="prediction"></a>
 ## Predicting on Microarray Data
@@ -146,4 +146,4 @@ In our case, we are going to apply our model, trained on RNA-sequencing, to pred
 
 Using the same approach as outlined in `Evaluating a Classification Model`, evaluate your final prediction model (either the logistic regression model or the model you trained in `Tuning Classification Models`) on the independent microarray data.
 
-**Problem #5. How well did your model perform on the microarray data? What are some factors that may influence model performance?**
+**Problem #4. How well did your model perform on the microarray data? What are some factors that may influence model performance?**
