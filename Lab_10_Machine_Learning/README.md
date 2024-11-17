@@ -60,6 +60,7 @@ We want to build a machine learning model that can differentiate ER+ versus TNBC
 We are going to be use transcriptomic profiling of 48 genes in 848 tumours which have been clinically defined as ER+ or TNBC. The data can be found on GitHub in this Lab 10 folder: [breast_cancer_rna.txt](https://github.com/agmcarthur/Biochem-3BP3/blob/master/Lab_10_Machine_Learning/breast_cancer_rna.txt). The data is a tab-delimited file where each row corresponds to a tumour and the columns correspond to either the sample ID (`CLID`), the subtype of the tumour (`subtype`) or the mRNA abundance of a gene (e.g., `EGFR`). Here the subtype is encoded as a binary variable where `1 = TNBC` and `0 = ER+`. Use the upload tool to add these data to Galaxy:
 
 <img src="./figures/upload.png" width="700">
+![upload](./figures/upload.png)
 
 Here is a glimpse of the data:
 
