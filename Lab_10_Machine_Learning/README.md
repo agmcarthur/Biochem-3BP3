@@ -65,7 +65,7 @@ Here is a glimpse of the data:
 
 <img src="./figures/rawdata.png" width="700">
 
-**Problem #1. Is the dataset balanced (ER+ versus TNBC)? What do we need to consider when training a model on this dataset?** (hint: try the *Histogram* or *Count* tools)
+**Problem #1. Is the dataset balanced (ER+ versus TNBC)? What do we need to consider when training a model on this dataset?** (hint: try the **Histogram** or **Count** tools)
 
 <a name="define"></a>
 ## Defining Training and Testing Sets
@@ -73,6 +73,8 @@ Here is a glimpse of the data:
 First, we want to set our training and testing cohorts. Here we are going to use 80% of our cohort for training while holding out 20% for testing. 
 
 **Problem #2. Here we are leaving out 20% of the data as a test set. What is another validation method could we use to evaluate our model?**
+
+Use the **Split Data** tool to create the train and test partitions:
 
 <img src="./figures/step1_data_split.png" width="700">
 
