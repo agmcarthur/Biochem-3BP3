@@ -62,7 +62,7 @@ We want to build a machine learning model that can differentiate ER+ versus TNBC
 <a name="define"></a>
 ## Defining Training and Testing Sets
 
-First, we want to set our training and testing cohorts. Here we are going to use 80% of our cohort for training while holding our 20% for testing. 
+First, we want to set our training and testing cohorts. Here we are going to use 80% of our cohort for training while holding out 20% for testing. 
 
 **Problem #2. Here we are leaving out 20% of the data as a test set. What is another validation method could we use to evaluate our model?**
 
