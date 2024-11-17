@@ -108,11 +108,15 @@ In this section, we select *subtype* as the binary value to classifying new data
 <a name="testing"></a>
 ## Evaluating a Classification Model
 
-Now that we have trained our model on our training set, we want to test it on the held-out 20% test set. Remember to remove the sample ID and subtype columns when predicting on the test set.
+Now that we have trained our model on our training set, we want to test it on the held-out 20% test set using the **Evaluate a Fitted Model** tool. Remember to remove the sample ID and subtype columns when predicting on the test set.
 
 ![upload](./figures/step3_testing1.png)
 
+In this section, we select the genes as these are the data the model is evaluating to classify the cancer samples:
+
 ![upload](./figures/step3_testing2.png)
+
+We are evaluating accuracy, so we need to compare our model's predictions against the clinical *subtype* labels:
 
 ![upload](./figures/step3_testing3.png)
 
