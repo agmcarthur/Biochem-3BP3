@@ -31,7 +31,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 13 | November 26, 28, 29 | [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Advances in DNA Sequencing ([~31 minute video](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/Ec0Vsa-1vEFNhdMfeSKwlIQBSEqs_gUXU2lwJd-aK0gkMA)) | | | lecture quiz |
 | 14 | December 3 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Genomics of Pandemics | | | lecture quiz |
 
-**BONUS LECTURE** (not official course content in 2024): [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data [video ~44 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EQAJiNZwUz5MtWFWj1P7eJABIYYMB86koLiat51DL8Ycew)
+**BONUS LECTURE** (not official course content in 2024): [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data [video ~44 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EQAJiNZwUz5MtWFWj1P7eJABIYYMB86koLiat51DL8Ycew) (*recorded in 2023*)
 
 ## Due Dates
 * All assignments are to be submitted to A2L by 11:59 pm on the date the assignment is due unless otherwise stated.
