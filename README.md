@@ -12,7 +12,7 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 
 > This GitHub repository only contains material developed by [Dr. McArthur](http://mcarthurbioinformatics.ca) and [Dr. Houlahan](https://houlahanlab.github.io/) directly and does not include guest lectures, student generated content, or course documents. These are only available to registered students via Avenue to Learn. In addition, some of the exercises require password access to class servers, available to registered students only. These can be provided by request for undergraduate and graduate students in Biochemistry & Biomedical Sciences, the Michael G. DeGroote Institute for Infectious Disease Research, or other affiliated programs. Please see [License and Copyright information](https://github.com/agmcarthur/Biochem-3BP3/blob/master/LICENSE).
 
-## Course Schedule 2024
+## Course Schedule 2025
 
 | Week | Dates | Lecture | Tutorial | Flash Updates | Assessment |
 |-----|-----|-----|-----|-----|-----|
