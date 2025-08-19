@@ -25,18 +25,33 @@ https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=
 | 7 | October 14, 15, 16 | *mid-term recess* | | |
 | 8 | October 21, 22, 23 | [Lecture 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): DNA Sequencing & Genome Assembly,  Bonus: [De Bruijn graph walkthrough](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/Efjr1LXuDp9MiqUjpzESEzMBMAPkDonE1UrmdA8Bn9O70A) | [Lab 6](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_6_Genome_Assembly): Galaxy, FASTQ, Assembly | Illumina Sequencing, FASTQ, Galaxy | tutorial, Flash Updates |
 | 9 | October 28, 29, 30 | [Lecture 7](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Molecular Epidemiology | [Lab 7](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_7_Epidemiology): SNP analysis & Molecular Epidemiology | SNPs, Horizontal Gene Transfer, Metagenomics | tutorial, Flash Updates |
-| 10 | November 4, 5, 6 | [Lecture 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Gene Expression Analysis | [Lab 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_8_Microarrays): Microarray Lab (demo) | Microarrays, Normalization, False Discovery | Flash Updates | 
+| 10 | November 4, 5, 6 | Lecture 8: Gene Expression Analysis ([Dr. Sam Wilson](https://www.wilsonpregnancylab.com/author/dr.-samantha-l.-wilson/)) | [Lab 8](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_8_Microarrays): Microarray Lab (demo) | Microarrays, Normalization, False Discovery | Flash Updates | 
 | 11 | November 11, 12, 13 | [Lecture 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): RNA-Seq, ChIP-Seq, Bisulfite-Seq | [Lab 9](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lab_9_RNASeq): RNA-Seq | RNA-Seq, Illumina HT-12, Tn-Seq | tutorial, Flash Updates |
-| 12 | November 18, 19, 20 | Guest Lecture | Lab 10: TBD | Random Forest, Logistic Regression, Natural Language Processing | lecture quiz, tutorial, Flash Updates |
-| 13 | November 25, 26, 27 | [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Advances in DNA Sequencing | | | lecture quiz |
-| 14 | December 3 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Genomics of Pandemics | | | lecture quiz |
+| 12 | November 18, 19, 20 | [Lecture 10](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Introduction to Machine Learning | Lab 10: TBD | Random Forest, Logistic Regression, Natural Language Processing | lecture quiz, tutorial, Flash Updates |
+| 13 | November 25, 26, 27 | [Lecture 11](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Advances in DNA Sequencing | | | lecture quiz |
+| 14 | December 2 | Lecture 12: Genomics of Pandemics ([Dr. Andrew McArthur](http://mcarthurbioinformatics.ca)) | | | lecture quiz |
 
-**BONUS LECTURE** (not official course content in 2025): [Lecture 12](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data [video ~44 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EQAJiNZwUz5MtWFWj1P7eJABIYYMB86koLiat51DL8Ycew)
+**BONUS LECTURE** (not official course content in 2025): [Lecture 13](https://github.com/agmcarthur/Biochem-3BP3/tree/master/Lectures): Internet of Things & Big Data [video ~44 minutes](https://mcmasteru365-my.sharepoint.com/:v:/g/personal/mcarthua_mcmaster_ca/EQAJiNZwUz5MtWFWj1P7eJABIYYMB86koLiat51DL8Ycew)
 
 ## Due Dates
 * All assignments are to be submitted to A2L by 11:59 pm on the date the assignment is due unless otherwise stated.
 * The Critical Review is to be submitted to the assessment drop box on A2L by 11:59 pm on October 26, 2025.
 * Throughout the term, each student will give a single 10-minute Flash Update presentation on an assigned topic and must upload their slides to A2L before the start of their tutorial.
+
+## Supplementary Videos
+
+*Not official course content, recorded during Fall 2020, requires McMaster authorized access. Please note, Stream (Classic) is being decommissioned and all videos will be migrated to Stream (on OneDrive and SharePoint) in August, 2023.*
+
+* Dr. Joanna Wilson, Department of Biology, McMaster University discusses their research program in aquatic toxicology and the role of genomics and bioinformatic in their research, [video ~10 minutes](https://web.microsoftstream.com/video/d8efccec-57d6-4439-ba13-2d5bff4f365b)
+* Dr. Christine Mader, Farncombe Metagenomics DNA Sequencing Core, McMaster University provides an overview of McMaster high-throughput DNA sequencing facility, [video ~72 minutes](https://web.microsoftstream.com/video/8c74bee8-8f96-4bb6-b58a-1e768d7e1e85)
+* Mark Hahn, SHARCNET/Digital Alliance provides an overview of the SHARCNET high-performance computing platform, [video ~50 minutes](https://web.microsoftstream.com/video/3b619d7c-c31e-434e-b6d2-b8579e441145)
+* Dr. Robyn Lee, Dalla Lana School of Public Health discusses critical infectious disease analyses in the Canadian north, [video ~7 minutes](https://web.microsoftstream.com/video/8a04da03-951c-42cb-8059-53be0012d1b4)
+* Dr. Fiona Whelan, University of Nottingham discusses genomics and bioinformatics of the human microbiome, [video ~6 minutes](https://web.microsoftstream.com/video/8ff9ee66-8892-4041-99ae-6d1a8f4333be)
+* Dr. Guillaume Paré, Population Health Research Institute, McMaster University discusses exome sequencing and the genetics of cardiovascular disease, [video ~17 minutes](https://web.microsoftstream.com/video/83533954-b7ca-44e9-be83-61e833106c23)
+* Dr. Shawn Hercules, Department of Biology McMaster University discusses the genetic underpinnings of triple negative breast cancer, [video ~56 minutes](https://web.microsoftstream.com/video/36f73c78-b3b9-4b4e-8145-3cbed5a0e09b)
+* Drs. Michael Chong & Ricky Lali, Population Health Research Institute, McMaster University discuss genome-wide association and cardiovascular disease, [video ~95 minutes](https://web.microsoftstream.com/video/dfb7c46e-ce4e-4657-951b-54d51a231262)
+* Dr. Sandrine Moreira, National de Santé Publique du Québec discusses implementation of microbial genomics in a public health lab [video ~50 minutes](https://web.microsoftstream.com/video/b3d8eb8c-52a9-4a6f-8f30-9f89efd49e2f)
+* Dr. Kara Tsang, London School of Hygiene & Tropical Medicine discusses analytics and machine learning to predict antimicrobial resistance [video ~50 minutes](https://web.microsoftstream.com/video/9cffd333-8cca-4db1-a17c-884963dcc009)
 
 ## Flash Updates
 
